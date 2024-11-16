@@ -136,3 +136,4 @@ node scripts/control.js
 - visuals: hotfix: broken table formatting
 - feat: add core strategy description
 - visuals: add visual diagram for arbitrage flow
+- docs: refactor README sections for clarity
