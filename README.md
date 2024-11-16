@@ -134,3 +134,4 @@ node scripts/control.js
 - visuals: docs: improve quick start guide
 - refactor: refactor README sections for clarity
 - visuals: hotfix: broken table formatting
+- feat: add core strategy description
