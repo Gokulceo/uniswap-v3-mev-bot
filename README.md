@@ -131,3 +131,4 @@ node scripts/control.js
 - hotfix: feat: add profit model table
 - fix: fix: adjust link to Curve docs
 - docs: fix: adjust link to Curve docs
+- visuals: docs: improve quick start guide
