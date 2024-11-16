@@ -132,3 +132,4 @@ node scripts/control.js
 - fix: fix: adjust link to Curve docs
 - docs: fix: adjust link to Curve docs
 - visuals: docs: improve quick start guide
+- refactor: refactor README sections for clarity
