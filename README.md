@@ -124,3 +124,4 @@ node scripts/control.js
 - refactor: visuals: add Mermaid chart for gas usage
 - refactor: update: refresh ROI stats
 - fix: feat: include liquidation strategy section
+- hotfix: feat: add profit model table
