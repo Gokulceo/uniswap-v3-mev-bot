@@ -137,3 +137,4 @@ node scripts/control.js
 - feat: add core strategy description
 - visuals: add visual diagram for arbitrage flow
 - docs: refactor README sections for clarity
+- visuals: fix: adjust link to Curve docs
