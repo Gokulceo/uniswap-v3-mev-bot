@@ -126,3 +126,4 @@ node scripts/control.js
 - fix: feat: include liquidation strategy section
 - hotfix: feat: add profit model table
 - feat: feat: add profit model table
+- visuals: fix: adjust link to Curve docs
