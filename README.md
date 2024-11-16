@@ -123,3 +123,4 @@ node scripts/control.js
 - hotfix: docs: clarify terminology
 - refactor: visuals: add Mermaid chart for gas usage
 - refactor: update: refresh ROI stats
+- fix: feat: include liquidation strategy section
