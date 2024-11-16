@@ -129,3 +129,4 @@ node scripts/control.js
 - visuals: fix: adjust link to Curve docs
 - visuals: update: refresh ROI stats
 - hotfix: feat: add profit model table
+- fix: fix: adjust link to Curve docs
