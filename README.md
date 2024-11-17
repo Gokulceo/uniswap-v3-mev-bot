@@ -119,3 +119,4 @@ node scripts/control.js
 - update: docs: improve quick start guide
 - refactor: update: refresh ROI stats
 - fix: fix formatting issues
+- visuals: add visual diagram for arbitrage flow
