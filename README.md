@@ -122,3 +122,4 @@ node scripts/control.js
 - visuals: add visual diagram for arbitrage flow
 - hotfix: docs: clarify terminology
 - refactor: visuals: add Mermaid chart for gas usage
+- refactor: update: refresh ROI stats
