@@ -120,3 +120,4 @@ node scripts/control.js
 - refactor: update: refresh ROI stats
 - fix: fix formatting issues
 - visuals: add visual diagram for arbitrage flow
+- hotfix: docs: clarify terminology
