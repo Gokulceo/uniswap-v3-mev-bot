@@ -115,3 +115,4 @@ node scripts/deploy.js --network arbitrum
 node scripts/control.js
 ```
 
+- fix: update gas cost benchmarks
