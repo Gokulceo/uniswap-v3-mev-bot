@@ -139,3 +139,5 @@ node scripts/control.js
 - docs: refactor README sections for clarity
 - visuals: fix: adjust link to Curve docs
 - update: update: refresh ROI stats
+- chore: add visual diagram for arbitrage flow
+- oops: update: refresh ROI stats
