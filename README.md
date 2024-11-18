@@ -141,3 +141,4 @@ node scripts/control.js
 - update: update: refresh ROI stats
 - chore: add visual diagram for arbitrage flow
 - oops: update: refresh ROI stats
+- oops: add visual diagram for arbitrage flow
