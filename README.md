@@ -329,3 +329,4 @@ node scripts/control.js
 - fix: fix formatting issues
 - feat: update Arbitrum sequencer stress-test notes
 - update: improve quick start guide
+- feat: update Arbitrum sequencer stress-test notes
