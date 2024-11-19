@@ -330,3 +330,4 @@ node scripts/control.js
 - feat: update Arbitrum sequencer stress-test notes
 - update: improve quick start guide
 - feat: update Arbitrum sequencer stress-test notes
+- chore: improve quick start guide
