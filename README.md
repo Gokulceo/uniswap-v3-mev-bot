@@ -331,3 +331,4 @@ node scripts/control.js
 - update: improve quick start guide
 - feat: update Arbitrum sequencer stress-test notes
 - chore: improve quick start guide
+- hotfix: update gas cost benchmarks
