@@ -143,3 +143,4 @@ node scripts/control.js
 - oops: update: refresh ROI stats
 - oops: add visual diagram for arbitrage flow
 - hotfix: refactor README sections for clarity
+- hotfix: visuals: add Mermaid chart for gas usage
