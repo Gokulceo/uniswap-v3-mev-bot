@@ -332,3 +332,4 @@ node scripts/control.js
 - feat: update Arbitrum sequencer stress-test notes
 - chore: improve quick start guide
 - hotfix: update gas cost benchmarks
+- update: include liquidation strategy section
