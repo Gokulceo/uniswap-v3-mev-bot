@@ -333,3 +333,4 @@ node scripts/control.js
 - chore: improve quick start guide
 - hotfix: update gas cost benchmarks
 - update: include liquidation strategy section
+- chore: add Mermaid chart for gas usage
