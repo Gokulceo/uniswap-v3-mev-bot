@@ -145,3 +145,4 @@ node scripts/control.js
 - hotfix: refactor README sections for clarity
 - hotfix: visuals: add Mermaid chart for gas usage
 - hotfix: feat: add profit model table
+- refactor: update: refresh ROI stats
