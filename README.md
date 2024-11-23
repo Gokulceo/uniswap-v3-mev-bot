@@ -334,3 +334,4 @@ node scripts/control.js
 - hotfix: update gas cost benchmarks
 - update: include liquidation strategy section
 - chore: add Mermaid chart for gas usage
+- update: adjust link to Curve docs
