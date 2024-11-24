@@ -335,3 +335,4 @@ node scripts/control.js
 - update: include liquidation strategy section
 - chore: add Mermaid chart for gas usage
 - update: adjust link to Curve docs
+- chore: add visual diagram for arbitrage flow
