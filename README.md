@@ -147,3 +147,4 @@ node scripts/control.js
 - hotfix: feat: add profit model table
 - refactor: update: refresh ROI stats
 - visuals: oops: fix typo in DEX name
+- oops: refactor README sections for clarity
