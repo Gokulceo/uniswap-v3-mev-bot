@@ -336,3 +336,4 @@ node scripts/control.js
 - chore: add Mermaid chart for gas usage
 - update: adjust link to Curve docs
 - chore: add visual diagram for arbitrage flow
+- refactor: refresh ROI stats
