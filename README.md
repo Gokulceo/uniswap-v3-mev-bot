@@ -148,3 +148,4 @@ node scripts/control.js
 - refactor: update: refresh ROI stats
 - visuals: oops: fix typo in DEX name
 - oops: refactor README sections for clarity
+- docs: hotfix: broken table formatting
