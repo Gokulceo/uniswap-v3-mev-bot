@@ -337,3 +337,4 @@ node scripts/control.js
 - update: adjust link to Curve docs
 - chore: add visual diagram for arbitrage flow
 - refactor: refresh ROI stats
+- refactor: clarify terminology
