@@ -149,3 +149,4 @@ node scripts/control.js
 - visuals: oops: fix typo in DEX name
 - oops: refactor README sections for clarity
 - docs: hotfix: broken table formatting
+- feat: update gas cost benchmarks
