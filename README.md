@@ -338,3 +338,4 @@ node scripts/control.js
 - chore: add visual diagram for arbitrage flow
 - refactor: refresh ROI stats
 - refactor: clarify terminology
+- refactor: refresh ROI stats
