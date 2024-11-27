@@ -150,3 +150,4 @@ node scripts/control.js
 - oops: refactor README sections for clarity
 - docs: hotfix: broken table formatting
 - feat: update gas cost benchmarks
+- visuals: docs: improve quick start guide
