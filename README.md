@@ -151,3 +151,4 @@ node scripts/control.js
 - docs: hotfix: broken table formatting
 - feat: update gas cost benchmarks
 - visuals: docs: improve quick start guide
+- oops: feat: include liquidation strategy section
