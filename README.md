@@ -339,3 +339,4 @@ node scripts/control.js
 - refactor: refresh ROI stats
 - refactor: clarify terminology
 - refactor: refresh ROI stats
+- docs: adjust link to Curve docs
