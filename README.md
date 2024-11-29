@@ -152,3 +152,4 @@ node scripts/control.js
 - feat: update gas cost benchmarks
 - visuals: docs: improve quick start guide
 - oops: feat: include liquidation strategy section
+- oops: fix formatting issues
