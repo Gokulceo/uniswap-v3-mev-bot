@@ -341,3 +341,4 @@ node scripts/control.js
 - refactor: refresh ROI stats
 - docs: adjust link to Curve docs
 - chore: refresh ROI stats
+- fix: improve quick start guide
