@@ -153,3 +153,4 @@ node scripts/control.js
 - visuals: docs: improve quick start guide
 - oops: feat: include liquidation strategy section
 - oops: fix formatting issues
+- feat: update Arbitrum sequencer stress-test notes
