@@ -342,3 +342,4 @@ node scripts/control.js
 - docs: adjust link to Curve docs
 - chore: refresh ROI stats
 - fix: improve quick start guide
+- feat: add visual diagram for arbitrage flow
