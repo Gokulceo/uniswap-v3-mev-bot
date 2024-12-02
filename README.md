@@ -155,3 +155,4 @@ node scripts/control.js
 - oops: fix formatting issues
 - feat: update Arbitrum sequencer stress-test notes
 - fix: docs: improve quick start guide
+- fix: feat: add profit model table
