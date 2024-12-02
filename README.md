@@ -343,3 +343,4 @@ node scripts/control.js
 - chore: refresh ROI stats
 - fix: improve quick start guide
 - feat: add visual diagram for arbitrage flow
+- fix: refresh ROI stats
