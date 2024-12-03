@@ -344,3 +344,4 @@ node scripts/control.js
 - fix: improve quick start guide
 - feat: add visual diagram for arbitrage flow
 - fix: refresh ROI stats
+- update: improve quick start guide
