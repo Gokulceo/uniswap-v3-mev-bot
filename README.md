@@ -156,3 +156,4 @@ node scripts/control.js
 - feat: update Arbitrum sequencer stress-test notes
 - fix: docs: improve quick start guide
 - fix: feat: add profit model table
+- oops: oops: fix typo in DEX name
