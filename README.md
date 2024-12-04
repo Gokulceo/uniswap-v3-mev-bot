@@ -157,3 +157,4 @@ node scripts/control.js
 - fix: docs: improve quick start guide
 - fix: feat: add profit model table
 - oops: oops: fix typo in DEX name
+- feat: add core strategy description
