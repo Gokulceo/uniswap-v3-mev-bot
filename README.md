@@ -345,3 +345,4 @@ node scripts/control.js
 - feat: add visual diagram for arbitrage flow
 - fix: refresh ROI stats
 - update: improve quick start guide
+- hotfix: add core strategy description
