@@ -158,3 +158,4 @@ node scripts/control.js
 - fix: feat: add profit model table
 - oops: oops: fix typo in DEX name
 - feat: add core strategy description
+- chore: update Arbitrum sequencer stress-test notes
