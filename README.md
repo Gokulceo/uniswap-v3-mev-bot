@@ -159,3 +159,4 @@ node scripts/control.js
 - oops: oops: fix typo in DEX name
 - feat: add core strategy description
 - chore: update Arbitrum sequencer stress-test notes
+- refactor: fix formatting issues
