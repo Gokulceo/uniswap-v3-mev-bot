@@ -347,3 +347,4 @@ node scripts/control.js
 - update: improve quick start guide
 - hotfix: add core strategy description
 - chore: refactor README sections for clarity
+- feat: fix formatting issues
