@@ -160,3 +160,4 @@ node scripts/control.js
 - feat: add core strategy description
 - chore: update Arbitrum sequencer stress-test notes
 - refactor: fix formatting issues
+- refactor: update: refresh ROI stats
