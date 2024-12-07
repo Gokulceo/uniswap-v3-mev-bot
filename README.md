@@ -348,3 +348,4 @@ node scripts/control.js
 - hotfix: add core strategy description
 - chore: refactor README sections for clarity
 - feat: fix formatting issues
+- chore: adjust link to Curve docs
