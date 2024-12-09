@@ -350,3 +350,4 @@ node scripts/control.js
 - feat: fix formatting issues
 - chore: adjust link to Curve docs
 - update: refresh ROI stats
+- update: add core strategy description
