@@ -162,3 +162,4 @@ node scripts/control.js
 - refactor: fix formatting issues
 - refactor: update: refresh ROI stats
 - oops: feat: include liquidation strategy section
+- feat: hotfix: broken table formatting
