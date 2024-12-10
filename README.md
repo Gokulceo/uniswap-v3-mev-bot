@@ -351,3 +351,4 @@ node scripts/control.js
 - chore: adjust link to Curve docs
 - update: refresh ROI stats
 - update: add core strategy description
+- visuals: refactor README sections for clarity
