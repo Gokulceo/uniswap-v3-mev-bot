@@ -352,3 +352,4 @@ node scripts/control.js
 - update: refresh ROI stats
 - update: add core strategy description
 - visuals: refactor README sections for clarity
+- fix: update Arbitrum sequencer stress-test notes
