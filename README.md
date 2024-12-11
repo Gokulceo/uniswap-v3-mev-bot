@@ -164,3 +164,4 @@ node scripts/control.js
 - oops: feat: include liquidation strategy section
 - feat: hotfix: broken table formatting
 - visuals: docs: improve quick start guide
+- refactor: hotfix: broken table formatting
