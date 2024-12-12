@@ -353,3 +353,4 @@ node scripts/control.js
 - update: add core strategy description
 - visuals: refactor README sections for clarity
 - fix: update Arbitrum sequencer stress-test notes
+- hotfix: refresh ROI stats
