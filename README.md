@@ -165,3 +165,4 @@ node scripts/control.js
 - feat: hotfix: broken table formatting
 - visuals: docs: improve quick start guide
 - refactor: hotfix: broken table formatting
+- fix: fix formatting issues
