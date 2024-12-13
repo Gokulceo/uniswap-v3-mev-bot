@@ -166,3 +166,4 @@ node scripts/control.js
 - visuals: docs: improve quick start guide
 - refactor: hotfix: broken table formatting
 - fix: fix formatting issues
+- update: fix: adjust link to Curve docs
