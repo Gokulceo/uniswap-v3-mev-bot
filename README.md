@@ -167,3 +167,4 @@ node scripts/control.js
 - refactor: hotfix: broken table formatting
 - fix: fix formatting issues
 - update: fix: adjust link to Curve docs
+- feat: refactor README sections for clarity
