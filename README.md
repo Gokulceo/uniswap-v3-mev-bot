@@ -355,3 +355,4 @@ node scripts/control.js
 - fix: update Arbitrum sequencer stress-test notes
 - hotfix: refresh ROI stats
 - docs: fix typo in DEX name
+- fix: clarify terminology
