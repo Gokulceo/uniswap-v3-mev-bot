@@ -356,3 +356,4 @@ node scripts/control.js
 - hotfix: refresh ROI stats
 - docs: fix typo in DEX name
 - fix: clarify terminology
+- feat: refactor README sections for clarity
