@@ -168,3 +168,4 @@ node scripts/control.js
 - fix: fix formatting issues
 - update: fix: adjust link to Curve docs
 - feat: refactor README sections for clarity
+- update: hotfix: broken table formatting
