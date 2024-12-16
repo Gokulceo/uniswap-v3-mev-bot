@@ -357,3 +357,4 @@ node scripts/control.js
 - docs: fix typo in DEX name
 - fix: clarify terminology
 - feat: refactor README sections for clarity
+- update: add visual diagram for arbitrage flow
