@@ -169,3 +169,4 @@ node scripts/control.js
 - update: fix: adjust link to Curve docs
 - feat: refactor README sections for clarity
 - update: hotfix: broken table formatting
+- hotfix: update gas cost benchmarks
