@@ -170,3 +170,4 @@ node scripts/control.js
 - feat: refactor README sections for clarity
 - update: hotfix: broken table formatting
 - hotfix: update gas cost benchmarks
+- docs: docs: clarify terminology
