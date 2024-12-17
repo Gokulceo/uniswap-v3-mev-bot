@@ -358,3 +358,4 @@ node scripts/control.js
 - fix: clarify terminology
 - feat: refactor README sections for clarity
 - update: add visual diagram for arbitrage flow
+- visuals: refactor README sections for clarity
