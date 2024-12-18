@@ -359,3 +359,4 @@ node scripts/control.js
 - feat: refactor README sections for clarity
 - update: add visual diagram for arbitrage flow
 - visuals: refactor README sections for clarity
+- visuals: add visual diagram for arbitrage flow
