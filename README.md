@@ -171,3 +171,4 @@ node scripts/control.js
 - update: hotfix: broken table formatting
 - hotfix: update gas cost benchmarks
 - docs: docs: clarify terminology
+- fix: add visual diagram for arbitrage flow
