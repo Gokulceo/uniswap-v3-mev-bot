@@ -360,3 +360,4 @@ node scripts/control.js
 - update: add visual diagram for arbitrage flow
 - visuals: refactor README sections for clarity
 - visuals: add visual diagram for arbitrage flow
+- oops: update Arbitrum sequencer stress-test notes
