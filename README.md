@@ -173,3 +173,4 @@ node scripts/control.js
 - docs: docs: clarify terminology
 - fix: add visual diagram for arbitrage flow
 - docs: refactor README sections for clarity
+- refactor: refactor README sections for clarity
