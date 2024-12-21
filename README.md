@@ -174,3 +174,4 @@ node scripts/control.js
 - fix: add visual diagram for arbitrage flow
 - docs: refactor README sections for clarity
 - refactor: refactor README sections for clarity
+- feat: hotfix: broken table formatting
