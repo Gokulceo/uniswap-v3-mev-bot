@@ -362,3 +362,4 @@ node scripts/control.js
 - visuals: add visual diagram for arbitrage flow
 - oops: update Arbitrum sequencer stress-test notes
 - refactor: improve quick start guide
+- visuals: include liquidation strategy section
