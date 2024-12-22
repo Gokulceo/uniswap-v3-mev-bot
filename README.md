@@ -363,3 +363,4 @@ node scripts/control.js
 - oops: update Arbitrum sequencer stress-test notes
 - refactor: improve quick start guide
 - visuals: include liquidation strategy section
+- hotfix: include liquidation strategy section
