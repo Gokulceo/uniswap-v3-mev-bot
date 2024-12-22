@@ -175,3 +175,4 @@ node scripts/control.js
 - docs: refactor README sections for clarity
 - refactor: refactor README sections for clarity
 - feat: hotfix: broken table formatting
+- fix: update Arbitrum sequencer stress-test notes
