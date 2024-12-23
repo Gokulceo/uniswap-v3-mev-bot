@@ -364,3 +364,4 @@ node scripts/control.js
 - refactor: improve quick start guide
 - visuals: include liquidation strategy section
 - hotfix: include liquidation strategy section
+- hotfix: add Mermaid chart for gas usage
