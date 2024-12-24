@@ -177,3 +177,4 @@ node scripts/control.js
 - feat: hotfix: broken table formatting
 - fix: update Arbitrum sequencer stress-test notes
 - fix: fix formatting issues
+- chore: feat: include liquidation strategy section
