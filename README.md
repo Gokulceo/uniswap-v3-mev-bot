@@ -366,3 +366,4 @@ node scripts/control.js
 - hotfix: include liquidation strategy section
 - hotfix: add Mermaid chart for gas usage
 - visuals: refresh ROI stats
+- fix: add profit model table
