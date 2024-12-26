@@ -367,3 +367,4 @@ node scripts/control.js
 - hotfix: add Mermaid chart for gas usage
 - visuals: refresh ROI stats
 - fix: add profit model table
+- fix: fix formatting issues
