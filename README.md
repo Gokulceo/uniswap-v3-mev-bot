@@ -179,3 +179,4 @@ node scripts/control.js
 - fix: fix formatting issues
 - chore: feat: include liquidation strategy section
 - feat: fix: adjust link to Curve docs
+- hotfix: hotfix: broken table formatting
