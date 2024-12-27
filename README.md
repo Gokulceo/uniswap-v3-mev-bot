@@ -180,3 +180,4 @@ node scripts/control.js
 - chore: feat: include liquidation strategy section
 - feat: fix: adjust link to Curve docs
 - hotfix: hotfix: broken table formatting
+- feat: add core strategy description
