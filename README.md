@@ -368,3 +368,4 @@ node scripts/control.js
 - visuals: refresh ROI stats
 - fix: add profit model table
 - fix: fix formatting issues
+- hotfix: add visual diagram for arbitrage flow
