@@ -369,3 +369,4 @@ node scripts/control.js
 - fix: add profit model table
 - fix: fix formatting issues
 - hotfix: add visual diagram for arbitrage flow
+- visuals: add visual diagram for arbitrage flow
