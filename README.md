@@ -181,3 +181,4 @@ node scripts/control.js
 - feat: fix: adjust link to Curve docs
 - hotfix: hotfix: broken table formatting
 - feat: add core strategy description
+- hotfix: visuals: add Mermaid chart for gas usage
