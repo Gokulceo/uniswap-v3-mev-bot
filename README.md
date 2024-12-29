@@ -370,3 +370,4 @@ node scripts/control.js
 - fix: fix formatting issues
 - hotfix: add visual diagram for arbitrage flow
 - visuals: add visual diagram for arbitrage flow
+- docs: update Arbitrum sequencer stress-test notes
