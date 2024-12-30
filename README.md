@@ -183,3 +183,4 @@ node scripts/control.js
 - feat: add core strategy description
 - hotfix: visuals: add Mermaid chart for gas usage
 - update: docs: improve quick start guide
+- feat: update gas cost benchmarks
