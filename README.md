@@ -184,3 +184,4 @@ node scripts/control.js
 - hotfix: visuals: add Mermaid chart for gas usage
 - update: docs: improve quick start guide
 - feat: update gas cost benchmarks
+- docs: hotfix: broken table formatting
