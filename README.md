@@ -372,3 +372,4 @@ node scripts/control.js
 - visuals: add visual diagram for arbitrage flow
 - docs: update Arbitrum sequencer stress-test notes
 - hotfix: fix typo in DEX name
+- feat: add core strategy description
