@@ -185,3 +185,4 @@ node scripts/control.js
 - update: docs: improve quick start guide
 - feat: update gas cost benchmarks
 - docs: hotfix: broken table formatting
+- fix: docs: improve quick start guide
