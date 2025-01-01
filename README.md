@@ -373,3 +373,4 @@ node scripts/control.js
 - docs: update Arbitrum sequencer stress-test notes
 - hotfix: fix typo in DEX name
 - feat: add core strategy description
+- feat: fix typo in DEX name
