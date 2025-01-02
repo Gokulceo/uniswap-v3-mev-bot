@@ -374,3 +374,4 @@ node scripts/control.js
 - hotfix: fix typo in DEX name
 - feat: add core strategy description
 - feat: fix typo in DEX name
+- visuals: fix typo in DEX name
