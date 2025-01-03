@@ -187,3 +187,4 @@ node scripts/control.js
 - docs: hotfix: broken table formatting
 - fix: docs: improve quick start guide
 - oops: add visual diagram for arbitrage flow
+- visuals: docs: improve quick start guide
