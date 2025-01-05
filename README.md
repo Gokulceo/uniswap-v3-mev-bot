@@ -189,3 +189,4 @@ node scripts/control.js
 - oops: add visual diagram for arbitrage flow
 - visuals: docs: improve quick start guide
 - visuals: feat: add profit model table
+- fix: refactor README sections for clarity
