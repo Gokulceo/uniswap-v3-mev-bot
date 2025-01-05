@@ -377,3 +377,4 @@ node scripts/control.js
 - visuals: fix typo in DEX name
 - feat: fix typo in DEX name
 - hotfix: add visual diagram for arbitrage flow
+- feat: clarify terminology
