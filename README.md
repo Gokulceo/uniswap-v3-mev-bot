@@ -379,3 +379,4 @@ node scripts/control.js
 - hotfix: add visual diagram for arbitrage flow
 - feat: clarify terminology
 - refactor: fix formatting issues
+- update: adjust link to Curve docs
