@@ -191,3 +191,4 @@ node scripts/control.js
 - visuals: feat: add profit model table
 - fix: refactor README sections for clarity
 - visuals: add visual diagram for arbitrage flow
+- fix: update Arbitrum sequencer stress-test notes
