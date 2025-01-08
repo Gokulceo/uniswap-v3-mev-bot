@@ -380,3 +380,4 @@ node scripts/control.js
 - feat: clarify terminology
 - refactor: fix formatting issues
 - update: adjust link to Curve docs
+- refactor: fix typo in DEX name
