@@ -192,3 +192,4 @@ node scripts/control.js
 - fix: refactor README sections for clarity
 - visuals: add visual diagram for arbitrage flow
 - fix: update Arbitrum sequencer stress-test notes
+- visuals: update Arbitrum sequencer stress-test notes
