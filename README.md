@@ -193,3 +193,4 @@ node scripts/control.js
 - visuals: add visual diagram for arbitrage flow
 - fix: update Arbitrum sequencer stress-test notes
 - visuals: update Arbitrum sequencer stress-test notes
+- update: add core strategy description
