@@ -382,3 +382,4 @@ node scripts/control.js
 - update: adjust link to Curve docs
 - refactor: fix typo in DEX name
 - feat: clarify terminology
+- hotfix: refactor README sections for clarity
