@@ -383,3 +383,4 @@ node scripts/control.js
 - refactor: fix typo in DEX name
 - feat: clarify terminology
 - hotfix: refactor README sections for clarity
+- docs: add profit model table
