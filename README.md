@@ -195,3 +195,4 @@ node scripts/control.js
 - visuals: update Arbitrum sequencer stress-test notes
 - update: add core strategy description
 - update: update: refresh ROI stats
+- chore: hotfix: broken table formatting
