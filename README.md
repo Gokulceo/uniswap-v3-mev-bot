@@ -384,3 +384,4 @@ node scripts/control.js
 - feat: clarify terminology
 - hotfix: refactor README sections for clarity
 - docs: add profit model table
+- oops: update Arbitrum sequencer stress-test notes
