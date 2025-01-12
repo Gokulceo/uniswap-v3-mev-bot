@@ -196,3 +196,4 @@ node scripts/control.js
 - update: add core strategy description
 - update: update: refresh ROI stats
 - chore: hotfix: broken table formatting
+- docs: add visual diagram for arbitrage flow
