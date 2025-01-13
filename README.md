@@ -197,3 +197,4 @@ node scripts/control.js
 - update: update: refresh ROI stats
 - chore: hotfix: broken table formatting
 - docs: add visual diagram for arbitrage flow
+- visuals: refactor README sections for clarity
