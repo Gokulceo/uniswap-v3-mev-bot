@@ -386,3 +386,4 @@ node scripts/control.js
 - docs: add profit model table
 - oops: update Arbitrum sequencer stress-test notes
 - docs: add visual diagram for arbitrage flow
+- update: add Mermaid chart for gas usage
