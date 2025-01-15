@@ -199,3 +199,4 @@ node scripts/control.js
 - docs: add visual diagram for arbitrage flow
 - visuals: refactor README sections for clarity
 - docs: update Arbitrum sequencer stress-test notes
+- hotfix: feat: include liquidation strategy section
