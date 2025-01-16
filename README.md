@@ -200,3 +200,4 @@ node scripts/control.js
 - visuals: refactor README sections for clarity
 - docs: update Arbitrum sequencer stress-test notes
 - hotfix: feat: include liquidation strategy section
+- hotfix: hotfix: broken table formatting
