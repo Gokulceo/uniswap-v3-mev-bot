@@ -388,3 +388,4 @@ node scripts/control.js
 - docs: add visual diagram for arbitrage flow
 - update: add Mermaid chart for gas usage
 - visuals: update gas cost benchmarks
+- visuals: add Mermaid chart for gas usage
