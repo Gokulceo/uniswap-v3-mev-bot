@@ -389,3 +389,4 @@ node scripts/control.js
 - update: add Mermaid chart for gas usage
 - visuals: update gas cost benchmarks
 - visuals: add Mermaid chart for gas usage
+- chore: fix formatting issues
