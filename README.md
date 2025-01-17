@@ -201,3 +201,4 @@ node scripts/control.js
 - docs: update Arbitrum sequencer stress-test notes
 - hotfix: feat: include liquidation strategy section
 - hotfix: hotfix: broken table formatting
+- oops: oops: fix typo in DEX name
