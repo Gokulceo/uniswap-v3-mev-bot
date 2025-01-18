@@ -202,3 +202,4 @@ node scripts/control.js
 - hotfix: feat: include liquidation strategy section
 - hotfix: hotfix: broken table formatting
 - oops: oops: fix typo in DEX name
+- feat: feat: add profit model table
