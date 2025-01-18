@@ -390,3 +390,4 @@ node scripts/control.js
 - visuals: update gas cost benchmarks
 - visuals: add Mermaid chart for gas usage
 - chore: fix formatting issues
+- visuals: update Arbitrum sequencer stress-test notes
