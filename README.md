@@ -203,3 +203,4 @@ node scripts/control.js
 - hotfix: hotfix: broken table formatting
 - oops: oops: fix typo in DEX name
 - feat: feat: add profit model table
+- oops: add visual diagram for arbitrage flow
