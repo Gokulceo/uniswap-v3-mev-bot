@@ -391,3 +391,4 @@ node scripts/control.js
 - visuals: add Mermaid chart for gas usage
 - chore: fix formatting issues
 - visuals: update Arbitrum sequencer stress-test notes
+- refactor: fix typo in DEX name
