@@ -392,3 +392,4 @@ node scripts/control.js
 - chore: fix formatting issues
 - visuals: update Arbitrum sequencer stress-test notes
 - refactor: fix typo in DEX name
+- hotfix: improve quick start guide
