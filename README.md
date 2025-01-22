@@ -394,3 +394,4 @@ node scripts/control.js
 - refactor: fix typo in DEX name
 - hotfix: improve quick start guide
 - docs: fix formatting issues
+- docs: fix typo in DEX name
