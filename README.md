@@ -206,3 +206,4 @@ node scripts/control.js
 - oops: add visual diagram for arbitrage flow
 - feat: feat: add profit model table
 - hotfix: visuals: add Mermaid chart for gas usage
+- feat: fix: adjust link to Curve docs
