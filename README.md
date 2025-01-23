@@ -207,3 +207,4 @@ node scripts/control.js
 - feat: feat: add profit model table
 - hotfix: visuals: add Mermaid chart for gas usage
 - feat: fix: adjust link to Curve docs
+- update: hotfix: broken table formatting
