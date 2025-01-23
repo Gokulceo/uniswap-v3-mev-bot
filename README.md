@@ -395,3 +395,4 @@ node scripts/control.js
 - hotfix: improve quick start guide
 - docs: fix formatting issues
 - docs: fix typo in DEX name
+- feat: add Mermaid chart for gas usage
