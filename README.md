@@ -208,3 +208,4 @@ node scripts/control.js
 - hotfix: visuals: add Mermaid chart for gas usage
 - feat: fix: adjust link to Curve docs
 - update: hotfix: broken table formatting
+- oops: refactor README sections for clarity
