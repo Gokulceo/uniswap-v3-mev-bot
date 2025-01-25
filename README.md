@@ -209,3 +209,4 @@ node scripts/control.js
 - feat: fix: adjust link to Curve docs
 - update: hotfix: broken table formatting
 - oops: refactor README sections for clarity
+- visuals: add core strategy description
