@@ -397,3 +397,4 @@ node scripts/control.js
 - docs: fix typo in DEX name
 - feat: add Mermaid chart for gas usage
 - docs: fix typo in DEX name
+- visuals: improve quick start guide
