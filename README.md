@@ -210,3 +210,4 @@ node scripts/control.js
 - update: hotfix: broken table formatting
 - oops: refactor README sections for clarity
 - visuals: add core strategy description
+- visuals: oops: fix typo in DEX name
