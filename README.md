@@ -398,3 +398,4 @@ node scripts/control.js
 - feat: add Mermaid chart for gas usage
 - docs: fix typo in DEX name
 - visuals: improve quick start guide
+- chore: fix typo in DEX name
