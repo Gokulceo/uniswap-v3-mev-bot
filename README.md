@@ -211,3 +211,4 @@ node scripts/control.js
 - oops: refactor README sections for clarity
 - visuals: add core strategy description
 - visuals: oops: fix typo in DEX name
+- feat: visuals: add Mermaid chart for gas usage
