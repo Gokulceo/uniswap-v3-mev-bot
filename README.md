@@ -399,3 +399,4 @@ node scripts/control.js
 - docs: fix typo in DEX name
 - visuals: improve quick start guide
 - chore: fix typo in DEX name
+- visuals: adjust link to Curve docs
