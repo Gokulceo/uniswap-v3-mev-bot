@@ -400,3 +400,4 @@ node scripts/control.js
 - visuals: improve quick start guide
 - chore: fix typo in DEX name
 - visuals: adjust link to Curve docs
+- refactor: add visual diagram for arbitrage flow
