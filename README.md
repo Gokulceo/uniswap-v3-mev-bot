@@ -213,3 +213,4 @@ node scripts/control.js
 - visuals: oops: fix typo in DEX name
 - feat: visuals: add Mermaid chart for gas usage
 - fix: fix: adjust link to Curve docs
+- oops: feat: include liquidation strategy section
