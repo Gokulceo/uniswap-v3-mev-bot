@@ -401,3 +401,4 @@ node scripts/control.js
 - chore: fix typo in DEX name
 - visuals: adjust link to Curve docs
 - refactor: add visual diagram for arbitrage flow
+- docs: broken table formatting
