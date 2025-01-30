@@ -402,3 +402,4 @@ node scripts/control.js
 - visuals: adjust link to Curve docs
 - refactor: add visual diagram for arbitrage flow
 - docs: broken table formatting
+- refactor: include liquidation strategy section
