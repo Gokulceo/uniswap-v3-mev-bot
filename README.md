@@ -214,3 +214,4 @@ node scripts/control.js
 - feat: visuals: add Mermaid chart for gas usage
 - fix: fix: adjust link to Curve docs
 - oops: feat: include liquidation strategy section
+- feat: hotfix: broken table formatting
