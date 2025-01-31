@@ -403,3 +403,4 @@ node scripts/control.js
 - refactor: add visual diagram for arbitrage flow
 - docs: broken table formatting
 - refactor: include liquidation strategy section
+- oops: add Mermaid chart for gas usage
