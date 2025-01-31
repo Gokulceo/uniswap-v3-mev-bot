@@ -215,3 +215,4 @@ node scripts/control.js
 - fix: fix: adjust link to Curve docs
 - oops: feat: include liquidation strategy section
 - feat: hotfix: broken table formatting
+- visuals: update: refresh ROI stats
