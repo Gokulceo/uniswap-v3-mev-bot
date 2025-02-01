@@ -404,3 +404,4 @@ node scripts/control.js
 - docs: broken table formatting
 - refactor: include liquidation strategy section
 - oops: add Mermaid chart for gas usage
+- update: fix typo in DEX name
