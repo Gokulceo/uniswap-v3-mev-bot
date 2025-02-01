@@ -216,3 +216,4 @@ node scripts/control.js
 - oops: feat: include liquidation strategy section
 - feat: hotfix: broken table formatting
 - visuals: update: refresh ROI stats
+- hotfix: docs: clarify terminology
