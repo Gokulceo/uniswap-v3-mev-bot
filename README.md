@@ -217,3 +217,4 @@ node scripts/control.js
 - feat: hotfix: broken table formatting
 - visuals: update: refresh ROI stats
 - hotfix: docs: clarify terminology
+- hotfix: update gas cost benchmarks
