@@ -405,3 +405,4 @@ node scripts/control.js
 - refactor: include liquidation strategy section
 - oops: add Mermaid chart for gas usage
 - update: fix typo in DEX name
+- fix: refactor README sections for clarity
