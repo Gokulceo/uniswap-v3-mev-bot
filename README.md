@@ -406,3 +406,4 @@ node scripts/control.js
 - oops: add Mermaid chart for gas usage
 - update: fix typo in DEX name
 - fix: refactor README sections for clarity
+- visuals: refresh ROI stats
