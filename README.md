@@ -218,3 +218,4 @@ node scripts/control.js
 - visuals: update: refresh ROI stats
 - hotfix: docs: clarify terminology
 - hotfix: update gas cost benchmarks
+- feat: add visual diagram for arbitrage flow
