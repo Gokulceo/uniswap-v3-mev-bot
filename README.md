@@ -407,3 +407,4 @@ node scripts/control.js
 - update: fix typo in DEX name
 - fix: refactor README sections for clarity
 - visuals: refresh ROI stats
+- hotfix: refactor README sections for clarity
