@@ -220,3 +220,4 @@ node scripts/control.js
 - hotfix: update gas cost benchmarks
 - feat: add visual diagram for arbitrage flow
 - fix: refactor README sections for clarity
+- visuals: docs: clarify terminology
