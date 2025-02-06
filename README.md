@@ -221,3 +221,4 @@ node scripts/control.js
 - feat: add visual diagram for arbitrage flow
 - fix: refactor README sections for clarity
 - visuals: docs: clarify terminology
+- docs: fix: adjust link to Curve docs
