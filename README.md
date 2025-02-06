@@ -409,3 +409,4 @@ node scripts/control.js
 - visuals: refresh ROI stats
 - hotfix: refactor README sections for clarity
 - oops: update gas cost benchmarks
+- feat: adjust link to Curve docs
