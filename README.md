@@ -410,3 +410,4 @@ node scripts/control.js
 - hotfix: refactor README sections for clarity
 - oops: update gas cost benchmarks
 - feat: adjust link to Curve docs
+- hotfix: update Arbitrum sequencer stress-test notes
