@@ -222,3 +222,4 @@ node scripts/control.js
 - fix: refactor README sections for clarity
 - visuals: docs: clarify terminology
 - docs: fix: adjust link to Curve docs
+- chore: refactor README sections for clarity
