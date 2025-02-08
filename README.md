@@ -411,3 +411,4 @@ node scripts/control.js
 - oops: update gas cost benchmarks
 - feat: adjust link to Curve docs
 - hotfix: update Arbitrum sequencer stress-test notes
+- chore: update Arbitrum sequencer stress-test notes
