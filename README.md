@@ -412,3 +412,4 @@ node scripts/control.js
 - feat: adjust link to Curve docs
 - hotfix: update Arbitrum sequencer stress-test notes
 - chore: update Arbitrum sequencer stress-test notes
+- oops: fix formatting issues
