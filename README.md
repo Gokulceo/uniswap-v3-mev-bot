@@ -413,3 +413,4 @@ node scripts/control.js
 - hotfix: update Arbitrum sequencer stress-test notes
 - chore: update Arbitrum sequencer stress-test notes
 - oops: fix formatting issues
+- hotfix: refactor README sections for clarity
