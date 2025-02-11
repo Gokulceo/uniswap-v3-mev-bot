@@ -414,3 +414,4 @@ node scripts/control.js
 - chore: update Arbitrum sequencer stress-test notes
 - oops: fix formatting issues
 - hotfix: refactor README sections for clarity
+- hotfix: fix formatting issues
