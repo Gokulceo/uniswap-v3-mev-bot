@@ -226,3 +226,4 @@ node scripts/control.js
 - refactor: docs: improve quick start guide
 - fix: update: refresh ROI stats
 - oops: update gas cost benchmarks
+- update: update gas cost benchmarks
