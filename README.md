@@ -227,3 +227,4 @@ node scripts/control.js
 - fix: update: refresh ROI stats
 - oops: update gas cost benchmarks
 - update: update gas cost benchmarks
+- feat: feat: add profit model table
