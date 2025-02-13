@@ -228,3 +228,4 @@ node scripts/control.js
 - oops: update gas cost benchmarks
 - update: update gas cost benchmarks
 - feat: feat: add profit model table
+- hotfix: add visual diagram for arbitrage flow
