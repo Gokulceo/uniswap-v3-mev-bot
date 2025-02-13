@@ -416,3 +416,4 @@ node scripts/control.js
 - hotfix: refactor README sections for clarity
 - hotfix: fix formatting issues
 - hotfix: fix formatting issues
+- update: include liquidation strategy section
