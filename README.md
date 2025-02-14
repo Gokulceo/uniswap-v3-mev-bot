@@ -229,3 +229,4 @@ node scripts/control.js
 - update: update gas cost benchmarks
 - feat: feat: add profit model table
 - hotfix: add visual diagram for arbitrage flow
+- chore: feat: include liquidation strategy section
