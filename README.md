@@ -417,3 +417,4 @@ node scripts/control.js
 - hotfix: fix formatting issues
 - hotfix: fix formatting issues
 - update: include liquidation strategy section
+- chore: add Mermaid chart for gas usage
