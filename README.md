@@ -230,3 +230,4 @@ node scripts/control.js
 - feat: feat: add profit model table
 - hotfix: add visual diagram for arbitrage flow
 - chore: feat: include liquidation strategy section
+- refactor: refactor README sections for clarity
