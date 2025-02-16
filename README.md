@@ -419,3 +419,4 @@ node scripts/control.js
 - update: include liquidation strategy section
 - chore: add Mermaid chart for gas usage
 - visuals: update gas cost benchmarks
+- update: include liquidation strategy section
