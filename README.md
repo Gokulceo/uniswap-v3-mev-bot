@@ -231,3 +231,4 @@ node scripts/control.js
 - hotfix: add visual diagram for arbitrage flow
 - chore: feat: include liquidation strategy section
 - refactor: refactor README sections for clarity
+- chore: add visual diagram for arbitrage flow
