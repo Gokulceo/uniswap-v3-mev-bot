@@ -420,3 +420,4 @@ node scripts/control.js
 - chore: add Mermaid chart for gas usage
 - visuals: update gas cost benchmarks
 - update: include liquidation strategy section
+- docs: add profit model table
