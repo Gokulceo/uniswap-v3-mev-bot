@@ -232,3 +232,4 @@ node scripts/control.js
 - chore: feat: include liquidation strategy section
 - refactor: refactor README sections for clarity
 - chore: add visual diagram for arbitrage flow
+- chore: hotfix: broken table formatting
