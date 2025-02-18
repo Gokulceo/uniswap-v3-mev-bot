@@ -233,3 +233,4 @@ node scripts/control.js
 - refactor: refactor README sections for clarity
 - chore: add visual diagram for arbitrage flow
 - chore: hotfix: broken table formatting
+- feat: docs: improve quick start guide
