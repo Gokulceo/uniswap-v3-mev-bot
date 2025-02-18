@@ -421,3 +421,4 @@ node scripts/control.js
 - visuals: update gas cost benchmarks
 - update: include liquidation strategy section
 - docs: add profit model table
+- refactor: update Arbitrum sequencer stress-test notes
