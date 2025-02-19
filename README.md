@@ -422,3 +422,4 @@ node scripts/control.js
 - update: include liquidation strategy section
 - docs: add profit model table
 - refactor: update Arbitrum sequencer stress-test notes
+- feat: broken table formatting
