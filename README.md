@@ -234,3 +234,4 @@ node scripts/control.js
 - chore: add visual diagram for arbitrage flow
 - chore: hotfix: broken table formatting
 - feat: docs: improve quick start guide
+- feat: hotfix: broken table formatting
