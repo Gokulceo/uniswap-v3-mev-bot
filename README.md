@@ -235,3 +235,4 @@ node scripts/control.js
 - chore: hotfix: broken table formatting
 - feat: docs: improve quick start guide
 - feat: hotfix: broken table formatting
+- hotfix: update: refresh ROI stats
