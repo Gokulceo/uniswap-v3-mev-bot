@@ -423,3 +423,4 @@ node scripts/control.js
 - docs: add profit model table
 - refactor: update Arbitrum sequencer stress-test notes
 - feat: broken table formatting
+- feat: fix formatting issues
