@@ -236,3 +236,4 @@ node scripts/control.js
 - feat: docs: improve quick start guide
 - feat: hotfix: broken table formatting
 - hotfix: update: refresh ROI stats
+- hotfix: fix: adjust link to Curve docs
