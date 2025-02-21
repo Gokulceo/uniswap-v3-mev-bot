@@ -424,3 +424,4 @@ node scripts/control.js
 - refactor: update Arbitrum sequencer stress-test notes
 - feat: broken table formatting
 - feat: fix formatting issues
+- docs: fix formatting issues
