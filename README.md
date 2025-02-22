@@ -425,3 +425,4 @@ node scripts/control.js
 - feat: broken table formatting
 - feat: fix formatting issues
 - docs: fix formatting issues
+- oops: clarify terminology
