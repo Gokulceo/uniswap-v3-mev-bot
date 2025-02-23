@@ -238,3 +238,4 @@ node scripts/control.js
 - hotfix: update: refresh ROI stats
 - hotfix: fix: adjust link to Curve docs
 - oops: update: refresh ROI stats
+- chore: oops: fix typo in DEX name
