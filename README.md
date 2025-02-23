@@ -426,3 +426,4 @@ node scripts/control.js
 - feat: fix formatting issues
 - docs: fix formatting issues
 - oops: clarify terminology
+- oops: update gas cost benchmarks
