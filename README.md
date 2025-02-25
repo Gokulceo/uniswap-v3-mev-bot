@@ -240,3 +240,4 @@ node scripts/control.js
 - oops: update: refresh ROI stats
 - chore: oops: fix typo in DEX name
 - refactor: oops: fix typo in DEX name
+- refactor: fix: adjust link to Curve docs
