@@ -429,3 +429,4 @@ node scripts/control.js
 - oops: update gas cost benchmarks
 - chore: add visual diagram for arbitrage flow
 - docs: clarify terminology
+- refactor: fix formatting issues
