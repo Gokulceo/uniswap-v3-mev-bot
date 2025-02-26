@@ -241,3 +241,4 @@ node scripts/control.js
 - chore: oops: fix typo in DEX name
 - refactor: oops: fix typo in DEX name
 - refactor: fix: adjust link to Curve docs
+- chore: fix formatting issues
