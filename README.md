@@ -430,3 +430,4 @@ node scripts/control.js
 - chore: add visual diagram for arbitrage flow
 - docs: clarify terminology
 - refactor: fix formatting issues
+- feat: refresh ROI stats
