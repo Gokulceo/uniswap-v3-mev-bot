@@ -243,3 +243,4 @@ node scripts/control.js
 - refactor: fix: adjust link to Curve docs
 - chore: fix formatting issues
 - chore: docs: improve quick start guide
+- refactor: docs: clarify terminology
