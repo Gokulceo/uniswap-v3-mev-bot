@@ -244,3 +244,4 @@ node scripts/control.js
 - chore: fix formatting issues
 - chore: docs: improve quick start guide
 - refactor: docs: clarify terminology
+- chore: update gas cost benchmarks
