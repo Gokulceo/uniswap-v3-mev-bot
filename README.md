@@ -432,3 +432,4 @@ node scripts/control.js
 - refactor: fix formatting issues
 - feat: refresh ROI stats
 - oops: improve quick start guide
+- visuals: refactor README sections for clarity
