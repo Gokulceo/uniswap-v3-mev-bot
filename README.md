@@ -245,3 +245,4 @@ node scripts/control.js
 - chore: docs: improve quick start guide
 - refactor: docs: clarify terminology
 - chore: update gas cost benchmarks
+- fix: visuals: add Mermaid chart for gas usage
