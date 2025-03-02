@@ -433,3 +433,4 @@ node scripts/control.js
 - feat: refresh ROI stats
 - oops: improve quick start guide
 - visuals: refactor README sections for clarity
+- docs: add Mermaid chart for gas usage
