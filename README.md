@@ -434,3 +434,4 @@ node scripts/control.js
 - oops: improve quick start guide
 - visuals: refactor README sections for clarity
 - docs: add Mermaid chart for gas usage
+- docs: fix typo in DEX name
