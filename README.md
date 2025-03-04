@@ -247,3 +247,4 @@ node scripts/control.js
 - chore: update gas cost benchmarks
 - fix: visuals: add Mermaid chart for gas usage
 - hotfix: update gas cost benchmarks
+- feat: docs: clarify terminology
