@@ -249,3 +249,4 @@ node scripts/control.js
 - hotfix: update gas cost benchmarks
 - feat: docs: clarify terminology
 - refactor: docs: improve quick start guide
+- docs: fix formatting issues
