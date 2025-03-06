@@ -437,3 +437,4 @@ node scripts/control.js
 - docs: fix typo in DEX name
 - visuals: refresh ROI stats
 - refactor: refactor README sections for clarity
+- chore: broken table formatting
