@@ -438,3 +438,4 @@ node scripts/control.js
 - visuals: refresh ROI stats
 - refactor: refactor README sections for clarity
 - chore: broken table formatting
+- visuals: update Arbitrum sequencer stress-test notes
