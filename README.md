@@ -251,3 +251,4 @@ node scripts/control.js
 - refactor: docs: improve quick start guide
 - docs: fix formatting issues
 - visuals: update Arbitrum sequencer stress-test notes
+- docs: docs: clarify terminology
