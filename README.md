@@ -439,3 +439,4 @@ node scripts/control.js
 - refactor: refactor README sections for clarity
 - chore: broken table formatting
 - visuals: update Arbitrum sequencer stress-test notes
+- feat: update Arbitrum sequencer stress-test notes
