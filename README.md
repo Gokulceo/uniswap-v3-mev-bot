@@ -252,3 +252,4 @@ node scripts/control.js
 - docs: fix formatting issues
 - visuals: update Arbitrum sequencer stress-test notes
 - docs: docs: clarify terminology
+- oops: add core strategy description
