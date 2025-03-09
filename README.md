@@ -440,3 +440,4 @@ node scripts/control.js
 - chore: broken table formatting
 - visuals: update Arbitrum sequencer stress-test notes
 - feat: update Arbitrum sequencer stress-test notes
+- visuals: refresh ROI stats
