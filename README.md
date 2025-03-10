@@ -441,3 +441,4 @@ node scripts/control.js
 - visuals: update Arbitrum sequencer stress-test notes
 - feat: update Arbitrum sequencer stress-test notes
 - visuals: refresh ROI stats
+- oops: add visual diagram for arbitrage flow
