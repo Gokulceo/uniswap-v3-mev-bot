@@ -253,3 +253,4 @@ node scripts/control.js
 - visuals: update Arbitrum sequencer stress-test notes
 - docs: docs: clarify terminology
 - oops: add core strategy description
+- refactor: feat: add profit model table
