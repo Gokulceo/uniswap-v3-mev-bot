@@ -254,3 +254,4 @@ node scripts/control.js
 - docs: docs: clarify terminology
 - oops: add core strategy description
 - refactor: feat: add profit model table
+- hotfix: add visual diagram for arbitrage flow
