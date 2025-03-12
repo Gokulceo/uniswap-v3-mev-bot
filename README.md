@@ -255,3 +255,4 @@ node scripts/control.js
 - oops: add core strategy description
 - refactor: feat: add profit model table
 - hotfix: add visual diagram for arbitrage flow
+- hotfix: docs: clarify terminology
