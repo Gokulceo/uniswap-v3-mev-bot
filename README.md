@@ -443,3 +443,4 @@ node scripts/control.js
 - visuals: refresh ROI stats
 - oops: add visual diagram for arbitrage flow
 - docs: refactor README sections for clarity
+- refactor: add core strategy description
