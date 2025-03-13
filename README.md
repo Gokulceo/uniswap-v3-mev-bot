@@ -256,3 +256,4 @@ node scripts/control.js
 - refactor: feat: add profit model table
 - hotfix: add visual diagram for arbitrage flow
 - hotfix: docs: clarify terminology
+- refactor: visuals: add Mermaid chart for gas usage
