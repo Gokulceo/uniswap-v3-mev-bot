@@ -444,3 +444,4 @@ node scripts/control.js
 - oops: add visual diagram for arbitrage flow
 - docs: refactor README sections for clarity
 - refactor: add core strategy description
+- visuals: fix typo in DEX name
