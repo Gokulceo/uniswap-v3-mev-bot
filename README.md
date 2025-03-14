@@ -445,3 +445,4 @@ node scripts/control.js
 - docs: refactor README sections for clarity
 - refactor: add core strategy description
 - visuals: fix typo in DEX name
+- oops: fix formatting issues
