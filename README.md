@@ -257,3 +257,4 @@ node scripts/control.js
 - hotfix: add visual diagram for arbitrage flow
 - hotfix: docs: clarify terminology
 - refactor: visuals: add Mermaid chart for gas usage
+- visuals: oops: fix typo in DEX name
