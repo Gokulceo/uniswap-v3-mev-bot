@@ -446,3 +446,4 @@ node scripts/control.js
 - refactor: add core strategy description
 - visuals: fix typo in DEX name
 - oops: fix formatting issues
+- docs: improve quick start guide
