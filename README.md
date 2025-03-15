@@ -258,3 +258,4 @@ node scripts/control.js
 - hotfix: docs: clarify terminology
 - refactor: visuals: add Mermaid chart for gas usage
 - visuals: oops: fix typo in DEX name
+- feat: fix: adjust link to Curve docs
