@@ -259,3 +259,4 @@ node scripts/control.js
 - refactor: visuals: add Mermaid chart for gas usage
 - visuals: oops: fix typo in DEX name
 - feat: fix: adjust link to Curve docs
+- docs: update: refresh ROI stats
