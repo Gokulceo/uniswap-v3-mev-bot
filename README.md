@@ -447,3 +447,4 @@ node scripts/control.js
 - visuals: fix typo in DEX name
 - oops: fix formatting issues
 - docs: improve quick start guide
+- chore: update gas cost benchmarks
