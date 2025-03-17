@@ -448,3 +448,4 @@ node scripts/control.js
 - oops: fix formatting issues
 - docs: improve quick start guide
 - chore: update gas cost benchmarks
+- docs: improve quick start guide
