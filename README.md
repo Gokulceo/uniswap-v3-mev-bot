@@ -260,3 +260,4 @@ node scripts/control.js
 - visuals: oops: fix typo in DEX name
 - feat: fix: adjust link to Curve docs
 - docs: update: refresh ROI stats
+- chore: oops: fix typo in DEX name
