@@ -261,3 +261,4 @@ node scripts/control.js
 - feat: fix: adjust link to Curve docs
 - docs: update: refresh ROI stats
 - chore: oops: fix typo in DEX name
+- oops: update gas cost benchmarks
