@@ -449,3 +449,4 @@ node scripts/control.js
 - docs: improve quick start guide
 - chore: update gas cost benchmarks
 - docs: improve quick start guide
+- hotfix: fix formatting issues
