@@ -450,3 +450,4 @@ node scripts/control.js
 - chore: update gas cost benchmarks
 - docs: improve quick start guide
 - hotfix: fix formatting issues
+- chore: add visual diagram for arbitrage flow
