@@ -262,3 +262,4 @@ node scripts/control.js
 - docs: update: refresh ROI stats
 - chore: oops: fix typo in DEX name
 - oops: update gas cost benchmarks
+- visuals: docs: improve quick start guide
