@@ -263,3 +263,4 @@ node scripts/control.js
 - chore: oops: fix typo in DEX name
 - oops: update gas cost benchmarks
 - visuals: docs: improve quick start guide
+- refactor: visuals: add Mermaid chart for gas usage
