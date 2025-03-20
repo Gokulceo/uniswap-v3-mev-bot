@@ -451,3 +451,4 @@ node scripts/control.js
 - docs: improve quick start guide
 - hotfix: fix formatting issues
 - chore: add visual diagram for arbitrage flow
+- refactor: add visual diagram for arbitrage flow
