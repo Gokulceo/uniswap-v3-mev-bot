@@ -264,3 +264,4 @@ node scripts/control.js
 - oops: update gas cost benchmarks
 - visuals: docs: improve quick start guide
 - refactor: visuals: add Mermaid chart for gas usage
+- docs: update Arbitrum sequencer stress-test notes
