@@ -453,3 +453,4 @@ node scripts/control.js
 - chore: add visual diagram for arbitrage flow
 - refactor: add visual diagram for arbitrage flow
 - oops: fix formatting issues
+- oops: update Arbitrum sequencer stress-test notes
