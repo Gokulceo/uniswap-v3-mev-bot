@@ -266,3 +266,4 @@ node scripts/control.js
 - refactor: visuals: add Mermaid chart for gas usage
 - docs: update Arbitrum sequencer stress-test notes
 - fix: add core strategy description
+- chore: docs: clarify terminology
