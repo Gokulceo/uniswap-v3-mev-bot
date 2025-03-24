@@ -267,3 +267,4 @@ node scripts/control.js
 - docs: update Arbitrum sequencer stress-test notes
 - fix: add core strategy description
 - chore: docs: clarify terminology
+- hotfix: feat: include liquidation strategy section
