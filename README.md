@@ -268,3 +268,4 @@ node scripts/control.js
 - fix: add core strategy description
 - chore: docs: clarify terminology
 - hotfix: feat: include liquidation strategy section
+- refactor: fix: adjust link to Curve docs
