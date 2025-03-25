@@ -456,3 +456,4 @@ node scripts/control.js
 - oops: update Arbitrum sequencer stress-test notes
 - docs: refactor README sections for clarity
 - visuals: adjust link to Curve docs
+- visuals: add profit model table
