@@ -457,3 +457,4 @@ node scripts/control.js
 - docs: refactor README sections for clarity
 - visuals: adjust link to Curve docs
 - visuals: add profit model table
+- fix: clarify terminology
