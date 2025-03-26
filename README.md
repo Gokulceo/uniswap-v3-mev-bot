@@ -269,3 +269,4 @@ node scripts/control.js
 - chore: docs: clarify terminology
 - hotfix: feat: include liquidation strategy section
 - refactor: fix: adjust link to Curve docs
+- docs: visuals: add Mermaid chart for gas usage
