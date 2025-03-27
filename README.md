@@ -270,3 +270,4 @@ node scripts/control.js
 - hotfix: feat: include liquidation strategy section
 - refactor: fix: adjust link to Curve docs
 - docs: visuals: add Mermaid chart for gas usage
+- chore: hotfix: broken table formatting
