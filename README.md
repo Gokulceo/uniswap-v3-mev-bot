@@ -459,3 +459,4 @@ node scripts/control.js
 - visuals: add profit model table
 - fix: clarify terminology
 - chore: refactor README sections for clarity
+- oops: fix typo in DEX name
