@@ -272,3 +272,4 @@ node scripts/control.js
 - docs: visuals: add Mermaid chart for gas usage
 - chore: hotfix: broken table formatting
 - update: refactor README sections for clarity
+- refactor: add core strategy description
