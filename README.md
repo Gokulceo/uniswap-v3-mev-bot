@@ -460,3 +460,4 @@ node scripts/control.js
 - fix: clarify terminology
 - chore: refactor README sections for clarity
 - oops: fix typo in DEX name
+- chore: adjust link to Curve docs
