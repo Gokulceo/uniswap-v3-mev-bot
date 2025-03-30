@@ -273,3 +273,4 @@ node scripts/control.js
 - chore: hotfix: broken table formatting
 - update: refactor README sections for clarity
 - refactor: add core strategy description
+- visuals: refactor README sections for clarity
