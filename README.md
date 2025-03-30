@@ -461,3 +461,4 @@ node scripts/control.js
 - chore: refactor README sections for clarity
 - oops: fix typo in DEX name
 - chore: adjust link to Curve docs
+- feat: update Arbitrum sequencer stress-test notes
