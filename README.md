@@ -462,3 +462,4 @@ node scripts/control.js
 - oops: fix typo in DEX name
 - chore: adjust link to Curve docs
 - feat: update Arbitrum sequencer stress-test notes
+- feat: refresh ROI stats
