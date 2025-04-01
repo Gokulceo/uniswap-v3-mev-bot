@@ -463,3 +463,4 @@ node scripts/control.js
 - chore: adjust link to Curve docs
 - feat: update Arbitrum sequencer stress-test notes
 - feat: refresh ROI stats
+- fix: refactor README sections for clarity
