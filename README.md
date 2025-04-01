@@ -275,3 +275,4 @@ node scripts/control.js
 - refactor: add core strategy description
 - visuals: refactor README sections for clarity
 - feat: fix: adjust link to Curve docs
+- hotfix: docs: improve quick start guide
