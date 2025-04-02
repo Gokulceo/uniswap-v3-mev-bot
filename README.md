@@ -276,3 +276,4 @@ node scripts/control.js
 - visuals: refactor README sections for clarity
 - feat: fix: adjust link to Curve docs
 - hotfix: docs: improve quick start guide
+- chore: hotfix: broken table formatting
