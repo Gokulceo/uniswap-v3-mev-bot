@@ -464,3 +464,4 @@ node scripts/control.js
 - feat: update Arbitrum sequencer stress-test notes
 - feat: refresh ROI stats
 - fix: refactor README sections for clarity
+- oops: improve quick start guide
