@@ -465,3 +465,4 @@ node scripts/control.js
 - feat: refresh ROI stats
 - fix: refactor README sections for clarity
 - oops: improve quick start guide
+- visuals: adjust link to Curve docs
