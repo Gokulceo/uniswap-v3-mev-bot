@@ -466,3 +466,4 @@ node scripts/control.js
 - fix: refactor README sections for clarity
 - oops: improve quick start guide
 - visuals: adjust link to Curve docs
+- oops: fix formatting issues
