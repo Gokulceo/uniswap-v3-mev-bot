@@ -467,3 +467,4 @@ node scripts/control.js
 - oops: improve quick start guide
 - visuals: adjust link to Curve docs
 - oops: fix formatting issues
+- hotfix: fix typo in DEX name
