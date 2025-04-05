@@ -279,3 +279,4 @@ node scripts/control.js
 - chore: hotfix: broken table formatting
 - oops: visuals: add Mermaid chart for gas usage
 - refactor: feat: add profit model table
+- docs: add core strategy description
