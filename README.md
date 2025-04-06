@@ -468,3 +468,4 @@ node scripts/control.js
 - visuals: adjust link to Curve docs
 - oops: fix formatting issues
 - hotfix: fix typo in DEX name
+- oops: add core strategy description
