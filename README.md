@@ -281,3 +281,4 @@ node scripts/control.js
 - refactor: feat: add profit model table
 - docs: add core strategy description
 - visuals: add core strategy description
+- feat: feat: add profit model table
