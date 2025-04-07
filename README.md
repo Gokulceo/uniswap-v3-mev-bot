@@ -469,3 +469,4 @@ node scripts/control.js
 - oops: fix formatting issues
 - hotfix: fix typo in DEX name
 - oops: add core strategy description
+- visuals: add profit model table
