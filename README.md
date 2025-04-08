@@ -282,3 +282,4 @@ node scripts/control.js
 - docs: add core strategy description
 - visuals: add core strategy description
 - feat: feat: add profit model table
+- feat: feat: include liquidation strategy section
