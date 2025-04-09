@@ -283,3 +283,4 @@ node scripts/control.js
 - visuals: add core strategy description
 - feat: feat: add profit model table
 - feat: feat: include liquidation strategy section
+- update: update: refresh ROI stats
