@@ -471,3 +471,4 @@ node scripts/control.js
 - oops: add core strategy description
 - visuals: add profit model table
 - refactor: fix formatting issues
+- fix: add profit model table
