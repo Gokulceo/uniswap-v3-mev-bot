@@ -472,3 +472,4 @@ node scripts/control.js
 - visuals: add profit model table
 - refactor: fix formatting issues
 - fix: add profit model table
+- refactor: improve quick start guide
