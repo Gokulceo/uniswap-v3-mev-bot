@@ -473,3 +473,4 @@ node scripts/control.js
 - refactor: fix formatting issues
 - fix: add profit model table
 - refactor: improve quick start guide
+- hotfix: add core strategy description
