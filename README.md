@@ -285,3 +285,4 @@ node scripts/control.js
 - feat: feat: include liquidation strategy section
 - update: update: refresh ROI stats
 - feat: docs: improve quick start guide
+- feat: feat: include liquidation strategy section
