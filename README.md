@@ -474,3 +474,4 @@ node scripts/control.js
 - fix: add profit model table
 - refactor: improve quick start guide
 - hotfix: add core strategy description
+- chore: broken table formatting
