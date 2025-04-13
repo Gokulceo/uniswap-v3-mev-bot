@@ -475,3 +475,4 @@ node scripts/control.js
 - refactor: improve quick start guide
 - hotfix: add core strategy description
 - chore: broken table formatting
+- docs: update gas cost benchmarks
