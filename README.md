@@ -476,3 +476,4 @@ node scripts/control.js
 - hotfix: add core strategy description
 - chore: broken table formatting
 - docs: update gas cost benchmarks
+- visuals: update Arbitrum sequencer stress-test notes
