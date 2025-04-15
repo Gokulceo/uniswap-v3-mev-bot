@@ -477,3 +477,4 @@ node scripts/control.js
 - chore: broken table formatting
 - docs: update gas cost benchmarks
 - visuals: update Arbitrum sequencer stress-test notes
+- oops: update gas cost benchmarks
