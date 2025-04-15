@@ -289,3 +289,4 @@ node scripts/control.js
 - feat: feat: include liquidation strategy section
 - chore: update gas cost benchmarks
 - chore: docs: improve quick start guide
+- feat: add core strategy description
