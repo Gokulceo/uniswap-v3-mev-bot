@@ -479,3 +479,4 @@ node scripts/control.js
 - visuals: update Arbitrum sequencer stress-test notes
 - oops: update gas cost benchmarks
 - visuals: add visual diagram for arbitrage flow
+- docs: include liquidation strategy section
