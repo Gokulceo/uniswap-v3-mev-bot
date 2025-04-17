@@ -291,3 +291,4 @@ node scripts/control.js
 - chore: docs: improve quick start guide
 - feat: add core strategy description
 - chore: refactor README sections for clarity
+- refactor: feat: include liquidation strategy section
