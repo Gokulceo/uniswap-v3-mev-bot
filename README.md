@@ -480,3 +480,4 @@ node scripts/control.js
 - oops: update gas cost benchmarks
 - visuals: add visual diagram for arbitrage flow
 - docs: include liquidation strategy section
+- fix: improve quick start guide
