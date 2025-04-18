@@ -292,3 +292,4 @@ node scripts/control.js
 - feat: add core strategy description
 - chore: refactor README sections for clarity
 - refactor: feat: include liquidation strategy section
+- docs: visuals: add Mermaid chart for gas usage
