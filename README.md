@@ -293,3 +293,4 @@ node scripts/control.js
 - chore: refactor README sections for clarity
 - refactor: feat: include liquidation strategy section
 - docs: visuals: add Mermaid chart for gas usage
+- docs: update: refresh ROI stats
