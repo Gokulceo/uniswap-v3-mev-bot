@@ -482,3 +482,4 @@ node scripts/control.js
 - docs: include liquidation strategy section
 - fix: improve quick start guide
 - docs: add visual diagram for arbitrage flow
+- hotfix: include liquidation strategy section
