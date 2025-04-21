@@ -483,3 +483,4 @@ node scripts/control.js
 - fix: improve quick start guide
 - docs: add visual diagram for arbitrage flow
 - hotfix: include liquidation strategy section
+- oops: clarify terminology
