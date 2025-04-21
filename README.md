@@ -295,3 +295,4 @@ node scripts/control.js
 - docs: visuals: add Mermaid chart for gas usage
 - docs: update: refresh ROI stats
 - feat: add core strategy description
+- hotfix: update gas cost benchmarks
