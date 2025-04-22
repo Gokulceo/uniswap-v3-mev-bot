@@ -484,3 +484,4 @@ node scripts/control.js
 - docs: add visual diagram for arbitrage flow
 - hotfix: include liquidation strategy section
 - oops: clarify terminology
+- docs: fix formatting issues
