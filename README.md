@@ -296,3 +296,4 @@ node scripts/control.js
 - docs: update: refresh ROI stats
 - feat: add core strategy description
 - hotfix: update gas cost benchmarks
+- docs: update gas cost benchmarks
