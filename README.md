@@ -485,3 +485,4 @@ node scripts/control.js
 - hotfix: include liquidation strategy section
 - oops: clarify terminology
 - docs: fix formatting issues
+- visuals: refresh ROI stats
