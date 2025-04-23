@@ -297,3 +297,4 @@ node scripts/control.js
 - feat: add core strategy description
 - hotfix: update gas cost benchmarks
 - docs: update gas cost benchmarks
+- chore: feat: add profit model table
