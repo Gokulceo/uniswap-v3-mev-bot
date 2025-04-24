@@ -298,3 +298,4 @@ node scripts/control.js
 - hotfix: update gas cost benchmarks
 - docs: update gas cost benchmarks
 - chore: feat: add profit model table
+- chore: refactor README sections for clarity
