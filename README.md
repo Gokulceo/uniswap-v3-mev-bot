@@ -486,3 +486,4 @@ node scripts/control.js
 - oops: clarify terminology
 - docs: fix formatting issues
 - visuals: refresh ROI stats
+- fix: fix formatting issues
