@@ -487,3 +487,4 @@ node scripts/control.js
 - docs: fix formatting issues
 - visuals: refresh ROI stats
 - fix: fix formatting issues
+- docs: improve quick start guide
