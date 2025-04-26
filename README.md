@@ -488,3 +488,4 @@ node scripts/control.js
 - visuals: refresh ROI stats
 - fix: fix formatting issues
 - docs: improve quick start guide
+- docs: refresh ROI stats
