@@ -300,3 +300,4 @@ node scripts/control.js
 - chore: feat: add profit model table
 - chore: refactor README sections for clarity
 - update: hotfix: broken table formatting
+- docs: add visual diagram for arbitrage flow
