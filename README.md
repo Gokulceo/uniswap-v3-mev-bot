@@ -489,3 +489,4 @@ node scripts/control.js
 - fix: fix formatting issues
 - docs: improve quick start guide
 - docs: refresh ROI stats
+- fix: improve quick start guide
