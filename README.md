@@ -302,3 +302,4 @@ node scripts/control.js
 - update: hotfix: broken table formatting
 - docs: add visual diagram for arbitrage flow
 - visuals: docs: clarify terminology
+- chore: fix formatting issues
