@@ -490,3 +490,4 @@ node scripts/control.js
 - docs: improve quick start guide
 - docs: refresh ROI stats
 - fix: improve quick start guide
+- feat: clarify terminology
