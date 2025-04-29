@@ -303,3 +303,4 @@ node scripts/control.js
 - docs: add visual diagram for arbitrage flow
 - visuals: docs: clarify terminology
 - chore: fix formatting issues
+- update: refactor README sections for clarity
