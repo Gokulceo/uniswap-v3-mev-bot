@@ -304,3 +304,4 @@ node scripts/control.js
 - visuals: docs: clarify terminology
 - chore: fix formatting issues
 - update: refactor README sections for clarity
+- oops: update Arbitrum sequencer stress-test notes
