@@ -492,3 +492,4 @@ node scripts/control.js
 - fix: improve quick start guide
 - feat: clarify terminology
 - update: improve quick start guide
+- hotfix: refactor README sections for clarity
