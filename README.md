@@ -493,3 +493,4 @@ node scripts/control.js
 - feat: clarify terminology
 - update: improve quick start guide
 - hotfix: refactor README sections for clarity
+- oops: include liquidation strategy section
