@@ -305,3 +305,4 @@ node scripts/control.js
 - chore: fix formatting issues
 - update: refactor README sections for clarity
 - oops: update Arbitrum sequencer stress-test notes
+- visuals: update: refresh ROI stats
