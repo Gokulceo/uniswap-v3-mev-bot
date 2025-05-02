@@ -306,3 +306,4 @@ node scripts/control.js
 - update: refactor README sections for clarity
 - oops: update Arbitrum sequencer stress-test notes
 - visuals: update: refresh ROI stats
+- feat: docs: clarify terminology
