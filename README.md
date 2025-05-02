@@ -494,3 +494,4 @@ node scripts/control.js
 - update: improve quick start guide
 - hotfix: refactor README sections for clarity
 - oops: include liquidation strategy section
+- feat: broken table formatting
