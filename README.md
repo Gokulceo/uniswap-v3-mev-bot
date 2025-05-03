@@ -495,3 +495,4 @@ node scripts/control.js
 - hotfix: refactor README sections for clarity
 - oops: include liquidation strategy section
 - feat: broken table formatting
+- oops: update Arbitrum sequencer stress-test notes
