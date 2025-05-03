@@ -307,3 +307,4 @@ node scripts/control.js
 - oops: update Arbitrum sequencer stress-test notes
 - visuals: update: refresh ROI stats
 - feat: docs: clarify terminology
+- visuals: update gas cost benchmarks
