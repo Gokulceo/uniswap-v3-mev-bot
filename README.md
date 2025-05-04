@@ -308,3 +308,4 @@ node scripts/control.js
 - visuals: update: refresh ROI stats
 - feat: docs: clarify terminology
 - visuals: update gas cost benchmarks
+- visuals: visuals: add Mermaid chart for gas usage
