@@ -496,3 +496,4 @@ node scripts/control.js
 - oops: include liquidation strategy section
 - feat: broken table formatting
 - oops: update Arbitrum sequencer stress-test notes
+- fix: improve quick start guide
