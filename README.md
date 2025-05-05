@@ -309,3 +309,4 @@ node scripts/control.js
 - feat: docs: clarify terminology
 - visuals: update gas cost benchmarks
 - visuals: visuals: add Mermaid chart for gas usage
+- refactor: docs: improve quick start guide
