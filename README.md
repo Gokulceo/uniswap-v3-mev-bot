@@ -497,3 +497,4 @@ node scripts/control.js
 - feat: broken table formatting
 - oops: update Arbitrum sequencer stress-test notes
 - fix: improve quick start guide
+- refactor: improve quick start guide
