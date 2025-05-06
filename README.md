@@ -498,3 +498,4 @@ node scripts/control.js
 - oops: update Arbitrum sequencer stress-test notes
 - fix: improve quick start guide
 - refactor: improve quick start guide
+- docs: refresh ROI stats
