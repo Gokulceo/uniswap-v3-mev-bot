@@ -312,3 +312,4 @@ node scripts/control.js
 - refactor: docs: improve quick start guide
 - refactor: fix formatting issues
 - hotfix: fix formatting issues
+- oops: feat: include liquidation strategy section
