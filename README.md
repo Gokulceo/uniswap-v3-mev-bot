@@ -500,3 +500,4 @@ node scripts/control.js
 - refactor: improve quick start guide
 - docs: refresh ROI stats
 - hotfix: add visual diagram for arbitrage flow
+- feat: add core strategy description
