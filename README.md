@@ -501,3 +501,4 @@ node scripts/control.js
 - docs: refresh ROI stats
 - hotfix: add visual diagram for arbitrage flow
 - feat: add core strategy description
+- chore: include liquidation strategy section
