@@ -314,3 +314,4 @@ node scripts/control.js
 - hotfix: fix formatting issues
 - oops: feat: include liquidation strategy section
 - oops: fix formatting issues
+- update: feat: include liquidation strategy section
