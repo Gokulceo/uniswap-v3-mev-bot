@@ -315,3 +315,4 @@ node scripts/control.js
 - oops: feat: include liquidation strategy section
 - oops: fix formatting issues
 - update: feat: include liquidation strategy section
+- fix: oops: fix typo in DEX name
