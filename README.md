@@ -504,3 +504,4 @@ node scripts/control.js
 - chore: include liquidation strategy section
 - chore: add profit model table
 - feat: add visual diagram for arbitrage flow
+- refactor: fix formatting issues
