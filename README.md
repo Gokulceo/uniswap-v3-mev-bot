@@ -316,3 +316,4 @@ node scripts/control.js
 - oops: fix formatting issues
 - update: feat: include liquidation strategy section
 - fix: oops: fix typo in DEX name
+- refactor: feat: add profit model table
