@@ -505,3 +505,4 @@ node scripts/control.js
 - chore: add profit model table
 - feat: add visual diagram for arbitrage flow
 - refactor: fix formatting issues
+- hotfix: clarify terminology
