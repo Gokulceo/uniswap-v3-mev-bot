@@ -506,3 +506,4 @@ node scripts/control.js
 - feat: add visual diagram for arbitrage flow
 - refactor: fix formatting issues
 - hotfix: clarify terminology
+- refactor: update gas cost benchmarks
