@@ -319,3 +319,4 @@ node scripts/control.js
 - refactor: feat: add profit model table
 - oops: feat: include liquidation strategy section
 - refactor: oops: fix typo in DEX name
+- fix: fix formatting issues
