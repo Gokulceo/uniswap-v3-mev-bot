@@ -320,3 +320,4 @@ node scripts/control.js
 - oops: feat: include liquidation strategy section
 - refactor: oops: fix typo in DEX name
 - fix: fix formatting issues
+- update: add visual diagram for arbitrage flow
