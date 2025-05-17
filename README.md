@@ -509,3 +509,4 @@ node scripts/control.js
 - refactor: update gas cost benchmarks
 - hotfix: fix formatting issues
 - oops: fix formatting issues
+- refactor: fix formatting issues
