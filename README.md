@@ -321,3 +321,4 @@ node scripts/control.js
 - refactor: oops: fix typo in DEX name
 - fix: fix formatting issues
 - update: add visual diagram for arbitrage flow
+- update: oops: fix typo in DEX name
