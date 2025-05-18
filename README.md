@@ -510,3 +510,4 @@ node scripts/control.js
 - hotfix: fix formatting issues
 - oops: fix formatting issues
 - refactor: fix formatting issues
+- fix: clarify terminology
