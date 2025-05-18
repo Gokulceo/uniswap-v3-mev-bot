@@ -322,3 +322,4 @@ node scripts/control.js
 - fix: fix formatting issues
 - update: add visual diagram for arbitrage flow
 - update: oops: fix typo in DEX name
+- update: docs: clarify terminology
