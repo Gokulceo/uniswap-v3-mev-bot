@@ -323,3 +323,4 @@ node scripts/control.js
 - update: add visual diagram for arbitrage flow
 - update: oops: fix typo in DEX name
 - update: docs: clarify terminology
+- docs: update Arbitrum sequencer stress-test notes
