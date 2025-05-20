@@ -512,3 +512,4 @@ node scripts/control.js
 - refactor: fix formatting issues
 - fix: clarify terminology
 - feat: refresh ROI stats
+- chore: fix formatting issues
