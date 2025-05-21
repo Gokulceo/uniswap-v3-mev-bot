@@ -513,3 +513,4 @@ node scripts/control.js
 - fix: clarify terminology
 - feat: refresh ROI stats
 - chore: fix formatting issues
+- docs: broken table formatting
