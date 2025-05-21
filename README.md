@@ -325,3 +325,4 @@ node scripts/control.js
 - update: docs: clarify terminology
 - docs: update Arbitrum sequencer stress-test notes
 - oops: fix formatting issues
+- update: update gas cost benchmarks
