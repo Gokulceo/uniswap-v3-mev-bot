@@ -514,3 +514,4 @@ node scripts/control.js
 - feat: refresh ROI stats
 - chore: fix formatting issues
 - docs: broken table formatting
+- refactor: add Mermaid chart for gas usage
