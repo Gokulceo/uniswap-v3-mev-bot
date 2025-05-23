@@ -515,3 +515,4 @@ node scripts/control.js
 - chore: fix formatting issues
 - docs: broken table formatting
 - refactor: add Mermaid chart for gas usage
+- refactor: add Mermaid chart for gas usage
