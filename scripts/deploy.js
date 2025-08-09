@@ -305,3 +305,5 @@ main().catch((err) => {
 // change 252 32691 for feat: add deployment walkthrough for uniswap-v3-arbitrage-sandwich-MEV-bot
 // simulated change for feat: chore: normalize line endings for Windows compatibility
 // change 254 1399 for feat: chore: normalize line endings for Windows compatibility
+// simulated change for hotfix: update control.js usage section in scripts/README.md
+// change 256 25267 for hotfix: update control.js usage section in scripts/README.md
