@@ -253,3 +253,5 @@ main().catch((err) => {
 // change 171 5904 for feat: optimize deploy script with ethers v6 methods
 // simulated change for chore: update control.js usage section in scripts/README.md
 // change 176 21760 for chore: update control.js usage section in scripts/README.md
+// simulated change for docs: fix hardhat network deployment instructions
+// change 181 5104 for docs: fix hardhat network deployment instructions
