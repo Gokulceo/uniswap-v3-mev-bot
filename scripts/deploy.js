@@ -285,3 +285,5 @@ main().catch((err) => {
 // change 224 9991 for chore: refactor: extract helper from deploy.js to utils/helpers.js
 // simulated change for feat: chore: normalize line endings for Windows compatibility
 // change 226 10725 for feat: chore: normalize line endings for Windows compatibility
+// simulated change for fix: update sample .env with PRIVATE_KEY
+// change 232 7507 for fix: update sample .env with PRIVATE_KEY
