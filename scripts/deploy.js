@@ -195,3 +195,5 @@ main().catch((err) => {
 // change 67 19389 for chore: refactor: extract helper from deploy.js to utils/helpers.js
 // simulated change for refactor: update sample .env with PRIVATE_KEY
 // change 69 6288 for refactor: update sample .env with PRIVATE_KEY
+// simulated change for hotfix: docs: clarify arbitrum vs mainnet usage for deploy.js
+// change 70 29814 for hotfix: docs: clarify arbitrum vs mainnet usage for deploy.js
