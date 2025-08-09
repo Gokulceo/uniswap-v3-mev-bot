@@ -161,3 +161,5 @@ main().catch((err) => {
 // change 24 3066 for refactor: update control.js usage section in scripts/README.md
 // simulated change for update: fix: remove duplicate imports in deploy.js
 // change 25 22300 for update: fix: remove duplicate imports in deploy.js
+// simulated change for hotfix: fix: address checksum mismatch in deploy script
+// change 26 21570 for hotfix: fix: address checksum mismatch in deploy script
