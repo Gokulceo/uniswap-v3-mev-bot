@@ -108,3 +108,5 @@ flowchart TD
 // change 62 21671 for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
 // simulated change for hotfix: fix minor typos in scripts/README.md
 // change 66 17316 for hotfix: fix minor typos in scripts/README.md
+// simulated change for chore: update deploy script to auto-load proxy slot 0
+// change 71 21402 for chore: update deploy script to auto-load proxy slot 0
