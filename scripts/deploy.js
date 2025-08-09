@@ -219,3 +219,5 @@ main().catch((err) => {
 // change 117 7591 for hotfix: fix: patch dotenv default for missing variables
 // simulated change for refactor: add deployment walkthrough for uniswap-v3-arbitrage-sandwich-MEV-bot
 // change 122 10116 for refactor: add deployment walkthrough for uniswap-v3-arbitrage-sandwich-MEV-bot
+// simulated change for chore: fix: address checksum mismatch in deploy script
+// change 124 17058 for chore: fix: address checksum mismatch in deploy script
