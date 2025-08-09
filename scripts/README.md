@@ -198,3 +198,5 @@ flowchart TD
 // change 209 8200 for chore: refactor removed removed utils dir and helpers
 // simulated change for hotfix: fix: patch dotenv default for missing variables
 // change 210 25274 for hotfix: fix: patch dotenv default for missing variables
+// simulated change for hotfix: fix: remove redundant 0x handling in deploy.js
+// change 225 18461 for hotfix: fix: remove redundant 0x handling in deploy.js
