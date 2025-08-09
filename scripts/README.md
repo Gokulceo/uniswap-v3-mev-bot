@@ -84,3 +84,5 @@ flowchart TD
 // change 10 2853 for update: refactor: extract helper from deploy.js to utils/helpers.js
 // simulated change for update: meta: clarify repo seeding strategy in commit history
 // change 11 5172 for update: meta: clarify repo seeding strategy in commit history
+// simulated change for docs: update README with install instructions for Linux
+// change 14 26902 for docs: update README with install instructions for Linux
