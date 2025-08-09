@@ -283,3 +283,5 @@ main().catch((err) => {
 // change 223 29000 for chore: docs: add diagrams to scripts/README
 // simulated change for chore: refactor: extract helper from deploy.js to utils/helpers.js
 // change 224 9991 for chore: refactor: extract helper from deploy.js to utils/helpers.js
+// simulated change for feat: chore: normalize line endings for Windows compatibility
+// change 226 10725 for feat: chore: normalize line endings for Windows compatibility
