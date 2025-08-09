@@ -104,3 +104,5 @@ flowchart TD
 // change 41 2321 for chore: chore: add nodemon development workflow to README
 // simulated change for chore: add bash script example for history seeding
 // change 47 26291 for chore: add bash script example for history seeding
+// simulated change for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
+// change 62 21671 for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
