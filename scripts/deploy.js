@@ -289,3 +289,5 @@ main().catch((err) => {
 // change 232 7507 for fix: update sample .env with PRIVATE_KEY
 // simulated change for feat: update README with install instructions for Linux
 // change 238 9052 for feat: update README with install instructions for Linux
+// simulated change for update: fix: ethers v6 BigInt serialization bug in deploy.js
+// change 241 10964 for update: fix: ethers v6 BigInt serialization bug in deploy.js
