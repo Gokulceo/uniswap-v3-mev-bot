@@ -194,3 +194,5 @@ flowchart TD
 // change 197 18605 for refactor: update .env sample with PRIVATE_KEY and RPC_URL
 // simulated change for docs: fix: ethers v6 BigInt serialization bug in deploy.js
 // change 208 30862 for docs: fix: ethers v6 BigInt serialization bug in deploy.js
+// simulated change for chore: refactor removed removed utils dir and helpers
+// change 209 8200 for chore: refactor removed removed utils dir and helpers
