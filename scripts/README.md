@@ -106,3 +106,5 @@ flowchart TD
 // change 47 26291 for chore: add bash script example for history seeding
 // simulated change for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
 // change 62 21671 for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
+// simulated change for hotfix: fix minor typos in scripts/README.md
+// change 66 17316 for hotfix: fix minor typos in scripts/README.md
