@@ -90,3 +90,5 @@ flowchart TD
 // change 18 2135 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
 // simulated change for feat: update usage examples to include hardhat run --network
 // change 21 27236 for feat: update usage examples to include hardhat run --network
+// simulated change for update: chore: add nodemon development workflow to README
+// change 28 5546 for update: chore: add nodemon development workflow to README
