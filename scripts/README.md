@@ -214,3 +214,5 @@ flowchart TD
 // change 246 9895 for feat: update deploy script to auto-load proxy slot 0
 // simulated change for chore: docs: update CLI examples in scripts/README.md
 // change 261 8162 for chore: docs: update CLI examples in scripts/README.md
+// simulated change for refactor: update usage examples to include hardhat run --network
+// change 263 11233 for refactor: update usage examples to include hardhat run --network
