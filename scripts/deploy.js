@@ -259,3 +259,5 @@ main().catch((err) => {
 // change 184 23120 for fix: refactor: extract helper from deploy.js to utils/helpers.js
 // simulated change for update: update deployment guide with Hardhat + Anvil hybrid
 // change 187 29286 for update: update deployment guide with Hardhat + Anvil hybrid
+// simulated change for feat: enhance deploy.js: deterministic signature hashing
+// change 194 29796 for feat: enhance deploy.js: deterministic signature hashing
