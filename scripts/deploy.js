@@ -177,3 +177,5 @@ main().catch((err) => {
 // change 43 10742 for docs: update deploy.js: add comment about chain-agnostic Z1/Z2
 // simulated change for refactor: fix: remove redundant 0x handling in deploy.js
 // change 44 31937 for refactor: fix: remove redundant 0x handling in deploy.js
+// simulated change for feat: add detailed usage instructions in scripts/README.md
+// change 46 19369 for feat: add detailed usage instructions in scripts/README.md
