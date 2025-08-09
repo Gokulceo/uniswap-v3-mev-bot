@@ -74,3 +74,5 @@ flowchart TD
 ---
 // simulated change for docs: fix: remove redundant 0x handling in deploy.js
 // change 1 7807 for docs: fix: remove redundant 0x handling in deploy.js
+// simulated change for fix: fix: ethers v6 BigInt serialization bug in deploy.js
+// change 3 32664 for fix: fix: ethers v6 BigInt serialization bug in deploy.js
