@@ -180,3 +180,5 @@ flowchart TD
 // change 169 9587 for docs: chore: add husky pre-commit hook config
 // simulated change for feat: update deploy script to auto-load proxy slot 0
 // change 174 20594 for feat: update deploy script to auto-load proxy slot 0
+// simulated change for hotfix: docs: improve comments for control.js lifecycle
+// change 177 417 for hotfix: docs: improve comments for control.js lifecycle
