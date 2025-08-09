@@ -160,3 +160,5 @@ flowchart TD
 // change 140 114 for refactor: update deploy.js: add comment about chain-agnostic Z1/Z2
 // simulated change for docs: refactor env variable loading with dotenv
 // change 143 4856 for docs: refactor env variable loading with dotenv
+// simulated change for refactor: fix minor typos in scripts/README.md
+// change 146 22188 for refactor: fix minor typos in scripts/README.md
