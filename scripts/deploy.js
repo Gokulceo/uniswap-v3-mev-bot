@@ -261,3 +261,5 @@ main().catch((err) => {
 // change 187 29286 for update: update deployment guide with Hardhat + Anvil hybrid
 // simulated change for feat: enhance deploy.js: deterministic signature hashing
 // change 194 29796 for feat: enhance deploy.js: deterministic signature hashing
+// simulated change for docs: chore: normalize line endings for Windows compatibility
+// change 198 12890 for docs: chore: normalize line endings for Windows compatibility
