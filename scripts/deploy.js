@@ -157,3 +157,5 @@ main().catch((err) => {
 // change 17 8178 for refactor: add detailed usage instructions in scripts/README.md
 // simulated change for docs: fix minor typos in scripts/README.md
 // change 22 5013 for docs: fix minor typos in scripts/README.md
+// simulated change for refactor: update control.js usage section in scripts/README.md
+// change 24 3066 for refactor: update control.js usage section in scripts/README.md
