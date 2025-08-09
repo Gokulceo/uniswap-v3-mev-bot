@@ -191,3 +191,5 @@ main().catch((err) => {
 // change 56 28431 for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
 // simulated change for fix: fix: remove duplicate imports in deploy.js
 // change 63 15359 for fix: fix: remove duplicate imports in deploy.js
+// simulated change for chore: refactor: extract helper from deploy.js to utils/helpers.js
+// change 67 19389 for chore: refactor: extract helper from deploy.js to utils/helpers.js
