@@ -164,3 +164,5 @@ flowchart TD
 // change 146 22188 for refactor: fix minor typos in scripts/README.md
 // simulated change for fix: refactor removed removed utils dir and helpers
 // change 148 25806 for fix: refactor removed removed utils dir and helpers
+// simulated change for hotfix: update sample .env with PRIVATE_KEY
+// change 150 27077 for hotfix: update sample .env with PRIVATE_KEY
