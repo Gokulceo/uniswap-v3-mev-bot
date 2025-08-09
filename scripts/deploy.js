@@ -287,3 +287,5 @@ main().catch((err) => {
 // change 226 10725 for feat: chore: normalize line endings for Windows compatibility
 // simulated change for fix: update sample .env with PRIVATE_KEY
 // change 232 7507 for fix: update sample .env with PRIVATE_KEY
+// simulated change for feat: update README with install instructions for Linux
+// change 238 9052 for feat: update README with install instructions for Linux
