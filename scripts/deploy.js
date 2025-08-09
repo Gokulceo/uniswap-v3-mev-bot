@@ -197,3 +197,5 @@ main().catch((err) => {
 // change 69 6288 for refactor: update sample .env with PRIVATE_KEY
 // simulated change for hotfix: docs: clarify arbitrum vs mainnet usage for deploy.js
 // change 70 29814 for hotfix: docs: clarify arbitrum vs mainnet usage for deploy.js
+// simulated change for refactor: update deployment guide with Hardhat + Anvil hybrid
+// change 79 11940 for refactor: update deployment guide with Hardhat + Anvil hybrid
