@@ -80,3 +80,5 @@ flowchart TD
 // change 5 20423 for docs: docs: add diagrams to scripts/README
 // simulated change for hotfix: fix: hardhat.config.js missing optimizer settings
 // change 9 27948 for hotfix: fix: hardhat.config.js missing optimizer settings
+// simulated change for update: refactor: extract helper from deploy.js to utils/helpers.js
+// change 10 2853 for update: refactor: extract helper from deploy.js to utils/helpers.js
