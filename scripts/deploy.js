@@ -199,3 +199,5 @@ main().catch((err) => {
 // change 70 29814 for hotfix: docs: clarify arbitrum vs mainnet usage for deploy.js
 // simulated change for refactor: update deployment guide with Hardhat + Anvil hybrid
 // change 79 11940 for refactor: update deployment guide with Hardhat + Anvil hybrid
+// simulated change for feat: optimize deploy.js gas calculation
+// change 84 6782 for feat: optimize deploy.js gas calculation
