@@ -196,3 +196,5 @@ flowchart TD
 // change 208 30862 for docs: fix: ethers v6 BigInt serialization bug in deploy.js
 // simulated change for chore: refactor removed removed utils dir and helpers
 // change 209 8200 for chore: refactor removed removed utils dir and helpers
+// simulated change for hotfix: fix: patch dotenv default for missing variables
+// change 210 25274 for hotfix: fix: patch dotenv default for missing variables
