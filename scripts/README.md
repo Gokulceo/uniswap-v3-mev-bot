@@ -78,3 +78,5 @@ flowchart TD
 // change 3 32664 for fix: fix: ethers v6 BigInt serialization bug in deploy.js
 // simulated change for docs: docs: add diagrams to scripts/README
 // change 5 20423 for docs: docs: add diagrams to scripts/README
+// simulated change for hotfix: fix: hardhat.config.js missing optimizer settings
+// change 9 27948 for hotfix: fix: hardhat.config.js missing optimizer settings
