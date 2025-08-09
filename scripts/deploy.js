@@ -227,3 +227,5 @@ main().catch((err) => {
 // change 130 6689 for hotfix: update deployment guide with Hardhat + Anvil hybrid
 // simulated change for chore: refactor removed removed utils dir and helpers
 // change 136 21777 for chore: refactor removed removed utils dir and helpers
+// simulated change for docs: docs: expand scripts/README.md with env troubleshooting
+// change 141 8002 for docs: docs: expand scripts/README.md with env troubleshooting
