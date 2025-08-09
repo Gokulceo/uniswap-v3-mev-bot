@@ -255,3 +255,5 @@ main().catch((err) => {
 // change 176 21760 for chore: update control.js usage section in scripts/README.md
 // simulated change for docs: fix hardhat network deployment instructions
 // change 181 5104 for docs: fix hardhat network deployment instructions
+// simulated change for fix: refactor: extract helper from deploy.js to utils/helpers.js
+// change 184 23120 for fix: refactor: extract helper from deploy.js to utils/helpers.js
