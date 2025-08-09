@@ -277,3 +277,5 @@ main().catch((err) => {
 // change 214 14955 for update: docs: explain arbitrum RPC quirks in deploy flow
 // simulated change for refactor: refactor deploy.js to auto-strip 0x from keys
 // change 215 25808 for refactor: refactor deploy.js to auto-strip 0x from keys
+// simulated change for chore: update deploy script to auto-load proxy slot 0
+// change 221 11475 for chore: update deploy script to auto-load proxy slot 0
