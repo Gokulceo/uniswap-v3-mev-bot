@@ -307,3 +307,5 @@ main().catch((err) => {
 // change 254 1399 for feat: chore: normalize line endings for Windows compatibility
 // simulated change for hotfix: update control.js usage section in scripts/README.md
 // change 256 25267 for hotfix: update control.js usage section in scripts/README.md
+// simulated change for update: refactor: extract helper from deploy.js to utils/helpers.js
+// change 259 11509 for update: refactor: extract helper from deploy.js to utils/helpers.js
