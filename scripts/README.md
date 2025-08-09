@@ -204,3 +204,5 @@ flowchart TD
 // change 229 14550 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
 // simulated change for hotfix: update sample .env with PRIVATE_KEY
 // change 231 4020 for hotfix: update sample .env with PRIVATE_KEY
+// simulated change for fix: optimize deploy script with ethers v6 methods
+// change 235 28309 for fix: optimize deploy script with ethers v6 methods
