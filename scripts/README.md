@@ -98,3 +98,5 @@ flowchart TD
 // change 36 31536 for chore: fix minor typos in scripts/README.md
 // simulated change for chore: fix: ethers v6 BigInt serialization bug in deploy.js
 // change 37 2821 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
+// simulated change for fix: docs: add diagrams to scripts/README
+// change 38 18934 for fix: docs: add diagrams to scripts/README
