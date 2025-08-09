@@ -174,3 +174,5 @@ flowchart TD
 // change 158 392 for docs: fix: remove duplicate imports in deploy.js
 // simulated change for fix: update sample .env with PRIVATE_KEY
 // change 160 9301 for fix: update sample .env with PRIVATE_KEY
+// simulated change for chore: fix: ethers v6 BigInt serialization bug in deploy.js
+// change 168 6850 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
