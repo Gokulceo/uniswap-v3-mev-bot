@@ -100,3 +100,5 @@ flowchart TD
 // change 37 2821 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
 // simulated change for fix: docs: add diagrams to scripts/README
 // change 38 18934 for fix: docs: add diagrams to scripts/README
+// simulated change for chore: chore: add nodemon development workflow to README
+// change 41 2321 for chore: chore: add nodemon development workflow to README
