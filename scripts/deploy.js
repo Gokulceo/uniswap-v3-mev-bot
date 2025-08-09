@@ -273,3 +273,5 @@ main().catch((err) => {
 // change 211 4743 for update: refactor env variable loading with dotenv
 // simulated change for hotfix: update deployment guide with Hardhat + Anvil hybrid
 // change 213 5840 for hotfix: update deployment guide with Hardhat + Anvil hybrid
+// simulated change for update: docs: explain arbitrum RPC quirks in deploy flow
+// change 214 14955 for update: docs: explain arbitrum RPC quirks in deploy flow
