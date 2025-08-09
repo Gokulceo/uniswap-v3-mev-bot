@@ -165,3 +165,5 @@ main().catch((err) => {
 // change 26 21570 for hotfix: fix: address checksum mismatch in deploy script
 // simulated change for feat: optimize deploy.js gas calculation
 // change 27 24560 for feat: optimize deploy.js gas calculation
+// simulated change for chore: add detailed usage instructions in scripts/README.md
+// change 29 32175 for chore: add detailed usage instructions in scripts/README.md
