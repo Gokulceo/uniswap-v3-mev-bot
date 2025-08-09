@@ -86,3 +86,5 @@ flowchart TD
 // change 11 5172 for update: meta: clarify repo seeding strategy in commit history
 // simulated change for docs: update README with install instructions for Linux
 // change 14 26902 for docs: update README with install instructions for Linux
+// simulated change for chore: fix: ethers v6 BigInt serialization bug in deploy.js
+// change 18 2135 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
