@@ -200,3 +200,5 @@ flowchart TD
 // change 210 25274 for hotfix: fix: patch dotenv default for missing variables
 // simulated change for hotfix: fix: remove redundant 0x handling in deploy.js
 // change 225 18461 for hotfix: fix: remove redundant 0x handling in deploy.js
+// simulated change for chore: fix: ethers v6 BigInt serialization bug in deploy.js
+// change 229 14550 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
