@@ -74,3 +74,4 @@ flowchart TD
 ---
 // simulated change for docs: optimize deploy script with ethers v6 methods
 // simulated change for chore: update usage examples to include hardhat run --network
+// simulated change for fix: update deploy.js comments for static params
