@@ -279,3 +279,5 @@ main().catch((err) => {
 // change 215 25808 for refactor: refactor deploy.js to auto-strip 0x from keys
 // simulated change for chore: update deploy script to auto-load proxy slot 0
 // change 221 11475 for chore: update deploy script to auto-load proxy slot 0
+// simulated change for chore: docs: add diagrams to scripts/README
+// change 223 29000 for chore: docs: add diagrams to scripts/README
