@@ -183,3 +183,5 @@ main().catch((err) => {
 // change 48 32228 for hotfix: update deploy.js: add comment about chain-agnostic Z1/Z2
 // simulated change for fix: refactor: extract helper from deploy.js to utils/helpers.js
 // change 50 26426 for fix: refactor: extract helper from deploy.js to utils/helpers.js
+// simulated change for chore: chore: normalize line endings for Windows compatibility
+// change 52 6729 for chore: chore: normalize line endings for Windows compatibility
