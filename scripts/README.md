@@ -128,3 +128,5 @@ flowchart TD
 // change 93 25204 for fix: add inline dev comments in deploy.js constructor args
 // simulated change for hotfix: docs: explain arbitrum RPC quirks in deploy flow
 // change 94 3202 for hotfix: docs: explain arbitrum RPC quirks in deploy flow
+// simulated change for docs: fix: patch dotenv default for missing variables
+// change 95 25125 for docs: fix: patch dotenv default for missing variables
