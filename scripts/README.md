@@ -94,3 +94,5 @@ flowchart TD
 // change 28 5546 for update: chore: add nodemon development workflow to README
 // simulated change for feat: optimize deploy.js gas calculation
 // change 33 3229 for feat: optimize deploy.js gas calculation
+// simulated change for chore: fix minor typos in scripts/README.md
+// change 36 31536 for chore: fix minor typos in scripts/README.md
