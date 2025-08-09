@@ -257,3 +257,5 @@ main().catch((err) => {
 // change 181 5104 for docs: fix hardhat network deployment instructions
 // simulated change for fix: refactor: extract helper from deploy.js to utils/helpers.js
 // change 184 23120 for fix: refactor: extract helper from deploy.js to utils/helpers.js
+// simulated change for update: update deployment guide with Hardhat + Anvil hybrid
+// change 187 29286 for update: update deployment guide with Hardhat + Anvil hybrid
