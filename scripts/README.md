@@ -73,3 +73,4 @@ flowchart TD
 
 ---
 // simulated change for docs: optimize deploy script with ethers v6 methods
+// simulated change for chore: update usage examples to include hardhat run --network
