@@ -116,3 +116,5 @@ flowchart TD
 // change 73 14039 for update: update usage examples to include hardhat run --network
 // simulated change for update: refactor deploy.js to auto-strip 0x from keys
 // change 74 8411 for update: refactor deploy.js to auto-strip 0x from keys
+// simulated change for hotfix: chore: add nodemon development workflow to README
+// change 77 17585 for hotfix: chore: add nodemon development workflow to README
