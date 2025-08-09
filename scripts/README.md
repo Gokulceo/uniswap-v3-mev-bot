@@ -110,3 +110,5 @@ flowchart TD
 // change 66 17316 for hotfix: fix minor typos in scripts/README.md
 // simulated change for chore: update deploy script to auto-load proxy slot 0
 // change 71 21402 for chore: update deploy script to auto-load proxy slot 0
+// simulated change for chore: refactor deploy.js to auto-strip 0x from keys
+// change 72 18205 for chore: refactor deploy.js to auto-strip 0x from keys
