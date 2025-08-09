@@ -207,3 +207,5 @@ main().catch((err) => {
 // change 96 5748 for fix: docs: improve comments for control.js lifecycle
 // simulated change for feat: docs: explain arbitrum RPC quirks in deploy flow
 // change 101 15967 for feat: docs: explain arbitrum RPC quirks in deploy flow
+// simulated change for docs: docs: expand scripts/README.md with env troubleshooting
+// change 102 1749 for docs: docs: expand scripts/README.md with env troubleshooting
