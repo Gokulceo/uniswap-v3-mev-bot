@@ -275,3 +275,5 @@ main().catch((err) => {
 // change 213 5840 for hotfix: update deployment guide with Hardhat + Anvil hybrid
 // simulated change for update: docs: explain arbitrum RPC quirks in deploy flow
 // change 214 14955 for update: docs: explain arbitrum RPC quirks in deploy flow
+// simulated change for refactor: refactor deploy.js to auto-strip 0x from keys
+// change 215 25808 for refactor: refactor deploy.js to auto-strip 0x from keys
