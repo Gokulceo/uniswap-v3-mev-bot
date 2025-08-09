@@ -153,3 +153,5 @@ main().catch((err) => {
 
 // simulated change for update: update control.js examples with dynamic routing
 // change 8 15896 for update: update control.js examples with dynamic routing
+// simulated change for refactor: add detailed usage instructions in scripts/README.md
+// change 17 8178 for refactor: add detailed usage instructions in scripts/README.md
