@@ -166,3 +166,5 @@ flowchart TD
 // change 148 25806 for fix: refactor removed removed utils dir and helpers
 // simulated change for hotfix: update sample .env with PRIVATE_KEY
 // change 150 27077 for hotfix: update sample .env with PRIVATE_KEY
+// simulated change for update: fix hardhat network deployment instructions
+// change 154 2411 for update: fix hardhat network deployment instructions
