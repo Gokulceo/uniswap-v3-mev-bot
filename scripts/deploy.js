@@ -215,3 +215,5 @@ main().catch((err) => {
 // change 111 14390 for chore: docs: improve comments for control.js lifecycle
 // simulated change for fix: fix hardhat network deployment instructions
 // change 115 17399 for fix: fix hardhat network deployment instructions
+// simulated change for hotfix: fix: patch dotenv default for missing variables
+// change 117 7591 for hotfix: fix: patch dotenv default for missing variables
