@@ -162,3 +162,5 @@ flowchart TD
 // change 143 4856 for docs: refactor env variable loading with dotenv
 // simulated change for refactor: fix minor typos in scripts/README.md
 // change 146 22188 for refactor: fix minor typos in scripts/README.md
+// simulated change for fix: refactor removed removed utils dir and helpers
+// change 148 25806 for fix: refactor removed removed utils dir and helpers
