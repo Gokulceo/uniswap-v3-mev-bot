@@ -202,3 +202,5 @@ flowchart TD
 // change 225 18461 for hotfix: fix: remove redundant 0x handling in deploy.js
 // simulated change for chore: fix: ethers v6 BigInt serialization bug in deploy.js
 // change 229 14550 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
+// simulated change for hotfix: update sample .env with PRIVATE_KEY
+// change 231 4020 for hotfix: update sample .env with PRIVATE_KEY
