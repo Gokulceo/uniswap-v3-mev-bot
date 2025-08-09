@@ -122,3 +122,5 @@ flowchart TD
 // change 87 16601 for fix: chore: add husky pre-commit hook config
 // simulated change for chore: refactor: extract helper from deploy.js to utils/helpers.js
 // change 88 28156 for chore: refactor: extract helper from deploy.js to utils/helpers.js
+// simulated change for docs: fix: patch dotenv default for missing variables
+// change 89 2420 for docs: fix: patch dotenv default for missing variables
