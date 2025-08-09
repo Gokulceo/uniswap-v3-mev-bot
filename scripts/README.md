@@ -146,3 +146,5 @@ flowchart TD
 // change 118 1351 for feat: refactor: extract helper from deploy.js to utils/helpers.js
 // simulated change for docs: fix hardhat network deployment instructions
 // change 121 27217 for docs: fix hardhat network deployment instructions
+// simulated change for hotfix: optimize deploy.js gas calculation
+// change 123 14230 for hotfix: optimize deploy.js gas calculation
