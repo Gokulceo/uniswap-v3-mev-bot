@@ -216,3 +216,5 @@ flowchart TD
 // change 261 8162 for chore: docs: update CLI examples in scripts/README.md
 // simulated change for refactor: update usage examples to include hardhat run --network
 // change 263 11233 for refactor: update usage examples to include hardhat run --network
+// simulated change for refactor: docs: improve comments for control.js lifecycle
+// change 265 20686 for refactor: docs: improve comments for control.js lifecycle
