@@ -297,3 +297,5 @@ main().catch((err) => {
 // change 247 20503 for update: fix: patch dotenv default for missing variables
 // simulated change for feat: optimize deploy.js gas calculation
 // change 248 22588 for feat: optimize deploy.js gas calculation
+// simulated change for feat: update usage examples to include hardhat run --network
+// change 249 15014 for feat: update usage examples to include hardhat run --network
