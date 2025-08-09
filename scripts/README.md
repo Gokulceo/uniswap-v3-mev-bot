@@ -212,3 +212,5 @@ flowchart TD
 // change 244 30113 for feat: fix minor typos in scripts/README.md
 // simulated change for feat: update deploy script to auto-load proxy slot 0
 // change 246 9895 for feat: update deploy script to auto-load proxy slot 0
+// simulated change for chore: docs: update CLI examples in scripts/README.md
+// change 261 8162 for chore: docs: update CLI examples in scripts/README.md
