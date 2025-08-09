@@ -181,3 +181,5 @@ main().catch((err) => {
 // change 46 19369 for feat: add detailed usage instructions in scripts/README.md
 // simulated change for hotfix: update deploy.js: add comment about chain-agnostic Z1/Z2
 // change 48 32228 for hotfix: update deploy.js: add comment about chain-agnostic Z1/Z2
+// simulated change for fix: refactor: extract helper from deploy.js to utils/helpers.js
+// change 50 26426 for fix: refactor: extract helper from deploy.js to utils/helpers.js
