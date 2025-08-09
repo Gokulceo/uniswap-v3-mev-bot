@@ -247,3 +247,5 @@ main().catch((err) => {
 // change 162 17590 for chore: add deployment walkthrough for uniswap-v3-arbitrage-sandwich-MEV-bot
 // simulated change for feat: fix: hardhat.config.js missing optimizer settings
 // change 166 2731 for feat: fix: hardhat.config.js missing optimizer settings
+// simulated change for update: docs: explain arbitrum RPC quirks in deploy flow
+// change 170 1603 for update: docs: explain arbitrum RPC quirks in deploy flow
