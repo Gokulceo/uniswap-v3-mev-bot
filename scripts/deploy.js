@@ -303,3 +303,5 @@ main().catch((err) => {
 // change 250 10741 for update: add bash script example for history seeding
 // simulated change for feat: add deployment walkthrough for uniswap-v3-arbitrage-sandwich-MEV-bot
 // change 252 32691 for feat: add deployment walkthrough for uniswap-v3-arbitrage-sandwich-MEV-bot
+// simulated change for feat: chore: normalize line endings for Windows compatibility
+// change 254 1399 for feat: chore: normalize line endings for Windows compatibility
