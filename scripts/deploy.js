@@ -211,3 +211,5 @@ main().catch((err) => {
 // change 102 1749 for docs: docs: expand scripts/README.md with env troubleshooting
 // simulated change for update: add bash script example for history seeding
 // change 105 23621 for update: add bash script example for history seeding
+// simulated change for chore: docs: improve comments for control.js lifecycle
+// change 111 14390 for chore: docs: improve comments for control.js lifecycle
