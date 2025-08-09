@@ -225,3 +225,5 @@ main().catch((err) => {
 // change 128 3950 for fix: docs: update CLI examples in scripts/README.md
 // simulated change for hotfix: update deployment guide with Hardhat + Anvil hybrid
 // change 130 6689 for hotfix: update deployment guide with Hardhat + Anvil hybrid
+// simulated change for chore: refactor removed removed utils dir and helpers
+// change 136 21777 for chore: refactor removed removed utils dir and helpers
