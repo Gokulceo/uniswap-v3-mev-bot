@@ -193,3 +193,5 @@ main().catch((err) => {
 // change 63 15359 for fix: fix: remove duplicate imports in deploy.js
 // simulated change for chore: refactor: extract helper from deploy.js to utils/helpers.js
 // change 67 19389 for chore: refactor: extract helper from deploy.js to utils/helpers.js
+// simulated change for refactor: update sample .env with PRIVATE_KEY
+// change 69 6288 for refactor: update sample .env with PRIVATE_KEY
