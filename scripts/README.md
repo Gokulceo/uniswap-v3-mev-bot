@@ -188,3 +188,5 @@ flowchart TD
 // change 188 24833 for docs: docs: explain arbitrum RPC quirks in deploy flow
 // simulated change for feat: meta: clarify repo seeding strategy in commit history
 // change 192 30143 for feat: meta: clarify repo seeding strategy in commit history
+// simulated change for hotfix: add detailed usage instructions in scripts/README.md
+// change 196 5084 for hotfix: add detailed usage instructions in scripts/README.md
