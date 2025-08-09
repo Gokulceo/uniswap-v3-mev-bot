@@ -251,3 +251,5 @@ main().catch((err) => {
 // change 170 1603 for update: docs: explain arbitrum RPC quirks in deploy flow
 // simulated change for feat: optimize deploy script with ethers v6 methods
 // change 171 5904 for feat: optimize deploy script with ethers v6 methods
+// simulated change for chore: update control.js usage section in scripts/README.md
+// change 176 21760 for chore: update control.js usage section in scripts/README.md
