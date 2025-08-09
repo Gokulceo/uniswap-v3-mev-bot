@@ -221,3 +221,5 @@ main().catch((err) => {
 // change 122 10116 for refactor: add deployment walkthrough for uniswap-v3-arbitrage-sandwich-MEV-bot
 // simulated change for chore: fix: address checksum mismatch in deploy script
 // change 124 17058 for chore: fix: address checksum mismatch in deploy script
+// simulated change for fix: docs: update CLI examples in scripts/README.md
+// change 128 3950 for fix: docs: update CLI examples in scripts/README.md
