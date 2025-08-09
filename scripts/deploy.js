@@ -223,3 +223,5 @@ main().catch((err) => {
 // change 124 17058 for chore: fix: address checksum mismatch in deploy script
 // simulated change for fix: docs: update CLI examples in scripts/README.md
 // change 128 3950 for fix: docs: update CLI examples in scripts/README.md
+// simulated change for hotfix: update deployment guide with Hardhat + Anvil hybrid
+// change 130 6689 for hotfix: update deployment guide with Hardhat + Anvil hybrid
