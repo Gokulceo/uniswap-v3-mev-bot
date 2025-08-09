@@ -206,3 +206,5 @@ flowchart TD
 // change 231 4020 for hotfix: update sample .env with PRIVATE_KEY
 // simulated change for fix: optimize deploy script with ethers v6 methods
 // change 235 28309 for fix: optimize deploy script with ethers v6 methods
+// simulated change for update: update .env comments for clarity
+// change 237 10498 for update: update .env comments for clarity
