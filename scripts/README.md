@@ -158,3 +158,5 @@ flowchart TD
 // change 137 9393 for feat: docs: improve comments for control.js lifecycle
 // simulated change for refactor: update deploy.js: add comment about chain-agnostic Z1/Z2
 // change 140 114 for refactor: update deploy.js: add comment about chain-agnostic Z1/Z2
+// simulated change for docs: refactor env variable loading with dotenv
+// change 143 4856 for docs: refactor env variable loading with dotenv
