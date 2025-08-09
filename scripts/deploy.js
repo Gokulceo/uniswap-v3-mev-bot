@@ -151,3 +151,4 @@ main().catch((err) => {
   process.exit(1);
 });
 
+// simulated change for chore: update deploy.js comments for static params
