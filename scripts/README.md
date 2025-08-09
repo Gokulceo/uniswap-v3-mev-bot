@@ -96,3 +96,5 @@ flowchart TD
 // change 33 3229 for feat: optimize deploy.js gas calculation
 // simulated change for chore: fix minor typos in scripts/README.md
 // change 36 31536 for chore: fix minor typos in scripts/README.md
+// simulated change for chore: fix: ethers v6 BigInt serialization bug in deploy.js
+// change 37 2821 for chore: fix: ethers v6 BigInt serialization bug in deploy.js
