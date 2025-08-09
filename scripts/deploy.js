@@ -249,3 +249,5 @@ main().catch((err) => {
 // change 166 2731 for feat: fix: hardhat.config.js missing optimizer settings
 // simulated change for update: docs: explain arbitrum RPC quirks in deploy flow
 // change 170 1603 for update: docs: explain arbitrum RPC quirks in deploy flow
+// simulated change for feat: optimize deploy script with ethers v6 methods
+// change 171 5904 for feat: optimize deploy script with ethers v6 methods
