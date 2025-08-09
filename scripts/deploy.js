@@ -152,3 +152,4 @@ main().catch((err) => {
 });
 
 // simulated change for chore: update deploy.js comments for static params
+// simulated change for chore: update deploy.js with static Z1/Z2 comments
