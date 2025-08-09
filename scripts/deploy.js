@@ -173,3 +173,5 @@ main().catch((err) => {
 // change 31 14722 for docs: fix: patch dotenv default for missing variables
 // simulated change for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
 // change 40 18097 for fix: docs: clarify arbitrum vs mainnet usage for deploy.js
+// simulated change for docs: update deploy.js: add comment about chain-agnostic Z1/Z2
+// change 43 10742 for docs: update deploy.js: add comment about chain-agnostic Z1/Z2
