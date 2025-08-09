@@ -265,3 +265,5 @@ main().catch((err) => {
 // change 198 12890 for docs: chore: normalize line endings for Windows compatibility
 // simulated change for refactor: optimize deploy.js gas calculation
 // change 200 5677 for refactor: optimize deploy.js gas calculation
+// simulated change for refactor: refactor deploy.js to auto-strip 0x from keys
+// change 203 5183 for refactor: refactor deploy.js to auto-strip 0x from keys
