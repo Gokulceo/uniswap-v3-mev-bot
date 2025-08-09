@@ -136,3 +136,5 @@ flowchart TD
 // change 100 25949 for feat: fix minor typos in scripts/README.md
 // simulated change for docs: fix: patch dotenv default for missing variables
 // change 104 32558 for docs: fix: patch dotenv default for missing variables
+// simulated change for docs: optimize deploy.js gas calculation
+// change 107 25313 for docs: optimize deploy.js gas calculation
