@@ -150,3 +150,5 @@ flowchart TD
 // change 123 14230 for hotfix: optimize deploy.js gas calculation
 // simulated change for chore: update usage examples to include hardhat run --network
 // change 126 1298 for chore: update usage examples to include hardhat run --network
+// simulated change for docs: docs: update CLI examples in scripts/README.md
+// change 131 6187 for docs: docs: update CLI examples in scripts/README.md
