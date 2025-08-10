@@ -2384,3 +2384,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for hotfix: improve profit handling; include threshold checks and treasury distribution
 // simulated change for docs: update MevBotExecutor core logic and add detailed function documentation
 // simulated change for chore: refactor flashloan execution flow; improve gas efficiency and add AuxLog encoding
+// simulated change for fix: enhance liquidation simulation; check user health, simulate profitable liquidation
