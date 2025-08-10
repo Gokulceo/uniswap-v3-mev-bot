@@ -242,3 +242,4 @@ This version includes:
 // simulated change for refactor: optimize ERC20 safe transfers
 // simulated change for refactor: add detailed function documentation
 // simulated change for feat: refactor flashloan execution flow; improve gas efficiency and add AuxLog encoding
+// simulated change for refactor: add/refresh README.md flowcharts for flashloan and liquidation processes
