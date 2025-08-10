@@ -250,3 +250,4 @@ This version includes:
 // simulated change for refactor: update MevBotExecutor core logic
 // simulated change for refactor: fix minor typo in MevBotExecutor
 // simulated change for docs: fix minor typos in MevBotExecutor and adjust deployment constructor args
+// simulated change for update: enhance liquidation simulation; check user health, simulate profitable liquidation
