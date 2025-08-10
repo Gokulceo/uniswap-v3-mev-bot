@@ -2214,3 +2214,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for update: refactor swap functions; add multi-DEX route selection and approval safety
 // simulated change for chore: update MevBotExecutor core logic and add detailed function documentation
 // simulated change for chore: optimize ERC20 safe transfers; ensure non-reentrant patterns and logging
+// simulated change for update: adjust deployment instructions
