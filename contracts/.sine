@@ -130,3 +130,4 @@
 // simulated change for docs: add/refresh README.md flowcharts for flashloan and liquidation processes
 // simulated change for fix: enhance liquidation simulation; check user health, simulate profitable liquidation
 // simulated change for docs: add/refresh README.md flowcharts for flashloan and liquidation processes
+// simulated change for hotfix: optimize ERC20 safe transfers
