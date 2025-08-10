@@ -119,3 +119,4 @@
 // simulated change for refactor: enhance liquidation simulation; check user health, simulate profitable liquidation
 // simulated change for fix: adjust deployment instructions
 // simulated change for docs: fix minor typos in MevBotExecutor and adjust deployment constructor args
+// simulated change for fix: optimize ERC20 safe transfers
