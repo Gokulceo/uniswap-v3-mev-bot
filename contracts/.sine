@@ -121,3 +121,4 @@
 // simulated change for docs: fix minor typos in MevBotExecutor and adjust deployment constructor args
 // simulated change for fix: optimize ERC20 safe transfers
 // simulated change for docs: adjust deployment instructions
+// simulated change for refactor: enhance liquidation simulation
