@@ -194,3 +194,4 @@ This version includes:
 // simulated change for chore: improve AI routing doAiLogic
 // simulated change for fix: refactor flashloan execution flow
 // simulated change for hotfix: update README.md with flowcharts
+// simulated change for fix: update roadmap section; include AI features and pending audits references
