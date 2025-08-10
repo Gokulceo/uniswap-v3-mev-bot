@@ -2387,3 +2387,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for fix: enhance liquidation simulation; check user health, simulate profitable liquidation
 // simulated change for update: update MevBotExecutor core logic and add detailed function documentation
 // simulated change for docs: update README.md with flowcharts
+// simulated change for docs: enhance liquidation simulation; check user health, simulate profitable liquidation
