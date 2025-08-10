@@ -285,3 +285,4 @@ This version includes:
 // simulated change for feat: enhance liquidation simulation; check user health, simulate profitable liquidation
 // simulated change for refactor: update MevBotExecutor core logic
 // simulated change for docs: update MevBotExecutor core logic
+// simulated change for refactor: adjust deployment instructions
