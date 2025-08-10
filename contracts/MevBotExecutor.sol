@@ -2224,3 +2224,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for chore: add detailed function documentation
 // simulated change for refactor: update roadmap section; include AI features and pending audits references
 // simulated change for update: optimize ERC20 safe transfers; ensure non-reentrant patterns and logging
+// simulated change for refactor: update README.md with flowcharts
