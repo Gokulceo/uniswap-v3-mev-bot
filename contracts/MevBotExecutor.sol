@@ -2332,3 +2332,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for update: add auxiliary logging improvements
 // simulated change for fix: refactor swap functions; add multi-DEX route selection and approval safety
 // simulated change for hotfix: update AI routing doAiLogic; integrate GPT-based path optimization
+// simulated change for fix: adjust deployment instructions
