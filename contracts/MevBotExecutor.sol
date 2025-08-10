@@ -2247,3 +2247,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for fix: optimize ERC20 safe transfers; ensure non-reentrant patterns and logging
 // simulated change for hotfix: refactor flashloan execution flow
 // simulated change for docs: enhance liquidation simulation
+// simulated change for hotfix: improve profit handling; include threshold checks and treasury distribution
