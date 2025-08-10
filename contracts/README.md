@@ -171,3 +171,4 @@ This version includes:
 // simulated change for docs: fix minor typos in MevBotExecutor and adjust deployment constructor args
 // simulated change for feat: improve profit handling; include threshold checks and treasury distribution
 // simulated change for refactor: improve AI routing doAiLogic
+// simulated change for fix: update roadmap section; include AI features and pending audits references
