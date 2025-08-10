@@ -2367,3 +2367,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for feat: add auxiliary logging improvements
 // simulated change for docs: improve profit handling; include threshold checks and treasury distribution
 // simulated change for fix: update AI routing doAiLogic; integrate GPT-based path optimization
+// simulated change for fix: adjust deployment instructions
