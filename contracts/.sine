@@ -30,3 +30,4 @@
 // simulated change for refactor: update MevBotExecutor core logic and add detailed function documentation
 // simulated change for docs: refactor swap functions; add multi-DEX route selection and approval safety
 // simulated change for feat: refactor flashloan execution flow; improve gas efficiency and add AuxLog encoding
+// simulated change for update: add/refresh README.md flowcharts for flashloan and liquidation processes
