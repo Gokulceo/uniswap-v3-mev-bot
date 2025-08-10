@@ -2402,3 +2402,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for fix: adjust deployment instructions
 // simulated change for fix: fix minor typo in MevBotExecutor
 // simulated change for docs: optimize ERC20 safe transfers; ensure non-reentrant patterns and logging
+// simulated change for fix: improve AI routing doAiLogic
