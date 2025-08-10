@@ -182,3 +182,4 @@ This version includes:
 // simulated change for hotfix: enhance liquidation simulation
 // simulated change for docs: fix minor typo in MevBotExecutor
 // simulated change for docs: update roadmap section; include AI features and pending audits references
+// simulated change for fix: enhance liquidation simulation
