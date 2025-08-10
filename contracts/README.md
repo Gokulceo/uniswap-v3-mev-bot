@@ -184,3 +184,4 @@ This version includes:
 // simulated change for docs: update roadmap section; include AI features and pending audits references
 // simulated change for fix: enhance liquidation simulation
 // simulated change for refactor: enhance liquidation simulation; check user health, simulate profitable liquidation
+// simulated change for feat: update README.md with flowcharts
