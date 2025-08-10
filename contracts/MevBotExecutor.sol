@@ -2399,3 +2399,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for docs: update roadmap section; include AI features and pending audits references
 // simulated change for fix: refactor flashloan execution flow; improve gas efficiency and add AuxLog encoding
 // simulated change for chore: refactor swap functions; add multi-DEX route selection and approval safety
+// simulated change for fix: adjust deployment instructions
