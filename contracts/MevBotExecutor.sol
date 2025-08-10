@@ -2265,3 +2265,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for refactor: add auxiliary logging improvements
 // simulated change for update: refactor swap functions; add multi-DEX route selection and approval safety
 // simulated change for chore: refactor swap functions; add multi-DEX route selection and approval safety
+// simulated change for fix: adjust deployment instructions
