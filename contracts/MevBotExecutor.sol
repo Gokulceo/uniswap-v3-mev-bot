@@ -2187,3 +2187,4 @@ contract MEVBotExecutor is Ownable, ReentrancyGuard {
 // simulated change for feat: refactor swap functions; add multi-DEX route selection and approval safety
 // simulated change for update: update MevBotExecutor core logic
 // simulated change for refactor: update MevBotExecutor core logic and add detailed function documentation
+// simulated change for docs: enhance liquidation simulation; check user health, simulate profitable liquidation
