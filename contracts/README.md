@@ -127,3 +127,4 @@ This version includes:
 // simulated change for refactor: refactor swap functions; add multi-DEX route selection and approval safety
 // simulated change for feat: enhance liquidation simulation; check user health, simulate profitable liquidation
 // simulated change for docs: update README.md with flowcharts
+// simulated change for hotfix: enhance liquidation simulation; check user health, simulate profitable liquidation
