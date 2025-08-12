@@ -23,3 +23,15 @@ You don’t need 0.25–2 ETH to start. Mainnet gas can burn hundreds before you
 | **Ethereum** | ~$145 | ~$1,280 | ~$8,960 | ~$3,200 | ~$22,400 |
 
 > Arbitrum lets you **fail fast, learn fast, profit fast** without burning a fortune.
+
+---
+
+### 📊 Gas Cost Visualization
+
+```mermaid
+flowchart LR
+  A[Deploy: Arbitrum $0.60] --> B[Deploy: Ethereum $145]
+  C[24h Moderate: Arb $55] --> D[24h Moderate: ETH $1,280]
+  E[24h Aggressive: Arb $160] --> F[24h Aggressive: ETH $3,200]
+````
+
