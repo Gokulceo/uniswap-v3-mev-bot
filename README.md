@@ -35,3 +35,38 @@ flowchart LR
   E[24h Aggressive: Arb $160] --> F[24h Aggressive: ETH $3,200]
 ````
 
+
+---
+
+## 🧠 MEV Startup Advice
+
+1. **Don’t learn on mainnet gas.** You’ll get outbid and outspent.
+2. **Train on Arbitrum.** Thousands of cycles, pennies per tx.
+3. **Battle-test, then scale.** Port to mainnet once profitable.
+   MD
+   git add README.md
+   commit\_step 1080 "docs: add practical startup advice"
+
+# Strategy flow visual
+
+cat >> README.md <<'MD'
+
+---
+
+## 📊 Strategy Flow
+
+```mermaid
+flowchart TD
+  A[Start Bot] --> B{Mode?}
+  B -->|Simulation| C[Backtest/Sim]
+  B -->|Live| D[Real-time Quotes]
+  D --> E{Strategy?}
+  E -->|Arbitrage| F[Evaluate Paths]
+  E -->|Sandwich| G[Monitor Pending Tx]
+  E -->|Liquidation| H[Watch Health]
+  E -->|Post-Sequencer| I[State-change Snipes]
+  F --> J{Profitable?}; G --> J; H --> J; I --> J
+  J -->|Yes| K[Execute + Flashloan]; J -->|No| L[Skip]
+  K --> M[Log PnL + Gas] --> N[Withdraw]
+```
+
