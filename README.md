@@ -70,3 +70,35 @@ flowchart TD
   K --> M[Log PnL + Gas] --> N[Withdraw]
 ```
 
+
+---
+
+## ⚡️ Features
+
+* Multi-DEX arbitrage (Uniswap V2/V3, SushiSwap, Curve, PancakeSwap)
+* Sandwich module for slippage capture
+* Liquidation monitor for lending protocols
+* Flashloan-powered execution (no starting capital)
+* Simulation & live execution modes
+* One-click profit withdrawal
+  MD
+  git add README.md
+  commit\_step 960 "feat: enumerate core features"
+
+# Audit & Validation (incl. Arbitrum stress-testing)
+
+cat >> README.md <<'MD'
+
+---
+
+## 🛡️ Audit & Validation Phase
+
+Audited in our private **-audit-repo** with:
+
+* **Static analysis** (Slither, invariants)
+* **Gas profiling** (<1% overhead targets)
+* **Failure simulation** (forced reverts, race conditions)
+* **Security hardening** (access control, repayment guarantees)
+
+**Arbitrum-specific stress tests:**
+Sequencer-based architecture (no public mempool) required non-standard tuning: **post-sequencer injection tests** and **off-chain simulation bursts** to ensure **battle-readiness** under uncertain ordering.
