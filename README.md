@@ -102,3 +102,16 @@ Audited in our private **-audit-repo** with:
 
 **Arbitrum-specific stress tests:**
 Sequencer-based architecture (no public mempool) required non-standard tuning: **post-sequencer injection tests** and **off-chain simulation bursts** to ensure **battle-readiness** under uncertain ordering.
+
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/MEV-Searcher-Lab/uniswap-v3-arbitrage-sandwich-MEV-bot.git
+cd uniswap-v3-arbitrage-sandwich-MEV-bot
+npm install
+node scripts/deploy.js --network arbitrum
+node scripts/control.js
+```
+
