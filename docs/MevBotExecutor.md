@@ -589,3 +589,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: update recommended usage instructions
 - fix: fix typos and formatting in tables
 - fix: improve Mermaid flowchart references
+- hotfix: fix typos and formatting in tables
