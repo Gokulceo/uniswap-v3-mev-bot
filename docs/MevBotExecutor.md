@@ -671,3 +671,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: update flashloan execution section
 - refactor: improve Mermaid flowchart references
 - docs: refactor core functions for clarity
+- fix: include liquidation strategy explanation
