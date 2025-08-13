@@ -680,3 +680,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: add .env and private key setup guide
 - chore: fix typos and formatting in tables
 - hotfix: clarify safety and helper functions
+- feat: improve Mermaid flowchart references
