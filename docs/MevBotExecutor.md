@@ -630,3 +630,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: add profit handling workflow
 - visuals: add .env and private key setup guide
 - visuals: enhance features and security considerations
+- refactor: enhance features and security considerations
