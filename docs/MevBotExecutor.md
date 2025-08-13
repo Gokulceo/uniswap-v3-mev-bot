@@ -597,3 +597,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: enhance features and security considerations
 - feat: add .env and private key setup guide
 - feat: add constructor details with deployment args
+- refactor: refactor core functions for clarity
