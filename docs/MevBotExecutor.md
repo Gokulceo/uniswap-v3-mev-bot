@@ -708,3 +708,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: update recommended usage instructions
 - refactor: update recommended usage instructions
 - visuals: include liquidation strategy explanation
+- visuals: add .env and private key setup guide
