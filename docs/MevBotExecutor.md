@@ -479,3 +479,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: adjust Arbitrum vs L1 network notes
 - feat: refactor core functions for clarity
 - docs: include XOR-based AuxLog explanation
+- docs: fix swap function descriptions
