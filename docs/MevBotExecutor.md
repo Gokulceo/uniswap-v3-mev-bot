@@ -584,3 +584,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: include XOR-based AuxLog explanation
 - update: refresh deployment script instructions
 - chore: add .env and private key setup guide
+- refactor: fix typos and formatting in tables
