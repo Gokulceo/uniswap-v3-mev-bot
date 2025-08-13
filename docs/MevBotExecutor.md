@@ -652,3 +652,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: fix typos and formatting in tables
 - update: update recommended usage instructions
 - visuals: update flashloan execution section
+- fix: refactor core functions for clarity
