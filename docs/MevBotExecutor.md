@@ -710,3 +710,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: include liquidation strategy explanation
 - visuals: add .env and private key setup guide
 - chore: update flashloan execution section
+- refactor: enhance features and security considerations
