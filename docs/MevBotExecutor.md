@@ -448,3 +448,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: add profit handling workflow
 - visuals: refresh deployment script instructions
 - docs: add constructor details with deployment args
+- visuals: update flashloan execution section
