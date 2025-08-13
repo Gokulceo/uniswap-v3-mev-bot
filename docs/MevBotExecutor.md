@@ -420,3 +420,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: fix swap function descriptions
 - chore: enhance features and security considerations
 - visuals: refactor core functions for clarity
+- feat: refactor core functions for clarity
