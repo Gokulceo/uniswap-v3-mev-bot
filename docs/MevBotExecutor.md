@@ -499,3 +499,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: refresh deployment script instructions
 - chore: include liquidation strategy explanation
 - refactor: include liquidation strategy explanation
+- oops: add .env and private key setup guide
