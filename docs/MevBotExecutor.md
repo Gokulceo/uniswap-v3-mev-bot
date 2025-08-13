@@ -410,3 +410,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: include liquidation strategy explanation
 - update: include XOR-based AuxLog explanation
 - visuals: fix swap function descriptions
+- fix: include XOR-based AuxLog explanation
