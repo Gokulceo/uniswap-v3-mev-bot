@@ -418,3 +418,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: refresh deployment script instructions
 - oops: update flashloan execution section
 - feat: fix swap function descriptions
+- chore: enhance features and security considerations
