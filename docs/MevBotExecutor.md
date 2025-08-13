@@ -571,3 +571,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: enhance features and security considerations
 - update: add constructor details with deployment args
 - visuals: improve Mermaid flowchart references
+- feat: enhance features and security considerations
