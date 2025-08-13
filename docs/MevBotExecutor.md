@@ -559,3 +559,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: fix swap function descriptions
 - oops: clarify safety and helper functions
 - oops: update flashloan execution section
+- feat: clarify safety and helper functions
