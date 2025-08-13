@@ -475,3 +475,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: enhance features and security considerations
 - hotfix: refresh deployment script instructions
 - visuals: refactor core functions for clarity
+- update: improve Mermaid flowchart references
