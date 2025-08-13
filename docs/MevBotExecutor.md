@@ -568,3 +568,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: add profit handling workflow
 - feat: fix typos and formatting in tables
 - visuals: refactor core functions for clarity
+- update: enhance features and security considerations
