@@ -510,3 +510,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: update recommended usage instructions
 - refactor: update flashloan execution section
 - update: enhance features and security considerations
+- chore: include liquidation strategy explanation
