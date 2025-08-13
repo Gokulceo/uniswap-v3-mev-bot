@@ -428,3 +428,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: add .env and private key setup guide
 - fix: fix swap function descriptions
 - refactor: update flashloan execution section
+- feat: enhance features and security considerations
