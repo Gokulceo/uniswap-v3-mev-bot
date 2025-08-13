@@ -472,3 +472,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: refactor core functions for clarity
 - update: update recommended usage instructions
 - update: improve Mermaid flowchart references
+- chore: enhance features and security considerations
