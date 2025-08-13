@@ -528,3 +528,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: update recommended usage instructions
 - update: update recommended usage instructions
 - update: update recommended usage instructions
+- fix: include liquidation strategy explanation
