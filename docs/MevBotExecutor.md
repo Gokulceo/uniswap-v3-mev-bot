@@ -518,3 +518,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: update flashloan execution section
 - visuals: update flashloan execution section
 - chore: refactor core functions for clarity
+- docs: refresh deployment script instructions
