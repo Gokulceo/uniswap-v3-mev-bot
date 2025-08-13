@@ -423,3 +423,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: refactor core functions for clarity
 - oops: refresh deployment script instructions
 - update: add .env and private key setup guide
+- refactor: include liquidation strategy explanation
