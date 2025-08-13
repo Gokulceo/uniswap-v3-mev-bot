@@ -688,3 +688,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: enhance features and security considerations
 - oops: include XOR-based AuxLog explanation
 - chore: update flashloan execution section
+- docs: add profit handling workflow
