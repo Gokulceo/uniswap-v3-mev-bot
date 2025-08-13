@@ -662,3 +662,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: add profit handling workflow
 - hotfix: include liquidation strategy explanation
 - refactor: include liquidation strategy explanation
+- oops: include XOR-based AuxLog explanation
