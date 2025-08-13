@@ -679,3 +679,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: update flashloan execution section
 - hotfix: add .env and private key setup guide
 - chore: fix typos and formatting in tables
+- hotfix: clarify safety and helper functions
