@@ -386,3 +386,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: include XOR-based AuxLog explanation
 - refactor: refresh deployment script instructions
 - visuals: update flashloan execution section
+- chore: refactor core functions for clarity
