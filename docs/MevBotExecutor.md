@@ -486,3 +486,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: update flashloan execution section
 - refactor: refresh deployment script instructions
 - visuals: refresh deployment script instructions
+- oops: adjust Arbitrum vs L1 network notes
