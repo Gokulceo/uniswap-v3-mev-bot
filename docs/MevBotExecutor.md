@@ -682,3 +682,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: clarify safety and helper functions
 - feat: improve Mermaid flowchart references
 - update: clarify safety and helper functions
+- update: improve Mermaid flowchart references
