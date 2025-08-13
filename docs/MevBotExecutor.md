@@ -582,3 +582,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: update recommended usage instructions
 - fix: fix swap function descriptions
 - refactor: include XOR-based AuxLog explanation
+- update: refresh deployment script instructions
