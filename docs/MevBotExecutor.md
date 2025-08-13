@@ -608,3 +608,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: include XOR-based AuxLog explanation
 - oops: update recommended usage instructions
 - oops: add .env and private key setup guide
+- hotfix: refactor core functions for clarity
