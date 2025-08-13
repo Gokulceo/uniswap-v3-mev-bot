@@ -586,3 +586,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: add .env and private key setup guide
 - refactor: fix typos and formatting in tables
 - feat: include liquidation strategy explanation
+- oops: update recommended usage instructions
