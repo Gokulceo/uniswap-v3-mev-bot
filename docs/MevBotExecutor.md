@@ -592,3 +592,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: fix typos and formatting in tables
 - chore: include liquidation strategy explanation
 - visuals: update recommended usage instructions
+- update: update flashloan execution section
