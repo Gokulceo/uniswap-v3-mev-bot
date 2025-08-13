@@ -438,3 +438,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: refresh deployment script instructions
 - chore: include XOR-based AuxLog explanation
 - fix: update flashloan execution section
+- refactor: update recommended usage instructions
