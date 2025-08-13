@@ -621,3 +621,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: refresh deployment script instructions
 - refactor: add profit handling workflow
 - hotfix: improve Mermaid flowchart references
+- fix: fix swap function descriptions
