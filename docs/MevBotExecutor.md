@@ -691,3 +691,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: add profit handling workflow
 - visuals: fix swap function descriptions
 - oops: include liquidation strategy explanation
+- feat: improve Mermaid flowchart references
