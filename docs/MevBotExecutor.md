@@ -646,3 +646,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: fix swap function descriptions
 - feat: fix typos and formatting in tables
 - oops: improve Mermaid flowchart references
+- feat: enhance features and security considerations
