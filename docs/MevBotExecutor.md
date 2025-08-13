@@ -603,3 +603,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: add .env and private key setup guide
 - oops: add constructor details with deployment args
 - oops: refactor core functions for clarity
+- hotfix: add constructor details with deployment args
