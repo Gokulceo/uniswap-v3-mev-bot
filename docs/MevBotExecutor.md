@@ -590,3 +590,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: fix typos and formatting in tables
 - fix: improve Mermaid flowchart references
 - hotfix: fix typos and formatting in tables
+- chore: include liquidation strategy explanation
