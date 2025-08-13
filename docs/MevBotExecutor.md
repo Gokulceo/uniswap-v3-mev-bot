@@ -626,3 +626,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: refresh deployment script instructions
 - docs: fix swap function descriptions
 - docs: improve Mermaid flowchart references
+- feat: include liquidation strategy explanation
