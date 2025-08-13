@@ -514,3 +514,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: update flashloan execution section
 - fix: update flashloan execution section
 - docs: fix typos and formatting in tables
+- docs: include XOR-based AuxLog explanation
