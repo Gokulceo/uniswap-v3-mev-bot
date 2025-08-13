@@ -684,3 +684,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: clarify safety and helper functions
 - update: improve Mermaid flowchart references
 - update: add .env and private key setup guide
+- hotfix: clarify safety and helper functions
