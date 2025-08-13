@@ -644,3 +644,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: refactor core functions for clarity
 - chore: update recommended usage instructions
 - refactor: fix swap function descriptions
+- feat: fix typos and formatting in tables
