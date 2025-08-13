@@ -509,3 +509,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: fix typos and formatting in tables
 - visuals: update recommended usage instructions
 - refactor: update flashloan execution section
+- update: enhance features and security considerations
