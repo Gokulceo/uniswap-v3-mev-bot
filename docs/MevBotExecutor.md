@@ -525,3 +525,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: include liquidation strategy explanation
 - visuals: refresh deployment script instructions
 - feat: clarify safety and helper functions
+- fix: update recommended usage instructions
