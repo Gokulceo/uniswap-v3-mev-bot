@@ -543,3 +543,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: add constructor details with deployment args
 - visuals: refresh deployment script instructions
 - refactor: include liquidation strategy explanation
+- update: include XOR-based AuxLog explanation
