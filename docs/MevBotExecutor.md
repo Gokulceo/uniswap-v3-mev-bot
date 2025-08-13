@@ -557,3 +557,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: fix typos and formatting in tables
 - chore: update flashloan execution section
 - update: fix swap function descriptions
+- oops: clarify safety and helper functions
