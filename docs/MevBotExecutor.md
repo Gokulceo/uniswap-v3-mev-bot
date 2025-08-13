@@ -409,3 +409,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: improve Mermaid flowchart references
 - visuals: include liquidation strategy explanation
 - update: include XOR-based AuxLog explanation
+- visuals: fix swap function descriptions
