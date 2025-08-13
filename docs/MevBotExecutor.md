@@ -654,3 +654,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: update flashloan execution section
 - fix: refactor core functions for clarity
 - refactor: add .env and private key setup guide
+- docs: adjust Arbitrum vs L1 network notes
