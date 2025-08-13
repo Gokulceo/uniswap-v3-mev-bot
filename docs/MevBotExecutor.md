@@ -707,3 +707,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: adjust Arbitrum vs L1 network notes
 - oops: update recommended usage instructions
 - refactor: update recommended usage instructions
+- visuals: include liquidation strategy explanation
