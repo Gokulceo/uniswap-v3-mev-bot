@@ -670,3 +670,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: add constructor details with deployment args
 - docs: update flashloan execution section
 - refactor: improve Mermaid flowchart references
+- docs: refactor core functions for clarity
