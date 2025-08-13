@@ -450,3 +450,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: add constructor details with deployment args
 - visuals: update flashloan execution section
 - hotfix: refresh deployment script instructions
+- hotfix: enhance features and security considerations
