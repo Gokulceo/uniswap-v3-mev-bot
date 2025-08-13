@@ -430,3 +430,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: update flashloan execution section
 - feat: enhance features and security considerations
 - hotfix: include liquidation strategy explanation
+- visuals: enhance features and security considerations
