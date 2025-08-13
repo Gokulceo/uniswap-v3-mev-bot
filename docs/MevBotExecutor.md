@@ -653,3 +653,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: update recommended usage instructions
 - visuals: update flashloan execution section
 - fix: refactor core functions for clarity
+- refactor: add .env and private key setup guide
