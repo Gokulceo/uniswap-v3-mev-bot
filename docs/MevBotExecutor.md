@@ -548,3 +548,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: refactor core functions for clarity
 - hotfix: enhance features and security considerations
 - docs: fix typos and formatting in tables
+- hotfix: fix swap function descriptions
