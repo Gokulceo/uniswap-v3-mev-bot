@@ -550,3 +550,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: fix typos and formatting in tables
 - hotfix: fix swap function descriptions
 - feat: include liquidation strategy explanation
+- oops: fix swap function descriptions
