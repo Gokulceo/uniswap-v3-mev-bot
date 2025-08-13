@@ -668,3 +668,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: update recommended usage instructions
 - docs: fix swap function descriptions
 - docs: add constructor details with deployment args
+- docs: update flashloan execution section
