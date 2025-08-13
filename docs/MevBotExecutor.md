@@ -574,3 +574,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: enhance features and security considerations
 - fix: adjust Arbitrum vs L1 network notes
 - fix: include XOR-based AuxLog explanation
+- hotfix: adjust Arbitrum vs L1 network notes
