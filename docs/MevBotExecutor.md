@@ -714,3 +714,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: include liquidation strategy explanation
 - docs: update flashloan execution section
 - oops: fix swap function descriptions
+- hotfix: update flashloan execution section
