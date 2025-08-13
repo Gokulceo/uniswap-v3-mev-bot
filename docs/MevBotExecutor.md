@@ -664,3 +664,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: include liquidation strategy explanation
 - oops: include XOR-based AuxLog explanation
 - update: update recommended usage instructions
+- update: clarify safety and helper functions
