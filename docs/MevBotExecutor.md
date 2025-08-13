@@ -458,3 +458,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: improve Mermaid flowchart references
 - update: improve Mermaid flowchart references
 - fix: include liquidation strategy explanation
+- feat: fix swap function descriptions
