@@ -503,3 +503,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: refactor core functions for clarity
 - refactor: add profit handling workflow
 - feat: update recommended usage instructions
+- fix: refactor core functions for clarity
