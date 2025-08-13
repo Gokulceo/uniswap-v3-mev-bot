@@ -395,3 +395,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: refresh deployment script instructions
 - hotfix: fix swap function descriptions
 - docs: enhance features and security considerations
+- feat: include liquidation strategy explanation
