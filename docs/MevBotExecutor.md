@@ -658,3 +658,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: update flashloan execution section
 - refactor: include XOR-based AuxLog explanation
 - update: fix swap function descriptions
+- update: enhance features and security considerations
