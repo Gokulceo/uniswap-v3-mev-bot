@@ -383,3 +383,4 @@ This structure covers all flattened libraries/interfaces from:
 
 - feat: adjust Arbitrum vs L1 network notes
 - visuals: clarify safety and helper functions
+- oops: include XOR-based AuxLog explanation
