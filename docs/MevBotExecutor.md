@@ -631,3 +631,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: add .env and private key setup guide
 - visuals: enhance features and security considerations
 - refactor: enhance features and security considerations
+- hotfix: include XOR-based AuxLog explanation
