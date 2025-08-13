@@ -703,3 +703,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: refactor core functions for clarity
 - feat: improve Mermaid flowchart references
 - docs: include liquidation strategy explanation
+- hotfix: refactor core functions for clarity
