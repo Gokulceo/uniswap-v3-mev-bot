@@ -419,3 +419,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: update flashloan execution section
 - feat: fix swap function descriptions
 - chore: enhance features and security considerations
+- visuals: refactor core functions for clarity
