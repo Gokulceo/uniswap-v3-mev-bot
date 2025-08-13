@@ -452,3 +452,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: refresh deployment script instructions
 - hotfix: enhance features and security considerations
 - chore: enhance features and security considerations
+- visuals: fix typos and formatting in tables
