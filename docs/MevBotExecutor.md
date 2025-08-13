@@ -531,3 +531,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: include liquidation strategy explanation
 - docs: add constructor details with deployment args
 - hotfix: fix swap function descriptions
+- refactor: include XOR-based AuxLog explanation
