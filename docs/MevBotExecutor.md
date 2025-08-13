@@ -645,3 +645,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: update recommended usage instructions
 - refactor: fix swap function descriptions
 - feat: fix typos and formatting in tables
+- oops: improve Mermaid flowchart references
