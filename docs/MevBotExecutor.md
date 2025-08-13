@@ -628,3 +628,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: improve Mermaid flowchart references
 - feat: include liquidation strategy explanation
 - oops: add profit handling workflow
+- visuals: add .env and private key setup guide
