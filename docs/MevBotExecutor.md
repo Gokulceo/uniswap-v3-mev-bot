@@ -421,3 +421,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: enhance features and security considerations
 - visuals: refactor core functions for clarity
 - feat: refactor core functions for clarity
+- oops: refresh deployment script instructions
