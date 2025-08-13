@@ -635,3 +635,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: fix swap function descriptions
 - hotfix: include liquidation strategy explanation
 - fix: enhance features and security considerations
+- oops: enhance features and security considerations
