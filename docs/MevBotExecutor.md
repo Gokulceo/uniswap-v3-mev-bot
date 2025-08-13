@@ -541,3 +541,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: improve Mermaid flowchart references
 - refactor: refresh deployment script instructions
 - hotfix: add constructor details with deployment args
+- visuals: refresh deployment script instructions
