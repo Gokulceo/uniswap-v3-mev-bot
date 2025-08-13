@@ -701,3 +701,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: improve Mermaid flowchart references
 - update: update recommended usage instructions
 - chore: refactor core functions for clarity
+- feat: improve Mermaid flowchart references
