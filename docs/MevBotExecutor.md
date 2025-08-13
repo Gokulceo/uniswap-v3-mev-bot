@@ -464,3 +464,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: refactor core functions for clarity
 - fix: clarify safety and helper functions
 - oops: update flashloan execution section
+- refactor: fix typos and formatting in tables
