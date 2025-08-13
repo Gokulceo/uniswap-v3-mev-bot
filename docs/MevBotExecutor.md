@@ -434,3 +434,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: clarify safety and helper functions
 - chore: improve Mermaid flowchart references
 - visuals: refresh deployment script instructions
+- update: include liquidation strategy explanation
