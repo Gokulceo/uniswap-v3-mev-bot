@@ -637,3 +637,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: enhance features and security considerations
 - oops: enhance features and security considerations
 - hotfix: include XOR-based AuxLog explanation
+- hotfix: add constructor details with deployment args
