@@ -666,3 +666,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: update recommended usage instructions
 - update: clarify safety and helper functions
 - update: update recommended usage instructions
+- docs: fix swap function descriptions
