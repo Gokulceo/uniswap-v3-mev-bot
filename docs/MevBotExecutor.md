@@ -451,3 +451,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: update flashloan execution section
 - hotfix: refresh deployment script instructions
 - hotfix: enhance features and security considerations
+- chore: enhance features and security considerations
