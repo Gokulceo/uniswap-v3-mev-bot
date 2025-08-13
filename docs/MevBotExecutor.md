@@ -614,3 +614,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: include XOR-based AuxLog explanation
 - docs: clarify safety and helper functions
 - oops: add constructor details with deployment args
+- feat: add profit handling workflow
