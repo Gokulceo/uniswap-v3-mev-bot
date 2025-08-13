@@ -505,3 +505,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: update recommended usage instructions
 - fix: refactor core functions for clarity
 - docs: update flashloan execution section
+- feat: add profit handling workflow
