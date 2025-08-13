@@ -620,3 +620,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: include XOR-based AuxLog explanation
 - visuals: refresh deployment script instructions
 - refactor: add profit handling workflow
+- hotfix: improve Mermaid flowchart references
