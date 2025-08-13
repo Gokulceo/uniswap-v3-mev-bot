@@ -619,3 +619,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: add profit handling workflow
 - feat: include XOR-based AuxLog explanation
 - visuals: refresh deployment script instructions
+- refactor: add profit handling workflow
