@@ -530,3 +530,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: update recommended usage instructions
 - fix: include liquidation strategy explanation
 - docs: add constructor details with deployment args
+- hotfix: fix swap function descriptions
