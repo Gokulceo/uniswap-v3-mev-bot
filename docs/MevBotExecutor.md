@@ -391,3 +391,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: improve Mermaid flowchart references
 - feat: refactor core functions for clarity
 - fix: add .env and private key setup guide
+- oops: refresh deployment script instructions
