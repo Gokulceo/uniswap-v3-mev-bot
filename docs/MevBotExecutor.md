@@ -577,3 +577,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: adjust Arbitrum vs L1 network notes
 - visuals: fix swap function descriptions
 - chore: update recommended usage instructions
+- feat: clarify safety and helper functions
