@@ -491,3 +491,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: include liquidation strategy explanation
 - oops: include XOR-based AuxLog explanation
 - chore: add constructor details with deployment args
+- visuals: refactor core functions for clarity
