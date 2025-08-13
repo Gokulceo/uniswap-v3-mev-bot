@@ -604,3 +604,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: add constructor details with deployment args
 - oops: refactor core functions for clarity
 - hotfix: add constructor details with deployment args
+- refactor: enhance features and security considerations
