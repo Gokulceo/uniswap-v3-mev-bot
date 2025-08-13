@@ -581,3 +581,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: add .env and private key setup guide
 - fix: update recommended usage instructions
 - fix: fix swap function descriptions
+- refactor: include XOR-based AuxLog explanation
