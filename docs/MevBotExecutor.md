@@ -478,3 +478,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: improve Mermaid flowchart references
 - refactor: adjust Arbitrum vs L1 network notes
 - feat: refactor core functions for clarity
+- docs: include XOR-based AuxLog explanation
