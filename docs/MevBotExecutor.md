@@ -665,3 +665,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: include XOR-based AuxLog explanation
 - update: update recommended usage instructions
 - update: clarify safety and helper functions
+- update: update recommended usage instructions
