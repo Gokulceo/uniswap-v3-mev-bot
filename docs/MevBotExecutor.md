@@ -565,3 +565,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: adjust Arbitrum vs L1 network notes
 - chore: update recommended usage instructions
 - fix: enhance features and security considerations
+- refactor: add profit handling workflow
