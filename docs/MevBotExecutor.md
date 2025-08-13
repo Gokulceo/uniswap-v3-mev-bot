@@ -460,3 +460,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: include liquidation strategy explanation
 - feat: fix swap function descriptions
 - chore: update flashloan execution section
+- docs: include liquidation strategy explanation
