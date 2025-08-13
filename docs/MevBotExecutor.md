@@ -443,3 +443,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: adjust Arbitrum vs L1 network notes
 - fix: refresh deployment script instructions
 - refactor: clarify safety and helper functions
+- refactor: refactor core functions for clarity
