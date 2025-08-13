@@ -636,3 +636,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: include liquidation strategy explanation
 - fix: enhance features and security considerations
 - oops: enhance features and security considerations
+- hotfix: include XOR-based AuxLog explanation
