@@ -632,3 +632,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: enhance features and security considerations
 - refactor: enhance features and security considerations
 - hotfix: include XOR-based AuxLog explanation
+- refactor: fix swap function descriptions
