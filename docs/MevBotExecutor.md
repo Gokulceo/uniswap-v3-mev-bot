@@ -551,3 +551,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: fix swap function descriptions
 - feat: include liquidation strategy explanation
 - oops: fix swap function descriptions
+- hotfix: adjust Arbitrum vs L1 network notes
