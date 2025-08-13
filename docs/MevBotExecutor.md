@@ -587,3 +587,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: fix typos and formatting in tables
 - feat: include liquidation strategy explanation
 - oops: update recommended usage instructions
+- fix: fix typos and formatting in tables
