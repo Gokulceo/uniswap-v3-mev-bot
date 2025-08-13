@@ -544,3 +544,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: refresh deployment script instructions
 - refactor: include liquidation strategy explanation
 - update: include XOR-based AuxLog explanation
+- oops: add .env and private key setup guide
