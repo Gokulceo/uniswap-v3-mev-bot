@@ -467,3 +467,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: fix typos and formatting in tables
 - fix: add constructor details with deployment args
 - refactor: add profit handling workflow
+- chore: add profit handling workflow
