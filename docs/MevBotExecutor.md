@@ -431,3 +431,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: enhance features and security considerations
 - hotfix: include liquidation strategy explanation
 - visuals: enhance features and security considerations
+- hotfix: clarify safety and helper functions
