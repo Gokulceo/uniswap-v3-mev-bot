@@ -562,3 +562,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: clarify safety and helper functions
 - update: clarify safety and helper functions
 - docs: fix typos and formatting in tables
+- feat: adjust Arbitrum vs L1 network notes
