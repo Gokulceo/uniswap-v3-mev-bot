@@ -576,3 +576,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: include XOR-based AuxLog explanation
 - hotfix: adjust Arbitrum vs L1 network notes
 - visuals: fix swap function descriptions
+- chore: update recommended usage instructions
