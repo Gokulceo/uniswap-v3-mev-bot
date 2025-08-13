@@ -553,3 +553,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: fix swap function descriptions
 - hotfix: adjust Arbitrum vs L1 network notes
 - refactor: add profit handling workflow
+- oops: include liquidation strategy explanation
