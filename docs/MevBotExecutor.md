@@ -690,3 +690,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: update flashloan execution section
 - docs: add profit handling workflow
 - visuals: fix swap function descriptions
+- oops: include liquidation strategy explanation
