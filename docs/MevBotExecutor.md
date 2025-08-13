@@ -579,3 +579,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: update recommended usage instructions
 - feat: clarify safety and helper functions
 - oops: add .env and private key setup guide
+- fix: update recommended usage instructions
