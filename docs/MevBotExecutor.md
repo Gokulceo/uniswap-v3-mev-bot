@@ -611,3 +611,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: refactor core functions for clarity
 - docs: adjust Arbitrum vs L1 network notes
 - chore: improve Mermaid flowchart references
+- fix: include XOR-based AuxLog explanation
