@@ -440,3 +440,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: update flashloan execution section
 - refactor: update recommended usage instructions
 - refactor: fix swap function descriptions
+- visuals: adjust Arbitrum vs L1 network notes
