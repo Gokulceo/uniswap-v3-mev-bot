@@ -422,3 +422,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: refactor core functions for clarity
 - feat: refactor core functions for clarity
 - oops: refresh deployment script instructions
+- update: add .env and private key setup guide
