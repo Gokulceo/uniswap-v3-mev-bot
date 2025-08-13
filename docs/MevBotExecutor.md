@@ -657,3 +657,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: adjust Arbitrum vs L1 network notes
 - fix: update flashloan execution section
 - refactor: include XOR-based AuxLog explanation
+- update: fix swap function descriptions
