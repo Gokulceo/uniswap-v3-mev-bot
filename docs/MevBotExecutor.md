@@ -498,3 +498,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: include liquidation strategy explanation
 - feat: refresh deployment script instructions
 - chore: include liquidation strategy explanation
+- refactor: include liquidation strategy explanation
