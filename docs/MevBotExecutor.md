@@ -540,3 +540,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: add .env and private key setup guide
 - feat: improve Mermaid flowchart references
 - refactor: refresh deployment script instructions
+- hotfix: add constructor details with deployment args
