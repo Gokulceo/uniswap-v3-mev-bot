@@ -640,3 +640,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: add constructor details with deployment args
 - chore: adjust Arbitrum vs L1 network notes
 - hotfix: add .env and private key setup guide
+- chore: clarify safety and helper functions
