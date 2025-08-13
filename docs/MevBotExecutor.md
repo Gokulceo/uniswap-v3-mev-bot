@@ -508,3 +508,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: add profit handling workflow
 - hotfix: fix typos and formatting in tables
 - visuals: update recommended usage instructions
+- refactor: update flashloan execution section
