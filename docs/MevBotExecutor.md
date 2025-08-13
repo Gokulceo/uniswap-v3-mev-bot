@@ -698,3 +698,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: update recommended usage instructions
 - hotfix: update flashloan execution section
 - feat: add profit handling workflow
+- oops: improve Mermaid flowchart references
