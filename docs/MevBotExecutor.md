@@ -697,3 +697,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: fix typos and formatting in tables
 - visuals: update recommended usage instructions
 - hotfix: update flashloan execution section
+- feat: add profit handling workflow
