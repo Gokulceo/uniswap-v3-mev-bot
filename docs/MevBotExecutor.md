@@ -412,3 +412,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: fix swap function descriptions
 - fix: include XOR-based AuxLog explanation
 - refactor: include liquidation strategy explanation
+- visuals: adjust Arbitrum vs L1 network notes
