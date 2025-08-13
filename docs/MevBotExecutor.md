@@ -470,3 +470,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: add profit handling workflow
 - fix: fix typos and formatting in tables
 - update: refactor core functions for clarity
+- update: update recommended usage instructions
