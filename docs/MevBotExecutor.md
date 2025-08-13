@@ -588,3 +588,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: include liquidation strategy explanation
 - oops: update recommended usage instructions
 - fix: fix typos and formatting in tables
+- fix: improve Mermaid flowchart references
