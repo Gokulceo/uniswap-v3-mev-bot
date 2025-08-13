@@ -615,3 +615,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: clarify safety and helper functions
 - oops: add constructor details with deployment args
 - feat: add profit handling workflow
+- refactor: add .env and private key setup guide
