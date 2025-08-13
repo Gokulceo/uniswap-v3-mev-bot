@@ -622,3 +622,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: add profit handling workflow
 - hotfix: improve Mermaid flowchart references
 - fix: fix swap function descriptions
+- hotfix: clarify safety and helper functions
