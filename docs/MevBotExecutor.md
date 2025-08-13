@@ -413,3 +413,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: include XOR-based AuxLog explanation
 - refactor: include liquidation strategy explanation
 - visuals: adjust Arbitrum vs L1 network notes
+- hotfix: refresh deployment script instructions
