@@ -533,3 +533,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: fix swap function descriptions
 - refactor: include XOR-based AuxLog explanation
 - fix: add profit handling workflow
+- feat: add profit handling workflow
