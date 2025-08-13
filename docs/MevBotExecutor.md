@@ -483,3 +483,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: update flashloan execution section
 - docs: update flashloan execution section
 - chore: update flashloan execution section
+- update: update flashloan execution section
