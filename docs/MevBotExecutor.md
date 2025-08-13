@@ -609,3 +609,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: update recommended usage instructions
 - oops: add .env and private key setup guide
 - hotfix: refactor core functions for clarity
+- docs: adjust Arbitrum vs L1 network notes
