@@ -535,3 +535,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: add profit handling workflow
 - feat: add profit handling workflow
 - hotfix: enhance features and security considerations
+- fix: include liquidation strategy explanation
