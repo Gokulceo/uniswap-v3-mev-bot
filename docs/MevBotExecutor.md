@@ -605,3 +605,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: refactor core functions for clarity
 - hotfix: add constructor details with deployment args
 - refactor: enhance features and security considerations
+- docs: include XOR-based AuxLog explanation
