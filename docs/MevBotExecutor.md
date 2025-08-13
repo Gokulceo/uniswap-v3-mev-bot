@@ -487,3 +487,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: refresh deployment script instructions
 - visuals: refresh deployment script instructions
 - oops: adjust Arbitrum vs L1 network notes
+- fix: refactor core functions for clarity
