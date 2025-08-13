@@ -500,3 +500,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: include liquidation strategy explanation
 - refactor: include liquidation strategy explanation
 - oops: add .env and private key setup guide
+- fix: refactor core functions for clarity
