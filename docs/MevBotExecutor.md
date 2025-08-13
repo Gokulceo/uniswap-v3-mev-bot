@@ -399,3 +399,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: include XOR-based AuxLog explanation
 - fix: update flashloan execution section
 - chore: update flashloan execution section
+- chore: update recommended usage instructions
