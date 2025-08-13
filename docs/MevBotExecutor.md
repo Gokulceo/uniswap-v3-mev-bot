@@ -634,3 +634,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: include XOR-based AuxLog explanation
 - refactor: fix swap function descriptions
 - hotfix: include liquidation strategy explanation
+- fix: enhance features and security considerations
