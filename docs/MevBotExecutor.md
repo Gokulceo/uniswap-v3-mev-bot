@@ -396,3 +396,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: fix swap function descriptions
 - docs: enhance features and security considerations
 - feat: include liquidation strategy explanation
+- refactor: include XOR-based AuxLog explanation
