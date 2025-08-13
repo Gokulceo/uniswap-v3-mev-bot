@@ -549,3 +549,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: enhance features and security considerations
 - docs: fix typos and formatting in tables
 - hotfix: fix swap function descriptions
+- feat: include liquidation strategy explanation
