@@ -457,3 +457,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: include liquidation strategy explanation
 - refactor: improve Mermaid flowchart references
 - update: improve Mermaid flowchart references
+- fix: include liquidation strategy explanation
