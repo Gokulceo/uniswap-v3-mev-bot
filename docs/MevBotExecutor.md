@@ -489,3 +489,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: adjust Arbitrum vs L1 network notes
 - fix: refactor core functions for clarity
 - docs: include liquidation strategy explanation
+- oops: include XOR-based AuxLog explanation
