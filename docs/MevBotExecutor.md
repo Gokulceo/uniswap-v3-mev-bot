@@ -695,3 +695,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: enhance features and security considerations
 - fix: include XOR-based AuxLog explanation
 - docs: fix typos and formatting in tables
+- visuals: update recommended usage instructions
