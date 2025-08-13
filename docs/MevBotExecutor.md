@@ -387,3 +387,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: refresh deployment script instructions
 - visuals: update flashloan execution section
 - chore: refactor core functions for clarity
+- visuals: clarify safety and helper functions
