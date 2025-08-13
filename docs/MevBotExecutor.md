@@ -462,3 +462,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: update flashloan execution section
 - docs: include liquidation strategy explanation
 - hotfix: refactor core functions for clarity
+- fix: clarify safety and helper functions
