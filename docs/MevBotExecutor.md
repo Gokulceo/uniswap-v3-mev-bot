@@ -523,3 +523,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: adjust Arbitrum vs L1 network notes
 - chore: adjust Arbitrum vs L1 network notes
 - fix: include liquidation strategy explanation
+- visuals: refresh deployment script instructions
