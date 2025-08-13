@@ -429,3 +429,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: fix swap function descriptions
 - refactor: update flashloan execution section
 - feat: enhance features and security considerations
+- hotfix: include liquidation strategy explanation
