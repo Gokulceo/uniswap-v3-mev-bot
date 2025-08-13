@@ -401,3 +401,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: update flashloan execution section
 - chore: update recommended usage instructions
 - fix: include liquidation strategy explanation
+- visuals: update flashloan execution section
