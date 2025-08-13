@@ -689,3 +689,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: include XOR-based AuxLog explanation
 - chore: update flashloan execution section
 - docs: add profit handling workflow
+- visuals: fix swap function descriptions
