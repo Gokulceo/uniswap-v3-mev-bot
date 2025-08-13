@@ -642,3 +642,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: add .env and private key setup guide
 - chore: clarify safety and helper functions
 - oops: refactor core functions for clarity
+- chore: update recommended usage instructions
