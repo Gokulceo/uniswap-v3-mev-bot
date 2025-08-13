@@ -394,3 +394,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: refresh deployment script instructions
 - update: refresh deployment script instructions
 - hotfix: fix swap function descriptions
+- docs: enhance features and security considerations
