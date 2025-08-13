@@ -716,3 +716,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: fix swap function descriptions
 - hotfix: update flashloan execution section
 - fix: add profit handling workflow
+- visuals: refresh deployment script instructions
