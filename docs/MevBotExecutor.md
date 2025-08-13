@@ -425,3 +425,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: add .env and private key setup guide
 - refactor: include liquidation strategy explanation
 - refactor: refactor core functions for clarity
+- refactor: add .env and private key setup guide
