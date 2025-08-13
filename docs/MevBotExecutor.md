@@ -447,3 +447,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: fix typos and formatting in tables
 - feat: add profit handling workflow
 - visuals: refresh deployment script instructions
+- docs: add constructor details with deployment args
