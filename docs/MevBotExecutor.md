@@ -521,3 +521,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: refresh deployment script instructions
 - oops: fix typos and formatting in tables
 - fix: adjust Arbitrum vs L1 network notes
+- chore: adjust Arbitrum vs L1 network notes
