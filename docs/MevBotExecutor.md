@@ -485,3 +485,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: update flashloan execution section
 - update: update flashloan execution section
 - refactor: refresh deployment script instructions
+- visuals: refresh deployment script instructions
