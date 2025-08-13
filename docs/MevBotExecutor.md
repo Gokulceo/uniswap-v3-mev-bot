@@ -561,3 +561,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: update flashloan execution section
 - feat: clarify safety and helper functions
 - update: clarify safety and helper functions
+- docs: fix typos and formatting in tables
