@@ -677,3 +677,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: improve Mermaid flowchart references
 - oops: improve Mermaid flowchart references
 - oops: update flashloan execution section
+- hotfix: add .env and private key setup guide
