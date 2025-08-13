@@ -676,3 +676,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: refresh deployment script instructions
 - hotfix: improve Mermaid flowchart references
 - oops: improve Mermaid flowchart references
+- oops: update flashloan execution section
