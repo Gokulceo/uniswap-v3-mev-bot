@@ -660,3 +660,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: fix swap function descriptions
 - update: enhance features and security considerations
 - chore: add profit handling workflow
+- hotfix: include liquidation strategy explanation
