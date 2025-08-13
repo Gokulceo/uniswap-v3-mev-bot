@@ -466,3 +466,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: update flashloan execution section
 - refactor: fix typos and formatting in tables
 - fix: add constructor details with deployment args
+- refactor: add profit handling workflow
