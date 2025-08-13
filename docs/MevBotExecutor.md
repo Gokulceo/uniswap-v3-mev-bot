@@ -476,3 +476,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: refresh deployment script instructions
 - visuals: refactor core functions for clarity
 - update: improve Mermaid flowchart references
+- refactor: adjust Arbitrum vs L1 network notes
