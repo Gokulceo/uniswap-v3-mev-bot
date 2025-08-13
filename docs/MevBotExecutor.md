@@ -436,3 +436,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: refresh deployment script instructions
 - update: include liquidation strategy explanation
 - update: refresh deployment script instructions
+- chore: include XOR-based AuxLog explanation
