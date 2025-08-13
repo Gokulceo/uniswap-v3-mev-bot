@@ -471,3 +471,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: fix typos and formatting in tables
 - update: refactor core functions for clarity
 - update: update recommended usage instructions
+- update: improve Mermaid flowchart references
