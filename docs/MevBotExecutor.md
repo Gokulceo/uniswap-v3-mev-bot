@@ -596,3 +596,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: update flashloan execution section
 - chore: enhance features and security considerations
 - feat: add .env and private key setup guide
+- feat: add constructor details with deployment args
