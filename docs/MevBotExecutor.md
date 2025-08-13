@@ -641,3 +641,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: adjust Arbitrum vs L1 network notes
 - hotfix: add .env and private key setup guide
 - chore: clarify safety and helper functions
+- oops: refactor core functions for clarity
