@@ -554,3 +554,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: adjust Arbitrum vs L1 network notes
 - refactor: add profit handling workflow
 - oops: include liquidation strategy explanation
+- feat: fix typos and formatting in tables
