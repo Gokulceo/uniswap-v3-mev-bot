@@ -405,3 +405,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: add constructor details with deployment args
 - visuals: refactor core functions for clarity
 - hotfix: update flashloan execution section
+- docs: refactor core functions for clarity
