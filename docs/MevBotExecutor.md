@@ -393,3 +393,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: add .env and private key setup guide
 - oops: refresh deployment script instructions
 - update: refresh deployment script instructions
+- hotfix: fix swap function descriptions
