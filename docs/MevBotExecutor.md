@@ -715,3 +715,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: update flashloan execution section
 - oops: fix swap function descriptions
 - hotfix: update flashloan execution section
+- fix: add profit handling workflow
