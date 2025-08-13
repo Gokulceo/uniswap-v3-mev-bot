@@ -389,3 +389,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: refactor core functions for clarity
 - visuals: clarify safety and helper functions
 - chore: improve Mermaid flowchart references
+- feat: refactor core functions for clarity
