@@ -517,3 +517,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: include XOR-based AuxLog explanation
 - visuals: update flashloan execution section
 - visuals: update flashloan execution section
+- chore: refactor core functions for clarity
