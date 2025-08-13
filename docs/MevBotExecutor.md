@@ -507,3 +507,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: update flashloan execution section
 - feat: add profit handling workflow
 - hotfix: fix typos and formatting in tables
+- visuals: update recommended usage instructions
