@@ -547,3 +547,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: add .env and private key setup guide
 - fix: refactor core functions for clarity
 - hotfix: enhance features and security considerations
+- docs: fix typos and formatting in tables
