@@ -536,3 +536,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: add profit handling workflow
 - hotfix: enhance features and security considerations
 - fix: include liquidation strategy explanation
+- feat: fix typos and formatting in tables
