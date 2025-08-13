@@ -453,3 +453,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: enhance features and security considerations
 - chore: enhance features and security considerations
 - visuals: fix typos and formatting in tables
+- docs: fix swap function descriptions
