@@ -502,3 +502,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: add .env and private key setup guide
 - fix: refactor core functions for clarity
 - refactor: add profit handling workflow
+- feat: update recommended usage instructions
