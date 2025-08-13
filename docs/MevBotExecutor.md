@@ -669,3 +669,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: fix swap function descriptions
 - docs: add constructor details with deployment args
 - docs: update flashloan execution section
+- refactor: improve Mermaid flowchart references
