@@ -629,3 +629,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: include liquidation strategy explanation
 - oops: add profit handling workflow
 - visuals: add .env and private key setup guide
+- visuals: enhance features and security considerations
