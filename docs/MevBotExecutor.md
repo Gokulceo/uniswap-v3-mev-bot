@@ -686,3 +686,4 @@ This structure covers all flattened libraries/interfaces from:
 - update: add .env and private key setup guide
 - hotfix: clarify safety and helper functions
 - feat: enhance features and security considerations
+- oops: include XOR-based AuxLog explanation
