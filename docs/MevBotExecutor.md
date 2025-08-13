@@ -706,3 +706,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: refactor core functions for clarity
 - hotfix: adjust Arbitrum vs L1 network notes
 - oops: update recommended usage instructions
+- refactor: update recommended usage instructions
