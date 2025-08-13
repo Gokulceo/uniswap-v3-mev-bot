@@ -570,3 +570,4 @@ This structure covers all flattened libraries/interfaces from:
 - visuals: refactor core functions for clarity
 - update: enhance features and security considerations
 - update: add constructor details with deployment args
+- visuals: improve Mermaid flowchart references
