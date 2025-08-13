@@ -694,3 +694,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: improve Mermaid flowchart references
 - docs: enhance features and security considerations
 - fix: include XOR-based AuxLog explanation
+- docs: fix typos and formatting in tables
