@@ -513,3 +513,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: include liquidation strategy explanation
 - feat: update flashloan execution section
 - fix: update flashloan execution section
+- docs: fix typos and formatting in tables
