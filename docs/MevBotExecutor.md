@@ -607,3 +607,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: enhance features and security considerations
 - docs: include XOR-based AuxLog explanation
 - oops: update recommended usage instructions
+- oops: add .env and private key setup guide
