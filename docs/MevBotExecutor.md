@@ -675,3 +675,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: enhance features and security considerations
 - chore: refresh deployment script instructions
 - hotfix: improve Mermaid flowchart references
+- oops: improve Mermaid flowchart references
