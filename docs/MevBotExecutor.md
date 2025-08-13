@@ -649,3 +649,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: enhance features and security considerations
 - visuals: fix swap function descriptions
 - visuals: clarify safety and helper functions
+- feat: fix typos and formatting in tables
