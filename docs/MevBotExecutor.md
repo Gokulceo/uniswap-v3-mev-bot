@@ -704,3 +704,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: improve Mermaid flowchart references
 - docs: include liquidation strategy explanation
 - hotfix: refactor core functions for clarity
+- hotfix: adjust Arbitrum vs L1 network notes
