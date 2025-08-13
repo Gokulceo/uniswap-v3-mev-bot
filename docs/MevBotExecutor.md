@@ -624,3 +624,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: fix swap function descriptions
 - hotfix: clarify safety and helper functions
 - hotfix: refresh deployment script instructions
+- docs: fix swap function descriptions
