@@ -648,3 +648,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: improve Mermaid flowchart references
 - feat: enhance features and security considerations
 - visuals: fix swap function descriptions
+- visuals: clarify safety and helper functions
