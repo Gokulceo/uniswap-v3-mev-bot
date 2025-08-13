@@ -678,3 +678,4 @@ This structure covers all flattened libraries/interfaces from:
 - oops: improve Mermaid flowchart references
 - oops: update flashloan execution section
 - hotfix: add .env and private key setup guide
+- chore: fix typos and formatting in tables
