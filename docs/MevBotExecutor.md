@@ -601,3 +601,4 @@ This structure covers all flattened libraries/interfaces from:
 - docs: adjust Arbitrum vs L1 network notes
 - update: improve Mermaid flowchart references
 - feat: add .env and private key setup guide
+- oops: add constructor details with deployment args
