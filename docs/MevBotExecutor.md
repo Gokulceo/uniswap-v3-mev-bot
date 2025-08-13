@@ -672,3 +672,4 @@ This structure covers all flattened libraries/interfaces from:
 - refactor: improve Mermaid flowchart references
 - docs: refactor core functions for clarity
 - fix: include liquidation strategy explanation
+- oops: enhance features and security considerations
