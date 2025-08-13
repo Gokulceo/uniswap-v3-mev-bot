@@ -537,3 +537,4 @@ This structure covers all flattened libraries/interfaces from:
 - hotfix: enhance features and security considerations
 - fix: include liquidation strategy explanation
 - feat: fix typos and formatting in tables
+- fix: add .env and private key setup guide
