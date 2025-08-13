@@ -566,3 +566,4 @@ This structure covers all flattened libraries/interfaces from:
 - chore: update recommended usage instructions
 - fix: enhance features and security considerations
 - refactor: add profit handling workflow
+- feat: fix typos and formatting in tables
