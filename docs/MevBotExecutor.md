@@ -580,3 +580,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: clarify safety and helper functions
 - oops: add .env and private key setup guide
 - fix: update recommended usage instructions
+- fix: fix swap function descriptions
