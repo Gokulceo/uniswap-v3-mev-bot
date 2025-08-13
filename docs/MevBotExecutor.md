@@ -538,3 +538,4 @@ This structure covers all flattened libraries/interfaces from:
 - fix: include liquidation strategy explanation
 - feat: fix typos and formatting in tables
 - fix: add .env and private key setup guide
+- feat: improve Mermaid flowchart references
