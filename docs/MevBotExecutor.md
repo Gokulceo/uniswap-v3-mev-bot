@@ -599,3 +599,4 @@ This structure covers all flattened libraries/interfaces from:
 - feat: add constructor details with deployment args
 - refactor: refactor core functions for clarity
 - docs: adjust Arbitrum vs L1 network notes
+- update: improve Mermaid flowchart references
