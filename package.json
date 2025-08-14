@@ -48,5 +48,5 @@
     "prettier": "^3.6.2",
     "prettier-plugin-solidity": "^2.0.0"
   },
-  "_history": "update for web3"
+  "_history": "update for ws"
 }
