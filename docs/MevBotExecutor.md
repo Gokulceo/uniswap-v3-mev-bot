@@ -95,7 +95,7 @@ This structure covers all flattened libraries/interfaces from:
 - `@openzeppelin/contracts/...` (IERC20, SafeERC20, Context, Ownable, ReentrancyGuard)  
 - Custom contract: `MevBotExecutor.sol`  
 
-```
+---
 
 ## Main Contract: MevBotExecutor
 
@@ -307,6 +307,51 @@ This structure covers all flattened libraries/interfaces from:
 
 ---
 
+### Flowcharts
+
+#### Top-Down (TD) Flashloan Execution
+
+```mermaid
+flowchart TD
+    A[Start] --> B[Fetch Pool & Quote]
+    B --> C{Check Profit > Threshold?}
+    C -->|No| D[Abort]
+    C -->|Yes| E[Execute Flashloan]
+    E --> F[Swap Across DEXs]
+    F --> G[Repay Loan]
+    G --> H[Emit AuxLog]
+    H --> I[Handle Profit]
+    I --> J[End]
+````--> F{Simulation Success?}
+
+    F -->|No| G[Abort]
+
+    F -->|Yes| H[Execute Liquidation]
+
+    H --> I[Emit AuxLog]
+
+    I --> J[End]
+
+```
+
+#### Left-Right (LD) Liquidation Flow
+
+```mermaid
+flowchart LR
+    A[Start] --> B[Get User Health]
+    B --> C{Health < 1?}
+    C -->|No| D[Skip Liquidation]
+    C -->|Yes| E[Simulate Liquidation]
+    E --> F{Simulation Success?}
+    F -->|No| G[Abort]
+    F -->|Yes| H[Execute Liquidation]
+    H --> I[Emit AuxLog]
+    I --> J[End]
+```
+
+---
+
+
 ### Recommended Usage / Setup Instructions
 
 1. **Clone the Repository**
@@ -381,339 +426,3 @@ This structure covers all flattened libraries/interfaces from:
 
 ---
 
-- feat: adjust Arbitrum vs L1 network notes
-- visuals: clarify safety and helper functions
-- oops: include XOR-based AuxLog explanation
-- refactor: refresh deployment script instructions
-- visuals: update flashloan execution section
-- chore: refactor core functions for clarity
-- visuals: clarify safety and helper functions
-- chore: improve Mermaid flowchart references
-- feat: refactor core functions for clarity
-- fix: add .env and private key setup guide
-- oops: refresh deployment script instructions
-- update: refresh deployment script instructions
-- hotfix: fix swap function descriptions
-- docs: enhance features and security considerations
-- feat: include liquidation strategy explanation
-- refactor: include XOR-based AuxLog explanation
-- fix: update flashloan execution section
-- chore: update flashloan execution section
-- chore: update recommended usage instructions
-- fix: include liquidation strategy explanation
-- visuals: update flashloan execution section
-- update: add constructor details with deployment args
-- visuals: refactor core functions for clarity
-- hotfix: update flashloan execution section
-- docs: refactor core functions for clarity
-- update: improve Mermaid flowchart references
-- visuals: include liquidation strategy explanation
-- update: include XOR-based AuxLog explanation
-- visuals: fix swap function descriptions
-- fix: include XOR-based AuxLog explanation
-- refactor: include liquidation strategy explanation
-- visuals: adjust Arbitrum vs L1 network notes
-- hotfix: refresh deployment script instructions
-- refactor: update flashloan execution section
-- visuals: refresh deployment script instructions
-- oops: update flashloan execution section
-- feat: fix swap function descriptions
-- chore: enhance features and security considerations
-- visuals: refactor core functions for clarity
-- feat: refactor core functions for clarity
-- oops: refresh deployment script instructions
-- update: add .env and private key setup guide
-- refactor: include liquidation strategy explanation
-- refactor: refactor core functions for clarity
-- refactor: add .env and private key setup guide
-- fix: fix swap function descriptions
-- refactor: update flashloan execution section
-- feat: enhance features and security considerations
-- hotfix: include liquidation strategy explanation
-- visuals: enhance features and security considerations
-- hotfix: clarify safety and helper functions
-- chore: improve Mermaid flowchart references
-- visuals: refresh deployment script instructions
-- update: include liquidation strategy explanation
-- update: refresh deployment script instructions
-- chore: include XOR-based AuxLog explanation
-- fix: update flashloan execution section
-- refactor: update recommended usage instructions
-- refactor: fix swap function descriptions
-- visuals: adjust Arbitrum vs L1 network notes
-- fix: refresh deployment script instructions
-- refactor: clarify safety and helper functions
-- refactor: refactor core functions for clarity
-- refactor: fix typos and formatting in tables
-- feat: add profit handling workflow
-- visuals: refresh deployment script instructions
-- docs: add constructor details with deployment args
-- visuals: update flashloan execution section
-- hotfix: refresh deployment script instructions
-- hotfix: enhance features and security considerations
-- chore: enhance features and security considerations
-- visuals: fix typos and formatting in tables
-- docs: fix swap function descriptions
-- visuals: include liquidation strategy explanation
-- refactor: improve Mermaid flowchart references
-- update: improve Mermaid flowchart references
-- fix: include liquidation strategy explanation
-- feat: fix swap function descriptions
-- chore: update flashloan execution section
-- docs: include liquidation strategy explanation
-- hotfix: refactor core functions for clarity
-- fix: clarify safety and helper functions
-- oops: update flashloan execution section
-- refactor: fix typos and formatting in tables
-- fix: add constructor details with deployment args
-- refactor: add profit handling workflow
-- chore: add profit handling workflow
-- fix: fix typos and formatting in tables
-- update: refactor core functions for clarity
-- update: update recommended usage instructions
-- update: improve Mermaid flowchart references
-- chore: enhance features and security considerations
-- hotfix: refresh deployment script instructions
-- visuals: refactor core functions for clarity
-- update: improve Mermaid flowchart references
-- refactor: adjust Arbitrum vs L1 network notes
-- feat: refactor core functions for clarity
-- docs: include XOR-based AuxLog explanation
-- docs: fix swap function descriptions
-- feat: update flashloan execution section
-- docs: update flashloan execution section
-- chore: update flashloan execution section
-- update: update flashloan execution section
-- refactor: refresh deployment script instructions
-- visuals: refresh deployment script instructions
-- oops: adjust Arbitrum vs L1 network notes
-- fix: refactor core functions for clarity
-- docs: include liquidation strategy explanation
-- oops: include XOR-based AuxLog explanation
-- chore: add constructor details with deployment args
-- visuals: refactor core functions for clarity
-- hotfix: include liquidation strategy explanation
-- feat: refresh deployment script instructions
-- hotfix: add constructor details with deployment args
-- update: include liquidation strategy explanation
-- feat: refresh deployment script instructions
-- chore: include liquidation strategy explanation
-- refactor: include liquidation strategy explanation
-- oops: add .env and private key setup guide
-- fix: refactor core functions for clarity
-- refactor: add profit handling workflow
-- feat: update recommended usage instructions
-- fix: refactor core functions for clarity
-- docs: update flashloan execution section
-- feat: add profit handling workflow
-- hotfix: fix typos and formatting in tables
-- visuals: update recommended usage instructions
-- refactor: update flashloan execution section
-- update: enhance features and security considerations
-- chore: include liquidation strategy explanation
-- feat: update flashloan execution section
-- fix: update flashloan execution section
-- docs: fix typos and formatting in tables
-- docs: include XOR-based AuxLog explanation
-- visuals: update flashloan execution section
-- visuals: update flashloan execution section
-- chore: refactor core functions for clarity
-- docs: refresh deployment script instructions
-- oops: fix typos and formatting in tables
-- fix: adjust Arbitrum vs L1 network notes
-- chore: adjust Arbitrum vs L1 network notes
-- fix: include liquidation strategy explanation
-- visuals: refresh deployment script instructions
-- feat: clarify safety and helper functions
-- fix: update recommended usage instructions
-- update: update recommended usage instructions
-- update: update recommended usage instructions
-- fix: include liquidation strategy explanation
-- docs: add constructor details with deployment args
-- hotfix: fix swap function descriptions
-- refactor: include XOR-based AuxLog explanation
-- fix: add profit handling workflow
-- feat: add profit handling workflow
-- hotfix: enhance features and security considerations
-- fix: include liquidation strategy explanation
-- feat: fix typos and formatting in tables
-- fix: add .env and private key setup guide
-- feat: improve Mermaid flowchart references
-- refactor: refresh deployment script instructions
-- hotfix: add constructor details with deployment args
-- visuals: refresh deployment script instructions
-- refactor: include liquidation strategy explanation
-- update: include XOR-based AuxLog explanation
-- oops: add .env and private key setup guide
-- fix: refactor core functions for clarity
-- hotfix: enhance features and security considerations
-- docs: fix typos and formatting in tables
-- hotfix: fix swap function descriptions
-- feat: include liquidation strategy explanation
-- oops: fix swap function descriptions
-- hotfix: adjust Arbitrum vs L1 network notes
-- refactor: add profit handling workflow
-- oops: include liquidation strategy explanation
-- feat: fix typos and formatting in tables
-- chore: update flashloan execution section
-- update: fix swap function descriptions
-- oops: clarify safety and helper functions
-- oops: update flashloan execution section
-- feat: clarify safety and helper functions
-- update: clarify safety and helper functions
-- docs: fix typos and formatting in tables
-- feat: adjust Arbitrum vs L1 network notes
-- chore: update recommended usage instructions
-- fix: enhance features and security considerations
-- refactor: add profit handling workflow
-- feat: fix typos and formatting in tables
-- visuals: refactor core functions for clarity
-- update: enhance features and security considerations
-- update: add constructor details with deployment args
-- visuals: improve Mermaid flowchart references
-- feat: enhance features and security considerations
-- fix: adjust Arbitrum vs L1 network notes
-- fix: include XOR-based AuxLog explanation
-- hotfix: adjust Arbitrum vs L1 network notes
-- visuals: fix swap function descriptions
-- chore: update recommended usage instructions
-- feat: clarify safety and helper functions
-- oops: add .env and private key setup guide
-- fix: update recommended usage instructions
-- fix: fix swap function descriptions
-- refactor: include XOR-based AuxLog explanation
-- update: refresh deployment script instructions
-- chore: add .env and private key setup guide
-- refactor: fix typos and formatting in tables
-- feat: include liquidation strategy explanation
-- oops: update recommended usage instructions
-- fix: fix typos and formatting in tables
-- fix: improve Mermaid flowchart references
-- hotfix: fix typos and formatting in tables
-- chore: include liquidation strategy explanation
-- visuals: update recommended usage instructions
-- update: update flashloan execution section
-- fix: update flashloan execution section
-- chore: enhance features and security considerations
-- feat: add .env and private key setup guide
-- feat: add constructor details with deployment args
-- refactor: refactor core functions for clarity
-- docs: adjust Arbitrum vs L1 network notes
-- update: improve Mermaid flowchart references
-- feat: add .env and private key setup guide
-- oops: add constructor details with deployment args
-- oops: refactor core functions for clarity
-- hotfix: add constructor details with deployment args
-- refactor: enhance features and security considerations
-- docs: include XOR-based AuxLog explanation
-- oops: update recommended usage instructions
-- oops: add .env and private key setup guide
-- hotfix: refactor core functions for clarity
-- docs: adjust Arbitrum vs L1 network notes
-- chore: improve Mermaid flowchart references
-- fix: include XOR-based AuxLog explanation
-- docs: clarify safety and helper functions
-- oops: add constructor details with deployment args
-- feat: add profit handling workflow
-- refactor: add .env and private key setup guide
-- hotfix: add profit handling workflow
-- feat: include XOR-based AuxLog explanation
-- visuals: refresh deployment script instructions
-- refactor: add profit handling workflow
-- hotfix: improve Mermaid flowchart references
-- fix: fix swap function descriptions
-- hotfix: clarify safety and helper functions
-- hotfix: refresh deployment script instructions
-- docs: fix swap function descriptions
-- docs: improve Mermaid flowchart references
-- feat: include liquidation strategy explanation
-- oops: add profit handling workflow
-- visuals: add .env and private key setup guide
-- visuals: enhance features and security considerations
-- refactor: enhance features and security considerations
-- hotfix: include XOR-based AuxLog explanation
-- refactor: fix swap function descriptions
-- hotfix: include liquidation strategy explanation
-- fix: enhance features and security considerations
-- oops: enhance features and security considerations
-- hotfix: include XOR-based AuxLog explanation
-- hotfix: add constructor details with deployment args
-- chore: adjust Arbitrum vs L1 network notes
-- hotfix: add .env and private key setup guide
-- chore: clarify safety and helper functions
-- oops: refactor core functions for clarity
-- chore: update recommended usage instructions
-- refactor: fix swap function descriptions
-- feat: fix typos and formatting in tables
-- oops: improve Mermaid flowchart references
-- feat: enhance features and security considerations
-- visuals: fix swap function descriptions
-- visuals: clarify safety and helper functions
-- feat: fix typos and formatting in tables
-- update: update recommended usage instructions
-- visuals: update flashloan execution section
-- fix: refactor core functions for clarity
-- refactor: add .env and private key setup guide
-- docs: adjust Arbitrum vs L1 network notes
-- fix: update flashloan execution section
-- refactor: include XOR-based AuxLog explanation
-- update: fix swap function descriptions
-- update: enhance features and security considerations
-- chore: add profit handling workflow
-- hotfix: include liquidation strategy explanation
-- refactor: include liquidation strategy explanation
-- oops: include XOR-based AuxLog explanation
-- update: update recommended usage instructions
-- update: clarify safety and helper functions
-- update: update recommended usage instructions
-- docs: fix swap function descriptions
-- docs: add constructor details with deployment args
-- docs: update flashloan execution section
-- refactor: improve Mermaid flowchart references
-- docs: refactor core functions for clarity
-- fix: include liquidation strategy explanation
-- oops: enhance features and security considerations
-- chore: refresh deployment script instructions
-- hotfix: improve Mermaid flowchart references
-- oops: improve Mermaid flowchart references
-- oops: update flashloan execution section
-- hotfix: add .env and private key setup guide
-- chore: fix typos and formatting in tables
-- hotfix: clarify safety and helper functions
-- feat: improve Mermaid flowchart references
-- update: clarify safety and helper functions
-- update: improve Mermaid flowchart references
-- update: add .env and private key setup guide
-- hotfix: clarify safety and helper functions
-- feat: enhance features and security considerations
-- oops: include XOR-based AuxLog explanation
-- chore: update flashloan execution section
-- docs: add profit handling workflow
-- visuals: fix swap function descriptions
-- oops: include liquidation strategy explanation
-- feat: improve Mermaid flowchart references
-- docs: enhance features and security considerations
-- fix: include XOR-based AuxLog explanation
-- docs: fix typos and formatting in tables
-- visuals: update recommended usage instructions
-- hotfix: update flashloan execution section
-- feat: add profit handling workflow
-- oops: improve Mermaid flowchart references
-- update: update recommended usage instructions
-- chore: refactor core functions for clarity
-- feat: improve Mermaid flowchart references
-- docs: include liquidation strategy explanation
-- hotfix: refactor core functions for clarity
-- hotfix: adjust Arbitrum vs L1 network notes
-- oops: update recommended usage instructions
-- refactor: update recommended usage instructions
-- visuals: include liquidation strategy explanation
-- visuals: add .env and private key setup guide
-- chore: update flashloan execution section
-- refactor: enhance features and security considerations
-- chore: include liquidation strategy explanation
-- docs: update flashloan execution section
-- oops: fix swap function descriptions
-- hotfix: update flashloan execution section
-- fix: add profit handling workflow
-- visuals: refresh deployment script instructions
