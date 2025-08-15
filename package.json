@@ -1,0 +1,52 @@
+{
+  "name": "uniswap-v3-arbitrage-sandwich-MEV-bot",
+  "version": "1.0.0",
+  "description": "Arbitrage Flashloan MEV bot core repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "hardhat compile",
+    "deploy": "node scripts/deploy.js",
+    "deploy:arbitrum": "node scripts/deploy.js --network arbitrum",
+    "deploy:mainnet": "node scripts/deploy.js --network mainnet",
+    "lint": "prettier --check '**/*.sol' '**/*.js'",
+    "format": "prettier --write '**/*.sol' '**/*.js'"
+  },
+  "keywords": [
+    "MEV",
+    "flashloan",
+    "arbitrage",
+    "Ethereum",
+    "Arbitrum"
+  ],
+  "author": "MEV Searcher Lab",
+  "license": "ISC",
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@noble/hashes": "^1.8.0",
+    "@noble/secp256k1": "^2.3.0",
+    "@openzeppelin/contracts": "^4.9.6",
+    "@tenderly/sdk": "^0.3.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.5.0",
+    "elliptic": "^6.6.1",
+    "ethereum-cryptography": "^3.2.0",
+    "ethers": "^6.10.0",
+    "graphql-request": "^7.2.0",
+    "hardhat": "^2.25.0",
+    "keccak256": "^1.0.6",
+    "langchain": "^0.3.29",
+    "openai": "^5.8.2",
+    "viem": "^2.31.4",
+    "web3": "^4.16.0",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "hardhat-contract-sizer": "^2.10.0",
+    "hardhat-dependency-compiler": "^1.2.1",
+    "prettier": "^3.6.2",
+    "prettier-plugin-solidity": "^2.0.0"
+  },
+  "_history": "update for prettier"
+}
