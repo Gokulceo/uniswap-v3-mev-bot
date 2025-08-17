@@ -115,18 +115,21 @@ sequenceDiagram
 
 ```mermaid
 flowchart TD
-    subgraph Manual[🧑‍💻 Manual Mode]
+    %% Manual human-driven path
+    subgraph Manual["🧑‍💻 Manual Mode"]
         O[Operator Input]
         C[control.js CLI]
     end
 
-    subgraph Autonomous[🤖 Audited Automation (Coming Soon)]
+    %% Autonomous path (audited automation coming soon)
+    subgraph Autonomous["🤖 Audited Automation (Coming Soon)"]
         G[GPT Router]
         S[Simulate Bundle]
         B[Bundle Sender]
         W[Watchdog]
     end
 
+    %% Connections
     O --> C -->|safe calls| X[MEVBotExecutor Contract]
     G & S & B & W -->|autonomous bundles| X
     X --> Y[(On-chain Profits)]
