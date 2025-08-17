@@ -12,7 +12,13 @@
     "lint": "prettier --check '**/*.sol' '**/*.js'",
     "format": "prettier --write '**/*.sol' '**/*.js'"
   },
-  "keywords": ["MEV", "flashloan", "arbitrage", "Ethereum", "Arbitrum"],
+  "keywords": [
+    "MEV",
+    "flashloan",
+    "arbitrage",
+    "Ethereum",
+    "Arbitrum"
+  ],
   "author": "MEV Searcher Lab",
   "license": "ISC",
   "dependencies": {
@@ -28,6 +34,7 @@
     "ethers": "^6.10.0",
     "graphql-request": "^7.2.0",
     "hardhat": "^2.25.0",
+    "inquirer": "^8.2.7",
     "keccak256": "^1.0.6",
     "langchain": "^0.3.29",
     "openai": "^5.8.2",
@@ -43,4 +50,3 @@
     "prettier-plugin-solidity": "^2.0.0"
   }
 }
-
