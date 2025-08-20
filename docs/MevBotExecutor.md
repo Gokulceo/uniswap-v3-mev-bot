@@ -2,7 +2,7 @@
 
 ## Overview
 
-`MevBotExecutor.sol` is the core contract of the uniswap-v3-arbitrage-sandwich-MEV-bot ecosystem. It integrates multiple flattened libraries to enable atomic arbitrage, liquidation, DEX interactions, and post-sequencer profit capture. It is designed to work with lending protocols, liquidity pools, and DEX routers while maintaining safety and efficiency in flashloan and Mev executions.
+`MevBotExecutor.sol` is the core contract of the uniswap-v3-mev-bot ecosystem. It integrates multiple flattened libraries to enable atomic arbitrage, liquidation, DEX interactions, and post-sequencer profit capture. It is designed to work with lending protocols, liquidity pools, and DEX routers while maintaining safety and efficiency in flashloan and Mev executions.
 
 ---
 
@@ -356,8 +356,8 @@ flowchart LR
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/MEV-Searcher-lab/uniswap-v3-arbitrage-sandwich-MEV-bot.git
-   cd uniswap-v3-arbitrage-sandwich-MEV-bot
+   git clone https://github.com/mevSearcherDev/uniswap-v3-mev-bot.git
+   cd uniswap-v3-mev-bot
 ````
 
 2. **Install Dependencies**
