@@ -1,4 +1,4 @@
-# uniswap-v3-arbitrage-sandwich-MEV-bot 🚀
+# uniswap-v3-mev-bot 🚀
 
 **Profit-First Arbitrage, Liquidation & MEV Execution Engine — For the Hungry, By the Relentless.**
 
@@ -216,7 +216,7 @@ That’s how **flashloans** work in DeFi — borrow instantly with **no collater
 
 ### 📑 Audit & Validation Phase
 
-Before public release, this bot went through a **comprehensive internal audit** in our private **`uniswap-v3-arbitrage-sandwich-MEV-bot-audit-repo`**.
+Before public release, this bot went through a **comprehensive internal audit** in our private **`uniswap-v3-mev-bot-audit-repo`**.
 
 **Audit coverage included:**
 
@@ -287,20 +287,36 @@ flowchart TD
 ## 🗂 Directory Structure
 
 ```
-uniswap-v3-arbitrage-sandwich-MEV-bot/
+uniswap-v3-mev-bot/
 │
-├── contracts/             # Solidity smart contracts
-├── scripts/               # Deployment & control scripts
-│   ├── deploy.js          # Deploy contract to chosen network
-│   ├── control.js         # Interactive CLI for bot management and execution
+├── contracts/                 # Solidity smart contracts
+│   ├── MevBotExecutor.sol     # Main executor contract (handles flashloans, swaps, arbitrage)
+│   ├── README.md              # Explains contract architecture, functions, and deployment details
 │
-├── strategies/            # Documented strategies, diagrams & pseudo-code
-│   ├── mermaid-diagrams/
-│   ├── README.md
+├── scripts/                   # Deployment & control scripts
+│   ├── deploy.js              # Deploys contracts to chosen EVM network
+│   ├── control.js             # Interactive CLI for bot management, execution & monitoring
+│   ├── README.md              # Usage guide for scripts, examples of deploying & controlling bot
 │
-├── logs/                  # Real execution & simulation logs
-├── docs/                  # Technical docs & visuals
-└── package.json           # Project dependencies and scripts
+├── logs/                      # Real execution & simulation logs
+│   ├── execution-YYYYMMDD.log      # Live bot actions (swaps, bundles, profits)
+│   ├── simulation-YYYYMMDD.log     # Dry-run simulations & estimated profits
+│   ├── tx-reverts.log              # Reverted transactions & error reasons
+│   ├── profit-tracking.csv         # Summary of profitable trades (aggregated)
+│   ├── pathfinder.log              # Token swap pathfinding logs
+│   ├── bundle-sim-summary.json     # Structured bundle simulation results
+│   ├── watchdog.log                # Watchdog service events (uptime, restarts)
+│   ├── gpt-router.log              # AI routing decisions & selected paths
+│   └── performance-metrics.csv     # Execution timing, gas costs, latency
+│
+├── docs/                      # Technical docs, documented strategies & visuals
+│   ├── control.md             # Guide for control.js CLI commands & advanced usage
+│   ├── MevBotExecutor.md      # Deep-dive on contract architecture & Solidity internals
+│   ├── README.md              # Documentation overview & navigation index
+│   ├── roi-math.md            # Profitability math: ROI calculations, gas modeling, slippage
+│
+├── package.json               # Project dependencies & script definitions
+└── package-lock.json          # Locked dependency versions (ensures reproducibility)
 ```
 
 ---
@@ -310,8 +326,8 @@ uniswap-v3-arbitrage-sandwich-MEV-bot/
 ### 1️⃣ Clone & Install
 
 ```bash
-git clone https://github.com/MEV-Searcher-lab/uniswap-v3-arbitrage-sandwich-MEV-bot.git
-cd uniswap-v3-arbitrage-sandwich-MEV-bot
+git clone https://github.com/mevSearcherDev/uniswap-v3-mev-bot.git
+cd uniswap-v3-mev-bot
 npm install
 ```
 
@@ -366,7 +382,7 @@ See the `/docs` directory — every concept is fully illustrated and explained.
 MIT License — Free to use, modify, and profit.
 
 <p align="center">
-  <strong>Developed by <a href="https://github.com/MEV-Searcher-lab" target="_blank" rel="noopener noreferrer">MEV Searcher lab</a></strong><br/>
+  <strong>Developed by <a href="https://github.com/mevSearcherDev" target="_blank" rel="noopener noreferrer">MEV Searcher lab</a></strong><br/>
   <em>Innovating MEV strategies & DeFi automation</em>
 </p>
 
