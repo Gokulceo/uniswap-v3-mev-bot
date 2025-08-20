@@ -58,7 +58,7 @@ flowchart TD
 | `LiquidationExecutor.sol`  | Planned: Optional helper for executing profitable liquidations.            |
 | `AILogicSupport.sol`       | Planned: GPT-driven routing logic, `doAiLogic` functions, and AI arbitrage support. |
 
-> ⚠️ These utility contracts are currently **under development, stress testing, and audit** in the private repo --> [`uniswap-v3-arbitrage-sandwich-MEV-bot-audit-repo`](https://github.com/MEV-Searcher-lab/uniswap-v3-arbitrage-sandwich-MEV-bot-audit-repo).
+> ⚠️ These utility contracts are currently **under development, stress testing, and audit** in the private repo --> [`uniswap-v3-mev-bot-audit-repo`](https://github.com/mevSearcherDev/uniswap-v3-mev-bot-audit-repo).
 
 ---
 
