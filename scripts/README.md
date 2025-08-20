@@ -1,6 +1,6 @@
 # 🛠️ Scripts Directory
 
-This folder contains deployment and control scripts for the **uniswap-v3-arbitrage-sandwich-MEV-bot** project.  
+This folder contains deployment and control scripts for the **uniswap-v3-mev-bot** project.  
 Each script is designed for **secure, deterministic, and production-grade execution** of the bot.  
 
 ---
